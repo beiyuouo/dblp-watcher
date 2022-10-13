@@ -43,7 +43,15 @@ jobs:
       - name: Run dblp watcher
         run: |
           cd src && python main.py run --env=${{ env.RUN_ENV }}
-          echo ${{ env.MSG }}
+
+      - name: Setup var
+        id: vars
+        run: |
+          content=${{ env.MSG }}
+          content="${content//'%'/'%25'}"
+          content="${content//$'\n'/'%0A'}"
+          content="${content//$'\r'/'%0D'}"
+          echo "::set-output name=content::$content"
       # ============================================
       # TODO [√] 更新仓库数据
       # ============================================
@@ -59,6 +67,6 @@ jobs:
         uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MSG: ${{ env.MSG }}
+          MSG: ${{ steps.vars.outputs.content }}
         with:
           filename: .github/issue-template.md
