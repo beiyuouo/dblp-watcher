@@ -58,7 +58,6 @@ jobs:
 
       - name: Push done work
         run: |
-          ls -al
           git diff --exit-code || git commit -am "automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
           git push --force origin main
 

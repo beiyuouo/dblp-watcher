@@ -1,0 +1,313 @@
+Federated graph|subgraph|gnn:
+- author: Zhen Wang, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding,
+    Jingren Zhou
+  title: 'FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package
+    for Federated Graph Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2204-05562
+  doi: 10.48550/ARXIV.2204.05562
+  ee: https://doi.org/10.48550/arXiv.2204.05562
+  url: https://dblp.org/rec/journals/corr/abs-2204-05562
+- author: Yeqing Qiu, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, Jing Xiao 0006
+  title: A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential
+    Privacy.
+  venue: KSEM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ksem/QiuHWH022
+  doi: 10.1007/978-3-031-10989-8_14
+  ee: https://doi.org/10.1007/978-3-031-10989-8_14
+  url: https://dblp.org/rec/conf/ksem/QiuHWH022
+- author: Ye Tao, Ying Li, Zhonghai Wu
+  title: 'SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.'
+  venue: PPSN
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ppsn/TaoLW22a
+  doi: 10.1007/978-3-031-14714-2_33
+  ee: https://doi.org/10.1007/978-3-031-14714-2_33
+  url: https://dblp.org/rec/conf/ppsn/TaoLW22a
+- author: Yeqing Qiu, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, Jing Xiao 0006
+  title: A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential
+    Privacy.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2206-03492
+  doi: 10.48550/ARXIV.2206.03492
+  ee: https://doi.org/10.48550/arXiv.2206.03492
+  url: https://dblp.org/rec/journals/corr/abs-2206-03492
+- author: Taolin Zhang, Chuan Chen 0001, Yaomin Chang, Lin Shu, Zibin Zheng
+  title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2208-13685
+  doi: 10.48550/ARXIV.2208.13685
+  ee: https://doi.org/10.48550/arXiv.2208.13685
+  url: https://dblp.org/rec/journals/corr/abs-2208-13685
+- author: Zeli Guan, Yawen Li, Zhe Xue, Yuxin Liu, Hongrui Gao, Yingxia Shao
+  title: Federated Graph Neural Network for Cross-graph Node Classification.
+  venue: CCIS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccis/GuanLXLGS21
+  doi: 10.1109/CCIS53392.2021.9754598
+  ee: https://doi.org/10.1109/CCIS53392.2021.9754598
+  url: https://dblp.org/rec/conf/ccis/GuanLXLGS21
+- author: Han Xie, Jing Ma 0005, Li Xiong 0001, Carl Yang
+  title: Federated Graph Classification over Non-IID Graphs.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/XieMXY21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/9c6947bd95ae487c81d4e19d3ed8cd6f-Abstract.html
+  url: https://dblp.org/rec/conf/nips/XieMXY21
+- author: Han Xie, Jing Ma 0005, Li Xiong 0001, Carl Yang
+  title: Federated Graph Classification over Non-IID Graphs.
+  venue: CoRR
+  year: '2021'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2106-13423
+  doi: ''
+  ee: https://arxiv.org/abs/2106.13423
+  url: https://dblp.org/rec/journals/corr/abs-2106-13423
+- author: Jinyin Chen, Guohan Huang, Shanqing Yu, Wenrong Jiang, Chen Cui
+  title: 'Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical
+    Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2110-06468
+  doi: ''
+  ee: https://arxiv.org/abs/2110.06468
+  url: https://dblp.org/rec/journals/corr/abs-2110-06468
+- author: Dongming Han, Wei Chen, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying Xu, Tianye
+    Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang
+  title: 'GraphFederator: Federated Visual Analysis for Multi-party Graphs.'
+  venue: CoRR
+  year: '2020'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2008-11989
+  doi: ''
+  ee: https://arxiv.org/abs/2008.11989
+  url: https://dblp.org/rec/journals/corr/abs-2008-11989
+- author: Binghui Wang, Ang Li 0005, Hai Li 0001, Yiran Chen 0001
+  title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
+    on Graphs.'
+  venue: CoRR
+  year: '2020'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2012-04187
+  doi: ''
+  ee: https://arxiv.org/abs/2012.04187
+  url: https://dblp.org/rec/journals/corr/abs-2012-04187
+- author: Zheshun Wu, Xiaoping Wu, Yunliang Long
+  title: Multi-Level Federated Graph Learning and Self-Attention Based Personalized
+    Wi-Fi Indoor Fingerprint Localization.
+  venue: IEEE Commun. Lett.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/icl/WuWL22
+  doi: 10.1109/LCOMM.2022.3159504
+  ee: https://doi.org/10.1109/LCOMM.2022.3159504
+  url: https://dblp.org/rec/journals/icl/WuWL22
+- author: Mingyang Chen, Wen Zhang 0015, Zonggang Yuan, Yantao Jia, Huajun Chen
+  title: Federated knowledge graph completion via embedding-contrastive learning.
+  venue: Knowl. Based Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ChenZYJC22
+  doi: 10.1016/J.KNOSYS.2022.109459
+  ee: https://doi.org/10.1016/j.knosys.2022.109459
+  url: https://dblp.org/rec/journals/kbs/ChenZYJC22
+- author: Wei Zhu 0015, Jiebo Luo, Andrew D. White
+  title: Federated learning of molecular properties with graph neural networks in
+    a heterogeneous setting.
+  venue: Patterns
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/patterns/ZhuLW22
+  doi: 10.1016/J.PATTER.2022.100521
+  ee: https://doi.org/10.1016/j.patter.2022.100521
+  url: https://dblp.org/rec/journals/patterns/ZhuLW22
+- author: Meng Jiang 0001, Taeho Jung, Ryan Karl, Tong Zhao 0003
+  title: Federated Dynamic Graph Neural Networks with Secure Aggregation for Video-based
+    Distributed Surveillance.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/JiangJKZ22
+  doi: 10.1145/3501808
+  ee: https://doi.org/10.1145/3501808
+  url: https://dblp.org/rec/journals/tist/JiangJKZ22
+- author: Zhiwei Liu, Liangwei Yang, Ziwei Fan, Hao Peng, Philip S. Yu
+  title: Federated Social Recommendation with Graph Neural Network.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/LiuYFPY22
+  doi: 10.1145/3501815
+  ee: https://doi.org/10.1145/3501815
+  url: https://dblp.org/rec/journals/tist/LiuYFPY22
+- author: Anshul Thakur, Pulkit Sharma, David A. Clifton
+  title: Dynamic Neural Graphs Based Federated Reptile for Semi-Supervised Multi-Tasking
+    in Healthcare Applications.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/ThakurSC22
+  doi: 10.1109/JBHI.2021.3134835
+  ee: https://doi.org/10.1109/JBHI.2021.3134835
+  url: https://dblp.org/rec/journals/titb/ThakurSC22
+- author: Fahao Chen, Peng Li 0017, Toshiaki Miyazaki, Celimuge Wu
+  title: 'FedGraph: Federated Graph Learning With Intelligent Sampling.'
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/ChenLMW22
+  doi: 10.1109/TPDS.2021.3125565
+  ee: https://doi.org/10.1109/TPDS.2021.3125565
+  url: https://dblp.org/rec/journals/tpds/ChenLMW22
+- author: Chaoyang He 0001, Emir Ceyani, Keshav Balasubramanian, Murali Annavaram,
+    Salman Avestimehr
+  title: 'SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural
+    Networks on Molecular Data.'
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/0001CBAA22
+  doi: ''
+  ee: https://ojs.aaai.org/index.php/AAAI/article/view/20643
+  url: https://dblp.org/rec/conf/aaai/0001CBAA22
+- author: Vinay Chakravarthi Gogineni, Stefan Werner 0001, Yih-Fang Huang, Anthony
+    Kuh
+  title: Decentralized Graph Federated Multitask Learning for Streaming Data.
+  venue: CISS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ciss/GogineniWHK22
+  doi: 10.1109/CISS53076.2022.9751160
+  ee: https://doi.org/10.1109/CISS53076.2022.9751160
+  url: https://dblp.org/rec/conf/ciss/GogineniWHK22
+- author: Harlin Lee, Andrea L. Bertozzi, Jelena Kovacevic, Yuejie Chi
+  title: 'Privacy-Preserving Federated Multi-Task Linear Regression: A One-Shot Linear
+    Mixing Approach Inspired By Graph Regularization.'
+  venue: ICASSP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/LeeBKC22
+  doi: 10.1109/ICASSP43922.2022.9746007
+  ee: https://doi.org/10.1109/ICASSP43922.2022.9746007
+  url: https://dblp.org/rec/conf/icassp/LeeBKC22
+- author: Boning Li, Ananthram Swami, Santiago Segarra
+  title: Power Allocation for Wireless Federated Learning Using Graph Neural Networks.
+  venue: ICASSP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/LiSS22
+  doi: 10.1109/ICASSP43922.2022.9747764
+  ee: https://doi.org/10.1109/ICASSP43922.2022.9747764
+  url: https://dblp.org/rec/conf/icassp/LiSS22
+- author: "Sergi Nadal, Alberto Abell\xF3, Oscar Romero 0001, Stijn Vansummeren, Panos\
+    \ Vassiliadis"
+  title: Graph-Driven Federated Data Management (Extended Abstract).
+  venue: ICDE
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/NadalARVV22
+  doi: 10.1109/ICDE53745.2022.00130
+  ee: https://doi.org/10.1109/ICDE53745.2022.00130
+  url: https://dblp.org/rec/conf/icde/NadalARVV22
+- author: Chang Liu, Chenfei Lou, Runzhong Wang, Alan Yuhan Xi, Li Shen, Junchi Yan
+  title: Deep Neural Network Fusion via Graph Matching with Applications to Model
+    Ensemble and Federated Learning.
+  venue: ICML
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/LiuLWXSY22
+  doi: ''
+  ee: https://proceedings.mlr.press/v162/liu22k.html
+  url: https://dblp.org/rec/conf/icml/LiuLWXSY22
+- author: Chaochao Chen 0001, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia
+    Wu, Bingzhe Wu, Ziqi Liu, Li Wang, Xiaolin Zheng
+  title: Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0001ZZWLWWLWZ22
+  doi: 10.24963/IJCAI.2022/272
+  ee: https://doi.org/10.24963/ijcai.2022/272
+  url: https://dblp.org/rec/conf/ijcai/0001ZZWLWWLWZ22
+- author: Mingyang Chen, Wen Zhang 0015, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei
+    Huang, Huajun Chen
+  title: Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated
+    Setting.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Chen0YCDHC22
+  doi: 10.24963/IJCAI.2022/273
+  ee: https://doi.org/10.24963/ijcai.2022/273
+  url: https://dblp.org/rec/conf/ijcai/Chen0YCDHC22
+- author: Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou, Jing Jiang 0002
+  title: Personalized Federated Learning With a Graph.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenLWZ022
+  doi: 10.24963/IJCAI.2022/357
+  ee: https://doi.org/10.24963/ijcai.2022/357
+  url: https://dblp.org/rec/conf/ijcai/ChenLWZ022
+- author: Huailiang Peng, Yujun Zhang, Hao Sun, Xu Bai, Yangyang Li, Shuhai Wang
+  title: Domain-Aware Federated Social Bot Detection with Multi-Relational Graph Neural
+    Networks.
+  venue: IJCNN
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcnn/PengZSBLW22
+  doi: 10.1109/IJCNN55064.2022.9892366
+  ee: https://doi.org/10.1109/IJCNN55064.2022.9892366
+  url: https://dblp.org/rec/conf/ijcnn/PengZSBLW22
+- author: Hanbiao Du, Meng Shen, Rungeng Sun, Jizhe Jia, Liehuang Zhu, Yanlong Zhai
+  title: Malicious Transaction Identification in Digital Currency via Federated Graph
+    Deep Learning.
+  venue: INFOCOM Workshops
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/infocom/DuSSJZZ22
+  doi: 10.1109/INFOCOMWKSHPS54753.2022.9797992
+  ee: https://doi.org/10.1109/INFOCOMWKSHPS54753.2022.9797992
+  url: https://dblp.org/rec/conf/infocom/DuSSJZZ22
