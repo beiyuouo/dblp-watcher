@@ -7,9 +7,7 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
-  issues: write
+permissions: write-all
 
 jobs:
   build:
@@ -60,6 +58,7 @@ jobs:
 
       - name: Push done work
         run: |
+          ls -al
           git diff --exit-code || git commit -am "automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
           git push --force origin main
 
