@@ -62,8 +62,6 @@ class Scaffold:
             with open(env_file, "a") as efile:
                 efile.write("MSG=" + msg)
 
-        exit(0)
-
 
 if __name__ == "__main__":
     Fire(Scaffold)

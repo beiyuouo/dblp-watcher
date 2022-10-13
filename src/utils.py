@@ -28,6 +28,7 @@ def init_log():
 
 def init_path(cfg):
     cfg["cache_path"] = Path("./../cached")
+    cfg["cache_path"].mkdir(parents=True, exist_ok=True)
 
     return cfg
 
