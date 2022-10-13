@@ -1,0 +1,6 @@
+dblp:
+  url: https://dblp.org/search/publ/api?q={}&format=json
+  topics:
+    - "Federated graph|subgraph|gnn"
+  mails:
+    - "bj.yan.pa@qq.com"
