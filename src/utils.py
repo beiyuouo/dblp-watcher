@@ -92,6 +92,6 @@ def get_msg(items, topic):
         msg += f"[{item['title']}]({item['url']})\\n"
         msg += f"- Authors: {item['author']}\\n"
         msg += f"- Venue: {item['venue']}\\n"
-        msg += f"- Year: {item['year']}\\n"
+        msg += f"- Year: {item['year']}\\n\\n"
 
     return msg
