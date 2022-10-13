@@ -36,9 +36,9 @@ jobs:
       # ============================================
       # TODO [√] 测试 Scaffold 脚手架指令
       # ============================================
-      - name: Run daily arxiv
+      - name: Run dblp watcher
         run: |
-          python main.py run --env=${{ env.RUN_ENV }}
+          cd src && python main.py run --env=${{ env.RUN_ENV }}
       # ============================================
       # TODO [√] 更新仓库数据
       # ============================================
