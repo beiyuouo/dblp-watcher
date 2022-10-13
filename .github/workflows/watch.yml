@@ -47,13 +47,13 @@ jobs:
 
       - name: Push done work
         run: |
-          git diff --exit-code || git commit -am "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
+          git diff --exit-code || git commit -am "automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') ${{ env.TZ }}"
           git push --force origin main
-      # ============================================
-      # TODO [√] 更新 mkdocs
-      # ============================================
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
+
+      - name: Create an issue for new papers
+        uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REQUIREMENTS: requirements-mkdocs.txt
+          MSG: ${{ env.MSG }}
+        with:
+          filename: .github/issue-template.md

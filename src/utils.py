@@ -81,3 +81,16 @@ def get_dblp_items(dblp_data):
         res_items.append(res_item)
 
     return res_items
+
+
+def get_msg(items, topic):
+    msg = f"## {topic}\n\n"
+    msg += f"""Explore {len(items)} new papers about {topic} on dblp!!!\n\n"""
+
+    for item in items:
+        msg += f"[{item['title']}]({item['url']})\n"
+        msg += f"- Authors: {item['author']}\n"
+        msg += f"- Venue: {item['venue']}\n"
+        msg += f"- Year: {item['year']}\n"
+
+    return msg

@@ -1,6 +1,6 @@
 from loguru import logger
 from fire import Fire
-from utils import init, get_dblp_items
+from utils import get_msg, init, get_dblp_items
 import yaml
 import requests
 
@@ -25,9 +25,9 @@ class Scaffold:
         dblp_new_cache = {}
 
         dblp_url = cfg["dblp"]["url"]
-        mails = cfg["dblp"]["mails"]
+        msg = ""
         for topic in cfg["dblp"]["topics"]:
-            logger.info(f"topic: {topic}, mails: {mails}")
+            logger.info(f"topic: {topic}")
 
             # get dblp data
             dblp_data = requests.get(dblp_url.format(topic)).json()
@@ -48,8 +48,19 @@ class Scaffold:
 
             logger.info(f"new_items: {new_items}")
 
+            msg += get_msg(new_items, topic)
+            logger.info(f"msg: {msg}")
+
         # save cache
         yaml.safe_dump(dblp_cache, open(cache_path, "w"), sort_keys=False, indent=2)
+
+        if env == "prod":
+            import os
+
+            env_file = os.getenv("GITHUB_ENV")
+
+            with open(env_file, "a") as efile:
+                efile.write("MSG=" + msg)
 
 
 if __name__ == "__main__":
