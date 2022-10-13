@@ -26,6 +26,8 @@ class Scaffold:
 
         dblp_url = cfg["dblp"]["url"]
         msg = ""
+        flag = False
+
         for topic in cfg["dblp"]["topics"]:
             logger.info(f"topic: {topic}")
 
@@ -48,6 +50,9 @@ class Scaffold:
 
             logger.info(f"new_items: {new_items}")
 
+            if len(new_items) > 0:
+                flag = True
+
             msg += get_msg(new_items, topic)
             logger.info(f"msg: {msg}")
 
@@ -59,8 +64,9 @@ class Scaffold:
 
             env_file = os.getenv("GITHUB_ENV")
 
-            with open(env_file, "a") as efile:
-                efile.write("MSG=$'" + msg + "'")
+            if flag:
+                with open(env_file, "a") as f:
+                    f.write("MSG=$'" + msg + "'")
 
 
 if __name__ == "__main__":
