@@ -43,7 +43,6 @@ jobs:
       - name: Run dblp watcher
         run: |
           cd src && python main.py run --env=${{ env.RUN_ENV }}
-          echo ${{ `env.MSG` }}
           echo ${{ env.MSG }}
       # ============================================
       # TODO [√] 更新仓库数据
