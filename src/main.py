@@ -60,7 +60,7 @@ class Scaffold:
             env_file = os.getenv("GITHUB_ENV")
 
             with open(env_file, "a") as efile:
-                efile.write("MSG=$" + msg)
+                efile.write("MSG=$'" + msg + "'")
 
 
 if __name__ == "__main__":
