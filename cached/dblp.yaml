@@ -334,3 +334,13 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3511808.3557495
   ee: https://doi.org/10.1145/3511808.3557495
   url: https://dblp.org/rec/conf/cikm/YangLBS0LSA22
+- author: Pouya M. Ghari, Yanning Shen
+  title: Graph-Assisted Communication-Efficient Ensemble Federated Learning.
+  venue: EUSIPCO
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eusipco/GhariS22
+  doi: ''
+  ee: https://ieeexplore.ieee.org/document/9909826
+  url: https://dblp.org/rec/conf/eusipco/GhariS22
