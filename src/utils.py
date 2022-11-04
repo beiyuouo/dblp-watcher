@@ -80,7 +80,7 @@ def get_dblp_items(dblp_data):
             "url",
         ]
         for key in needed_keys:
-            res_item[key] = get_item_info(item["info"], key)
+            res_item[key] = get_item_info(item["info"], key).replace("'", "")
 
         res_items.append(res_item)
 
