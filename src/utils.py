@@ -60,7 +60,10 @@ def get_dblp_items(dblp_data):
         res_item = {}
         # format author
         authors = get_item_info(item["info"], "authors")
-        authors = [author["text"] for author in authors["author"]]
+        try:
+            authors = [author["text"] for author in authors["author"]]
+        except TypeError:
+            authors = [authors["author"]["text"]]
 
         logger.info(f"authors: {authors}")
 
