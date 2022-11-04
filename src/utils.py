@@ -80,7 +80,8 @@ def get_dblp_items(dblp_data):
             "url",
         ]
         for key in needed_keys:
-            res_item[key] = get_item_info(item["info"], key).replace("'", "")
+            key_temp = get_item_info(item["info"], key)
+            res_item[key] = key_temp if key_temp else ""
 
         res_items.append(res_item)
 
@@ -97,4 +98,5 @@ def get_msg(items, topic):
         msg += f"- Venue: {item['venue']}\\n"
         msg += f"- Year: {item['year']}\\n\\n"
 
+    msg = msg.replace("'", "")
     return msg
