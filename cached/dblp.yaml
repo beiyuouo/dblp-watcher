@@ -1870,3 +1870,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/RIDE.1993.281921
   ee: https://doi.org/10.1109/RIDE.1993.281921
   url: https://dblp.org/rec/conf/ride/PrabhakarHRSEHNSF93
+- author: Samuel Maddock, Graham Cormode, Tianhao Wang 0001, Carsten Maple, Somesh
+    Jha
+  title: Federated Boosted Decision Trees with Differential Privacy.
+  venue: CCS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ccs/MaddockC0MJ22
+  doi: 10.1145/3548606.3560687
+  ee: https://doi.org/10.1145/3548606.3560687
+  url: https://dblp.org/rec/conf/ccs/MaddockC0MJ22
