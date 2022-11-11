@@ -1154,6 +1154,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-540-76298-0_16
   ee: https://doi.org/10.1007/978-3-540-76298-0_16
   url: https://dblp.org/rec/conf/semweb/HarthUHD07
+- author: Quan Li, Xiguang Wei, Huanbin Lin, Yang Liu, Tianjian Chen, Xiaojuan Ma
+  title: Inspecting the Running Process of Horizontal Federated Learning via Visual
+    Analytics.
+  venue: IEEE Trans. Vis. Comput. Graph.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tvcg/LiWLLCM22
+  doi: 10.1109/TVCG.2021.3074010
+  ee: https://doi.org/10.1109/TVCG.2021.3074010
+  url: https://dblp.org/rec/journals/tvcg/LiWLLCM22
+- author: "David Chaves-Fraga, Claudio Gutierrez 0001, \xD3scar Corcho"
+  title: On the Role of the GRAPH Clause in the Performance of Federated SPARQL Queries.
+  venue: PROFILES@ISWC
+  year: '2017'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/semweb/Chaves-FragaGC17
+  doi: ''
+  ee: http://ceur-ws.org/Vol-1927/paper7.pdf
+  url: https://dblp.org/rec/conf/semweb/Chaves-FragaGC17
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
