@@ -1902,3 +1902,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1145/3548606.3560687
   ee: https://doi.org/10.1145/3548606.3560687
   url: https://dblp.org/rec/conf/ccs/MaddockC0MJ22
+- author: Jinpeng Hou, Mang Su, Anmin Fu, Yan Yu
+  title: Verifiable Privacy-Preserving Scheme Based on Vertical Federated Random Forest.
+  venue: IEEE Internet Things J.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/HouSFY22
+  doi: 10.1109/JIOT.2021.3090951
+  ee: https://doi.org/10.1109/JIOT.2021.3090951
+  url: https://dblp.org/rec/journals/iotj/HouSFY22
