@@ -1175,6 +1175,17 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: http://ceur-ws.org/Vol-1927/paper7.pdf
   url: https://dblp.org/rec/conf/semweb/Chaves-FragaGC17
+- author: Yuhang Yao, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen, Carlee Joe-Wong,
+    Tianqiang Liu
+  title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-06812
+  doi: 10.48550/ARXIV.2211.06812
+  ee: https://doi.org/10.48550/arXiv.2211.06812
+  url: https://dblp.org/rec/journals/corr/abs-2211-06812
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -1912,3 +1923,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/JIOT.2021.3090951
   ee: https://doi.org/10.1109/JIOT.2021.3090951
   url: https://dblp.org/rec/journals/iotj/HouSFY22
+- author: Xiaoqing Tan, Chung-Chou H. Chang, Lu Tang 0003
+  title: A Tree-based Federated Learning Approach for Personalized Treatment Effect
+    Estimation from Heterogeneous Data Sources.
+  venue: CoRR
+  year: '2021'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2103-06261
+  doi: ''
+  ee: https://arxiv.org/abs/2103.06261
+  url: https://dblp.org/rec/journals/corr/abs-2103-06261
