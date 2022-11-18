@@ -1186,6 +1186,28 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2211.06812
   ee: https://doi.org/10.48550/arXiv.2211.06812
   url: https://dblp.org/rec/journals/corr/abs-2211-06812
+- author: Zheng Li, Muhammad Bilal 0003, Xiaolong Xu 0001, Jielin Jiang, Yan Cui
+  title: Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural
+    Networks.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/LiBXJC23
+  doi: 10.1109/TII.2022.3203395
+  ee: https://doi.org/10.1109/TII.2022.3203395
+  url: https://dblp.org/rec/journals/tii/LiBXJC23
+- author: Yupei Zhang, Shuangshuang Wei, Shuhui Liu, Yifei Wang, Yunan Xu, Yuxin Li,
+    Xuequn Shang
+  title: Graph-regularized federated learning with shareable side information.
+  venue: Knowl. Based Syst.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/kbs/ZhangWLWXLS22
+  doi: 10.1016/J.KNOSYS.2022.109960
+  ee: https://doi.org/10.1016/j.knosys.2022.109960
+  url: https://dblp.org/rec/journals/kbs/ZhangWLWXLS22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -1934,3 +1956,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://arxiv.org/abs/2103.06261
   url: https://dblp.org/rec/journals/corr/abs-2103-06261
+- author: Laizhong Cui, Jiating Ma, Yipeng Zhou, Shui Yu
+  title: Boosting Accuracy of Differentially Private Federated Learning in Industrial
+    IoT With Sparse Responses.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/CuiMZY23
+  doi: 10.1109/TII.2022.3161517
+  ee: https://doi.org/10.1109/TII.2022.3161517
+  url: https://dblp.org/rec/journals/tii/CuiMZY23
