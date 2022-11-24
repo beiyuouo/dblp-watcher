@@ -1208,6 +1208,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.KNOSYS.2022.109960
   ee: https://doi.org/10.1016/j.knosys.2022.109960
   url: https://dblp.org/rec/journals/kbs/ZhangWLWXLS22
+- author: Xinghan Wang, Anusha Lalitha, Tara Javidi, Farinaz Koushanfar
+  title: Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs.
+  venue: IEEE J. Sel. Areas Inf. Theory
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/jsait/WangLJK22
+  doi: 10.1109/JSAIT.2022.3189051
+  ee: https://doi.org/10.1109/JSAIT.2022.3189051
+  url: https://dblp.org/rec/journals/jsait/WangLJK22
+- author: Yijing Liu, Dongming Han, Jianwei Zhang, Haiyang Zhu, Mingliang Xu, Wei
+    Chen 0001
+  title: Federated Multi-task Graph Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/LiuHZZXC22
+  doi: 10.1145/3527622
+  ee: https://doi.org/10.1145/3527622
+  url: https://dblp.org/rec/journals/tist/LiuHZZXC22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -1967,3 +1988,37 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/TII.2022.3161517
   ee: https://doi.org/10.1109/TII.2022.3161517
   url: https://dblp.org/rec/journals/tii/CuiMZY23
+- author: Jiao Tian, Pei-Wei Tsai, Feiran Wang, Kai Zhang, Hongwang Xiao, Jinjun Chen
+  title: An optional splitting extraction based gain-AUPRC balanced strategy in federated
+    XGBoost for mitigating imbalanced credit card fraud detection.
+  venue: Int. J. Bio Inspired Comput.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ijbic/TianTWZXC22
+  doi: 10.1504/IJBIC.2022.10051791
+  ee: https://doi.org/10.1504/IJBIC.2022.10051791
+  url: https://dblp.org/rec/journals/ijbic/TianTWZXC22
+- author: Yang Liu 0118, Zhuo Ma, Yilong Yang 0004, Ximeng Liu, Jianfeng Ma 0001,
+    Kui Ren 0001
+  title: 'RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated
+    Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/LiuMYLMR22
+  doi: 10.1109/TDSC.2021.3104842
+  ee: https://doi.org/10.1109/TDSC.2021.3104842
+  url: https://dblp.org/rec/journals/tdsc/LiuMYLMR22
+- author: Lunchen Xie, Jiaqi Liu, Songtao Lu, Tsung-Hui Chang, Qingjiang Shi
+  title: An Efficient Learning Framework for Federated XGBoost Using Secret Sharing
+    and Distributed Optimization.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/XieLLCS22
+  doi: 10.1145/3523061
+  ee: https://doi.org/10.1145/3523061
+  url: https://dblp.org/rec/journals/tist/XieLLCS22
