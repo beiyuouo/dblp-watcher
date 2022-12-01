@@ -1250,6 +1250,18 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2211.13975
   ee: https://doi.org/10.48550/arXiv.2211.13975
   url: https://dblp.org/rec/journals/corr/abs-2211-13975
+- author: Daniel Manu, Yi Sheng, Junhuan Yang, Jieren Deng, Tong Geng, Ang Li 0006,
+    Caiwen Ding, Weiwen Jiang, Lei Yang
+  title: 'FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule
+    Drug Discovery: Special Session Paper.'
+  venue: ICCAD
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccad/ManuSYDGLDJY21
+  doi: 10.1109/ICCAD51958.2021.9643440
+  ee: https://doi.org/10.1109/ICCAD51958.2021.9643440
+  url: https://dblp.org/rec/conf/iccad/ManuSYDGLDJY21
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
