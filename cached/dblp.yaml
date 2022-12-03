@@ -1262,6 +1262,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICCAD51958.2021.9643440
   ee: https://doi.org/10.1109/ICCAD51958.2021.9643440
   url: https://dblp.org/rec/conf/iccad/ManuSYDGLDJY21
+- author: Zheng Wang, Xiaoliang Fan, Jianzhong Qi 0001, Haibing Jin, Peizhen Yang,
+    Siqi Shen, Cheng Wang 0003
+  title: 'FedGS: Federated Graph-based Sampling with Arbitrary Client Availability.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-13975
+  doi: 10.48550/ARXIV.2211.13975
+  ee: https://doi.org/10.48550/arXiv.2211.13975
+  url: https://dblp.org/rec/journals/corr/abs-2211-13975
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
