@@ -2119,3 +2119,27 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2211.14439
   ee: https://doi.org/10.48550/arXiv.2211.14439
   url: https://dblp.org/rec/journals/corr/abs-2211-14439
+- author: Tiansheng Huang, Weiwei Lin 0001, Wentai Wu, Ligang He, Keqin Li 0001, Albert
+    Y. Zomaya
+  title: An Efficiency-Boosting Client Selection Scheme for Federated Learning With
+    Fairness Guarantee.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/HuangLWHLZ21
+  doi: 10.1109/TPDS.2020.3040887
+  ee: https://doi.org/10.1109/TPDS.2020.3040887
+  url: https://dblp.org/rec/journals/tpds/HuangLWHLZ21
+- author: Tiansheng Huang, Weiwei Lin 0001, Wentai Wu, Ligang He, Keqin Li 0001, Albert
+    Y. Zomaya
+  title: An Efficiency-boosting Client Selection Scheme for Federated Learning with
+    Fairness Guarantee.
+  venue: CoRR
+  year: '2020'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2011-01783
+  doi: ''
+  ee: https://arxiv.org/abs/2011.01783
+  url: https://dblp.org/rec/journals/corr/abs-2011-01783
