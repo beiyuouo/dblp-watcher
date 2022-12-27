@@ -1208,6 +1208,124 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.KNOSYS.2022.109960
   ee: https://doi.org/10.1016/j.knosys.2022.109960
   url: https://dblp.org/rec/journals/kbs/ZhangWLWXLS22
+- author: Xinghan Wang, Anusha Lalitha, Tara Javidi, Farinaz Koushanfar
+  title: Peer-to-Peer Variational Federated Learning Over Arbitrary Graphs.
+  venue: IEEE J. Sel. Areas Inf. Theory
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/jsait/WangLJK22
+  doi: 10.1109/JSAIT.2022.3189051
+  ee: https://doi.org/10.1109/JSAIT.2022.3189051
+  url: https://dblp.org/rec/journals/jsait/WangLJK22
+- author: Yijing Liu, Dongming Han, Jianwei Zhang, Haiyang Zhu, Mingliang Xu, Wei
+    Chen 0001
+  title: Federated Multi-task Graph Learning.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/LiuHZZXC22
+  doi: 10.1145/3527622
+  ee: https://doi.org/10.1145/3527622
+  url: https://dblp.org/rec/journals/tist/LiuHZZXC22
+- author: Jing Xu, Rui Wang, Stefanos Koffas, Kaitai Liang, Stjepan Picek
+  title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
+    Networks.'
+  venue: ACSAC
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acsac/XuWKLP22
+  doi: 10.1145/3564625.3567999
+  ee: https://doi.org/10.1145/3564625.3567999
+  url: https://dblp.org/rec/conf/acsac/XuWKLP22
+- author: Carl Yang, Xiaoxiao Li, Nathalie Baracaldo, Neil Shah, Chaoyang He 0001,
+    Lingjuan Lyu, Lichao Sun 0001, Salman Avestimehr
+  title: The 1st International Workshop on Federated Learning with Graph Data (FedGraph).
+  venue: CIKM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cikm/YangLBS0LSA22
+  doi: 10.1145/3511808.3557495
+  ee: https://doi.org/10.1145/3511808.3557495
+  url: https://dblp.org/rec/conf/cikm/YangLBS0LSA22
+- author: Fengwen Chen, Guodong Long, Zonghan Wu, Tianyi Zhou 0001, Jing Jiang 0002
+  title: Personalized Federated Learning With a Graph.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/ChenLWZ022
+  doi: 10.24963/IJCAI.2022/357
+  ee: https://doi.org/10.24963/ijcai.2022/357
+  url: https://dblp.org/rec/conf/ijcai/ChenLWZ022
+- author: Kai Zhang 0039, Yu Wang, Hongyi Wang, Lifu Huang, Carl Yang, Lichao Sun
+    0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2203-09553
+  doi: 10.48550/ARXIV.2203.09553
+  ee: https://doi.org/10.48550/arXiv.2203.09553
+  url: https://dblp.org/rec/journals/corr/abs-2203-09553
+- author: Yue Tan, Yixin Liu, Guodong Long, Jing Jiang, Qinghua Lu 0001, Chengqi Zhang
+  title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-13009
+  doi: 10.48550/ARXIV.2211.13009
+  ee: https://doi.org/10.48550/arXiv.2211.13009
+  url: https://dblp.org/rec/journals/corr/abs-2211-13009
+- author: Zheng Wang, Xiaoliang Fan, Jianzhong Qi 0001, Haibing Jin, Peizhen Yang,
+    Siqi Shen, Cheng Wang 0003
+  title: 'FedGS: Federated Graph-based Sampling with Arbitrary Client Availability.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-13975
+  doi: 10.48550/ARXIV.2211.13975
+  ee: https://doi.org/10.48550/arXiv.2211.13975
+  url: https://dblp.org/rec/journals/corr/abs-2211-13975
+- author: Daniel Manu, Yi Sheng, Junhuan Yang, Jieren Deng, Tong Geng, Ang Li 0006,
+    Caiwen Ding, Weiwen Jiang, Lei Yang
+  title: 'FL-DISCO: Federated Generative Adversarial Network for Graph-based Molecule
+    Drug Discovery: Special Session Paper.'
+  venue: ICCAD
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccad/ManuSYDGLDJY21
+  doi: 10.1109/ICCAD51958.2021.9643440
+  ee: https://doi.org/10.1109/ICCAD51958.2021.9643440
+  url: https://dblp.org/rec/conf/iccad/ManuSYDGLDJY21
+- author: Ke Zhang, Carl Yang, Xiaoxiao Li, Lichao Sun 0001, Siu-Ming Yiu
+  title: Subgraph Federated Learning with Missing Neighbor Generation.
+  venue: NeurIPS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/nips/ZhangYLSY21
+  doi: ''
+  ee: https://proceedings.neurips.cc/paper/2021/hash/34adeb8e3242824038aa65460a47c29e-Abstract.html
+  url: https://dblp.org/rec/conf/nips/ZhangYLSY21
+- author: Ke Zhang, Carl Yang, Xiaoxiao Li, Lichao Sun 0001, Siu-Ming Yiu
+  title: Subgraph Federated Learning with Missing Neighbor Generation.
+  venue: CoRR
+  year: '2021'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2106-13430
+  doi: ''
+  ee: https://arxiv.org/abs/2106.13430
+  url: https://dblp.org/rec/journals/corr/abs-2106-13430
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -1967,3 +2085,93 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/TII.2022.3161517
   ee: https://doi.org/10.1109/TII.2022.3161517
   url: https://dblp.org/rec/journals/tii/CuiMZY23
+- author: Jiao Tian, Pei-Wei Tsai, Feiran Wang, Kai Zhang, Hongwang Xiao, Jinjun Chen
+  title: An optional splitting extraction based gain-AUPRC balanced strategy in federated
+    XGBoost for mitigating imbalanced credit card fraud detection.
+  venue: Int. J. Bio Inspired Comput.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/ijbic/TianTWZXC22
+  doi: 10.1504/IJBIC.2022.10051791
+  ee: https://doi.org/10.1504/IJBIC.2022.10051791
+  url: https://dblp.org/rec/journals/ijbic/TianTWZXC22
+- author: Yang Liu 0118, Zhuo Ma, Yilong Yang 0004, Ximeng Liu, Jianfeng Ma 0001,
+    Kui Ren 0001
+  title: 'RevFRF: Enabling Cross-Domain Random Forest Training With Revocable Federated
+    Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/LiuMYLMR22
+  doi: 10.1109/TDSC.2021.3104842
+  ee: https://doi.org/10.1109/TDSC.2021.3104842
+  url: https://dblp.org/rec/journals/tdsc/LiuMYLMR22
+- author: Lunchen Xie, Jiaqi Liu, Songtao Lu, Tsung-Hui Chang, Qingjiang Shi
+  title: An Efficient Learning Framework for Federated XGBoost Using Secret Sharing
+    and Distributed Optimization.
+  venue: ACM Trans. Intell. Syst. Technol.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tist/XieLLCS22
+  doi: 10.1145/3523061
+  ee: https://doi.org/10.1145/3523061
+  url: https://dblp.org/rec/journals/tist/XieLLCS22
+- author: Dongyuan Su, Yipeng Zhou, Laizhong Cui
+  title: Boost Decentralized Federated Learning in Vehicular Networks by Diversifying
+    Data Sources.
+  venue: ICNP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icnp/SuZC22
+  doi: 10.1109/ICNP55882.2022.9940426
+  ee: https://doi.org/10.1109/ICNP55882.2022.9940426
+  url: https://dblp.org/rec/conf/icnp/SuZC22
+- author: Shaoming Duan, Chuanyi Liu, Peiyi Han, Tianyu He, Yifeng Xu, Qiyuan Deng
+  title: 'Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data.'
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-13116
+  doi: 10.48550/ARXIV.2211.13116
+  ee: https://doi.org/10.48550/arXiv.2211.13116
+  url: https://dblp.org/rec/journals/corr/abs-2211-13116
+- author: Xiangping Kang, Guoxian Yu, Jun Wang, Wei Guo, Carlotta Domeniconi, Jinglin
+    Zhang
+  title: Incentive-boosted Federated Crowdsourcing.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-14439
+  doi: 10.48550/ARXIV.2211.14439
+  ee: https://doi.org/10.48550/arXiv.2211.14439
+  url: https://dblp.org/rec/journals/corr/abs-2211-14439
+- author: Tiansheng Huang, Weiwei Lin 0001, Wentai Wu, Ligang He, Keqin Li 0001, Albert
+    Y. Zomaya
+  title: An Efficiency-Boosting Client Selection Scheme for Federated Learning With
+    Fairness Guarantee.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2021'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/HuangLWHLZ21
+  doi: 10.1109/TPDS.2020.3040887
+  ee: https://doi.org/10.1109/TPDS.2020.3040887
+  url: https://dblp.org/rec/journals/tpds/HuangLWHLZ21
+- author: Tiansheng Huang, Weiwei Lin 0001, Wentai Wu, Ligang He, Keqin Li 0001, Albert
+    Y. Zomaya
+  title: An Efficiency-boosting Client Selection Scheme for Federated Learning with
+    Fairness Guarantee.
+  venue: CoRR
+  year: '2020'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2011-01783
+  doi: ''
+  ee: https://arxiv.org/abs/2011.01783
+  url: https://dblp.org/rec/journals/corr/abs-2011-01783
