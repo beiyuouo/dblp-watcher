@@ -1336,6 +1336,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/WCNC51071.2022.9771883
   ee: https://doi.org/10.1109/WCNC51071.2022.9771883
   url: https://dblp.org/rec/conf/wcnc/ZhangZYY22
+- author: "Sergi Nadal, Alberto Abell\xF3, Oscar Romero 0001, Stijn Vansummeren, Panos\
+    \ Vassiliadis"
+  title: Graph-Driven Federated Data Management.
+  venue: IEEE Trans. Knowl. Data Eng.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tkde/NadalARVV23
+  doi: 10.1109/TKDE.2021.3077044
+  ee: https://doi.org/10.1109/TKDE.2021.3077044
+  url: https://dblp.org/rec/journals/tkde/NadalARVV23
+- author: Yaqi Liu, Shuzhen Fang, Lingyu Wang, Chong Huan, Ruixue Wang
+  title: Neural graph collaborative filtering for privacy preservation based on federated
+    transfer learning.
+  venue: Electron. Libr.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/el/LiuFWHW22
+  doi: 10.1108/EL-06-2022-0141
+  ee: https://doi.org/10.1108/EL-06-2022-0141
+  url: https://dblp.org/rec/journals/el/LiuFWHW22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
