@@ -1380,6 +1380,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1108/EL-06-2022-0141
   ee: https://doi.org/10.1108/EL-06-2022-0141
   url: https://dblp.org/rec/journals/el/LiuFWHW22
+- author: Xumeng Wang, Wei Chen 0001, Jiazhi Xia, Zhen Wen, Rongchen Zhu, Tobias Schreck
+  title: 'HetVis: A Visual Analysis Approach for Identifying Data Heterogeneity in
+    Horizontal Federated Learning.'
+  venue: IEEE Trans. Vis. Comput. Graph.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tvcg/WangCXWZS23
+  doi: 10.1109/TVCG.2022.3209347
+  ee: https://doi.org/10.1109/TVCG.2022.3209347
+  url: https://dblp.org/rec/journals/tvcg/WangCXWZS23
+- author: Shuang Wu, Mingxuan Zhang, Yuantong Li, Carl Yang, Pan Li 0005
+  title: Graph Federated Learning with Hidden Representation Sharing.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2212-12158
+  doi: 10.48550/ARXIV.2212.12158
+  ee: https://doi.org/10.48550/arXiv.2212.12158
+  url: https://dblp.org/rec/journals/corr/abs-2212-12158
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
