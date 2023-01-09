@@ -1401,6 +1401,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2212.12158
   ee: https://doi.org/10.48550/arXiv.2212.12158
   url: https://dblp.org/rec/journals/corr/abs-2212-12158
+- author: Arash Rasti-Meymandi, Seyed Mohammad Sheikholeslami, Jamshid Abouei, Konstantinos
+    N. Plataniotis
+  title: Graph Federated Learning for CIoT Devices in Smart Home Applications.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2212-14395
+  doi: 10.48550/ARXIV.2212.14395
+  ee: https://doi.org/10.48550/arXiv.2212.14395
+  url: https://dblp.org/rec/journals/corr/abs-2212-14395
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
