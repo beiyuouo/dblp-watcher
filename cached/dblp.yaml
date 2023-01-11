@@ -1390,6 +1390,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2212.14395
   ee: https://doi.org/10.48550/arXiv.2212.14395
   url: https://dblp.org/rec/journals/corr/abs-2212-14395
+- author: Yue Tan, Yixin Liu, Guodong Long, Jing Jiang 0002, Qinghua Lu 0001, Chengqi
+    Zhang
+  title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+  venue: CoRR
+  year: '2022'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2211-13009
+  doi: 10.48550/ARXIV.2211.13009
+  ee: https://doi.org/10.48550/arXiv.2211.13009
+  url: https://dblp.org/rec/journals/corr/abs-2211-13009
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
