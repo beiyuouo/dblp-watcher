@@ -2293,3 +2293,15 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/S10489-022-03435-1
   ee: https://doi.org/10.1007/s10489-022-03435-1
   url: https://dblp.org/rec/journals/apin/HaffarSD23
+- author: Jiaqi Zhao 0005, Hui Zhu 0001, Wei Xu, Fengwei Wang, Rongxing Lu, Hui Li
+    0006
+  title: 'SGBoost: An Efficient and Privacy-Preserving Vertical Federated Tree Boosting
+    Framework.'
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ZhaoZXWLL23
+  doi: 10.1109/TIFS.2022.3232955
+  ee: https://doi.org/10.1109/TIFS.2022.3232955
+  url: https://dblp.org/rec/journals/tifs/ZhaoZXWLL23
