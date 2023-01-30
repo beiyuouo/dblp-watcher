@@ -1432,6 +1432,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3575637.3575644
   ee: https://doi.org/10.1145/3575637.3575644
   url: https://dblp.org/rec/journals/sigkdd/FuZDCL22
+- author: Chaochao Chen 0001, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia
+    Wu, Bingzhe Wu, Ziqi Liu, Li Wang 0056, Xiaolin Zheng
+  title: Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0001ZZWLWWLWZ22
+  doi: 10.24963/IJCAI.2022/272
+  ee: https://doi.org/10.24963/ijcai.2022/272
+  url: https://dblp.org/rec/conf/ijcai/0001ZZWLWWLWZ22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
