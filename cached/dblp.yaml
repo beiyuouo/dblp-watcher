@@ -1443,6 +1443,28 @@ Federated graph|subgraph|gnn:
   doi: 10.24963/IJCAI.2022/272
   ee: https://doi.org/10.24963/ijcai.2022/272
   url: https://dblp.org/rec/conf/ijcai/0001ZZWLWWLWZ22
+- author: Runze Lei, Pinghui Wang, Junzhou Zhao, Lin Lan, Jing Tao, Chao Deng, Junlan
+    Feng, Xidian Wang, Xiaohong Guan
+  title: Federated Learning over Coupled Graphs.
+  venue: CoRR
+  year: '2023'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2301-11099
+  doi: 10.48550/ARXIV.2301.11099
+  ee: https://doi.org/10.48550/arXiv.2301.11099
+  url: https://dblp.org/rec/journals/corr/abs-2301-11099
+- author: Marco Skocaj, Pedro Enrique Iturria Rivera, Roberto Verdone, Melike Erol-Kantarci
+  title: 'Uplink Scheduling in Federated Learning: an Importance-Aware Approach via
+    Graph Representation Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2301-11903
+  doi: 10.48550/ARXIV.2301.11903
+  ee: https://doi.org/10.48550/arXiv.2301.11903
+  url: https://dblp.org/rec/journals/corr/abs-2301-11903
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
