@@ -1465,6 +1465,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2301.11903
   ee: https://doi.org/10.48550/arXiv.2301.11903
   url: https://dblp.org/rec/journals/corr/abs-2301-11903
+- author: Binghui Wang, Ang Li 0005, Meng Pang, Hai Li, Yiran Chen 0001
+  title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
+    on Graphs.'
+  venue: ICDM
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdm/Wang0PL022
+  doi: 10.1109/ICDM54844.2022.00060
+  ee: https://doi.org/10.1109/ICDM54844.2022.00060
+  url: https://dblp.org/rec/conf/icdm/Wang0PL022
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
