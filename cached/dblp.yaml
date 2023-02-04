@@ -1476,6 +1476,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICDM54844.2022.00060
   ee: https://doi.org/10.1109/ICDM54844.2022.00060
   url: https://dblp.org/rec/conf/icdm/Wang0PL022
+- author: Dongming Han, Wei Chen 0001, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying
+    Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang
+  title: 'GraphFederator: Federated Visual Analysis for Multi-party Graphs.'
+  venue: CoRR
+  year: '2020'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2008-11989
+  doi: ''
+  ee: https://arxiv.org/abs/2008.11989
+  url: https://dblp.org/rec/journals/corr/abs-2008-11989
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
