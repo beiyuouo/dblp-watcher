@@ -1487,6 +1487,18 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://arxiv.org/abs/2008.11989
   url: https://dblp.org/rec/journals/corr/abs-2008-11989
+- author: Kai Zhang, Yu Wang, Hongyi Wang, Lifu Huang, Carl Yang, Xun Chen, Lichao
+    Sun 0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: EMNLP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ZhangWWHYC022
+  doi: ''
+  ee: https://aclanthology.org/2022.findings-emnlp.43
+  url: https://dblp.org/rec/conf/emnlp/ZhangWWHYC022
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
