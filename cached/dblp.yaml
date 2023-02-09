@@ -1499,6 +1499,17 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://aclanthology.org/2022.findings-emnlp.43
   url: https://dblp.org/rec/conf/emnlp/ZhangWWHYC022
+- author: Mengran Xia, Dawei Jin, Jingyu Chen
+  title: Short-Term Traffic Flow Prediction Based on Graph Convolutional Networks
+    and Federated Learning.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/XiaJC23
+  doi: 10.1109/TITS.2022.3179391
+  ee: https://doi.org/10.1109/TITS.2022.3179391
+  url: https://dblp.org/rec/journals/tits/XiaJC23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -2414,3 +2425,15 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2211.14439
   ee: https://doi.org/10.48550/arXiv.2211.14439
   url: https://dblp.org/rec/journals/corr/abs-2211-14439
+- author: Francesca Manni, Aleksandr Bukharev, Anshul Jain, Shiva Moorthy, Asif Rahman,
+    Anca Bucur
+  title: 'Neural gradient boosting in federated learning for hemodynamic instability
+    prediction: towards a distributed and scalable deep learning-based solution.'
+  venue: AMIA
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/amia/ManniBJMRB22
+  doi: ''
+  ee: https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321
+  url: https://dblp.org/rec/conf/amia/ManniBJMRB22
