@@ -1510,6 +1510,37 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TITS.2022.3179391
   ee: https://doi.org/10.1109/TITS.2022.3179391
   url: https://dblp.org/rec/journals/tits/XiaJC23
+- author: Geng Zhao, Yi Huang, Chi Hsu Tsai
+  title: 'FedGSL: Federated Graph Structure Learning for Local Subgraph Augmentation.'
+  venue: Big Data
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdataconf/ZhaoHT22
+  doi: 10.1109/BIGDATA55660.2022.10020771
+  ee: https://doi.org/10.1109/BigData55660.2022.10020771
+  url: https://dblp.org/rec/conf/bigdataconf/ZhaoHT22
+- author: Usman Ahmed, Jerry Chun-Wei Lin, Gautam Srivastava 0001
+  title: Hyper-Graph Attention Based Federated Learning Methods for Use in Mental
+    Health Detection.
+  venue: IEEE J. Biomed. Health Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/titb/AhmedLS23
+  doi: 10.1109/JBHI.2022.3172269
+  ee: https://doi.org/10.1109/JBHI.2022.3172269
+  url: https://dblp.org/rec/journals/titb/AhmedLS23
+- author: Xiangrong Zhu, Guangyao Li, Wei Hu
+  title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+  venue: CoRR
+  year: '2023'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2302-02069
+  doi: 10.48550/ARXIV.2302.02069
+  ee: https://doi.org/10.48550/arXiv.2302.02069
+  url: https://dblp.org/rec/journals/corr/abs-2302-02069
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -2437,3 +2468,23 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://knowledge.amia.org/76677-amia-1.4637602/f006-1.4642154/f006-1.4642155/917-1.4642324/604-1.4642321
   url: https://dblp.org/rec/conf/amia/ManniBJMRB22
+- author: Zilong Zhao 0001, Han Wu, Aad van Moorsel, Lydia Y. Chen
+  title: 'GTV: Generating Tabular Data via Vertical Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2302-01706
+  doi: 10.48550/ARXIV.2302.01706
+  ee: https://doi.org/10.48550/arXiv.2302.01706
+  url: https://dblp.org/rec/journals/corr/abs-2302-01706
+- author: Alberto Archetti, Matteo Matteucci
+  title: Federated Survival Forests.
+  venue: CoRR
+  year: '2023'
+  type: Informal Publications
+  access: open
+  key: journals/corr/abs-2302-02807
+  doi: 10.48550/ARXIV.2302.02807
+  ee: https://doi.org/10.48550/arXiv.2302.02807
+  url: https://dblp.org/rec/journals/corr/abs-2302-02807
