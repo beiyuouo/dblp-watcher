@@ -1541,6 +1541,642 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2302.02069
   ee: https://doi.org/10.48550/arXiv.2302.02069
   url: https://dblp.org/rec/journals/corr/abs-2302-02069
+- author: Zhen Wang, Weirui Kuang, Yuexiang Xie, Liuyi Yao, Yaliang Li, Bolin Ding,
+    Jingren Zhou
+  title: 'FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package
+    for Federated Graph Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2204-05562
+  doi: 10.48550/ARXIV.2204.05562
+  ee: https://doi.org/10.48550/arXiv.2204.05562
+  url: https://dblp.org/rec/journals/corr/abs-2204-05562
+- author: Yeqing Qiu, Chenyu Huang, Jianzong Wang, Zhangcheng Huang, Jing Xiao 0006
+  title: A Privacy-Preserving Subgraph-Level Federated Graph Neural Network via Differential
+    Privacy.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-03492
+  doi: 10.48550/ARXIV.2206.03492
+  ee: https://doi.org/10.48550/arXiv.2206.03492
+  url: https://dblp.org/rec/journals/corr/abs-2206-03492
+- author: Taolin Zhang, Chuan Chen 0001, Yaomin Chang, Lin Shu, Zibin Zheng
+  title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2208-13685
+  doi: 10.48550/ARXIV.2208.13685
+  ee: https://doi.org/10.48550/arXiv.2208.13685
+  url: https://dblp.org/rec/journals/corr/abs-2208-13685
+- author: Han Xie, Jing Ma 0005, Li Xiong 0001, Carl Yang
+  title: Federated Graph Classification over Non-IID Graphs.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-13423
+  doi: ''
+  ee: https://arxiv.org/abs/2106.13423
+  url: https://dblp.org/rec/journals/corr/abs-2106-13423
+- author: Jinyin Chen, Guohan Huang, Shanqing Yu, Wenrong Jiang, Chen Cui
+  title: 'Graph-Fraudster: Adversarial Attacks on Graph Neural Network Based Vertical
+    Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2110-06468
+  doi: ''
+  ee: https://arxiv.org/abs/2110.06468
+  url: https://dblp.org/rec/journals/corr/abs-2110-06468
+- author: Dongming Han, Wei Chen 0001, Rusheng Pan, Yijing Liu, Jiehui Zhou, Ying
+    Xu, Tianye Zhang, Changjie Fan, Jianrong Tao, Xiaolong Zhang
+  title: 'GraphFederator: Federated Visual Analysis for Multi-party Graphs.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2008-11989
+  doi: ''
+  ee: https://arxiv.org/abs/2008.11989
+  url: https://dblp.org/rec/journals/corr/abs-2008-11989
+- author: Binghui Wang, Ang Li 0005, Hai Li 0001, Yiran Chen 0001
+  title: 'GraphFL: A Federated Learning Framework for Semi-Supervised Node Classification
+    on Graphs.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2012-04187
+  doi: ''
+  ee: https://arxiv.org/abs/2012.04187
+  url: https://dblp.org/rec/journals/corr/abs-2012-04187
+- author: Runze Lei, Pinghui Wang, Junzhou Zhao, Lin Lan, Jing Tao, Chao Deng, Junlan
+    Feng, Xidian Wang, Xiaohong Guan
+  title: Federated Learning over Coupled Graphs.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2301-11099
+  doi: 10.48550/ARXIV.2301.11099
+  ee: https://doi.org/10.48550/arXiv.2301.11099
+  url: https://dblp.org/rec/journals/corr/abs-2301-11099
+- author: Marco Skocaj, Pedro Enrique Iturria Rivera, Roberto Verdone, Melike Erol-Kantarci
+  title: 'Uplink Scheduling in Federated Learning: an Importance-Aware Approach via
+    Graph Representation Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2301-11903
+  doi: 10.48550/ARXIV.2301.11903
+  ee: https://doi.org/10.48550/arXiv.2301.11903
+  url: https://dblp.org/rec/journals/corr/abs-2301-11903
+- author: Xiangrong Zhu, Guangyao Li, Wei Hu
+  title: Heterogeneous Federated Knowledge Graph Embedding Learning and Unlearning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-02069
+  doi: 10.48550/ARXIV.2302.02069
+  ee: https://doi.org/10.48550/arXiv.2302.02069
+  url: https://dblp.org/rec/journals/corr/abs-2302-02069
+- author: Or Litany, Haggai Maron, David Acuna, Jan Kautz, Gal Chechik, Sanja Fidler
+  title: Federated Learning with Heterogeneous Architectures using Graph HyperNetworks.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-08459
+  doi: ''
+  ee: https://arxiv.org/abs/2201.08459
+  url: https://dblp.org/rec/journals/corr/abs-2201-08459
+- author: Yuhang Yao, Carlee Joe-Wong
+  title: 'FedGCN: Convergence and Communication Tradeoffs in Federated Training of
+    Graph Convolutional Networks.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-12433
+  doi: ''
+  ee: https://arxiv.org/abs/2201.12433
+  url: https://dblp.org/rec/journals/corr/abs-2201-12433
+- author: Jing Xu, Rui Wang, Kaitai Liang, Stjepan Picek
+  title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
+    Networks.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-03195
+  doi: ''
+  ee: https://arxiv.org/abs/2202.03195
+  url: https://dblp.org/rec/journals/corr/abs-2202-03195
+- author: Rui Liu, Han Yu
+  title: 'Federated Graph Neural Networks: Overview, Techniques and Challenges.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-07256
+  doi: ''
+  ee: https://arxiv.org/abs/2202.07256
+  url: https://dblp.org/rec/journals/corr/abs-2202-07256
+- author: Pouya M. Ghari, Yanning Shen
+  title: Graph-Assisted Communication-Efficient Ensemble Federated Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-13447
+  doi: ''
+  ee: https://arxiv.org/abs/2202.13447
+  url: https://dblp.org/rec/journals/corr/abs-2202-13447
+- author: Elsa Rizk, Stefan Vlaski, Ali H. Sayed
+  title: Privatized Graph Federated Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-07105
+  doi: 10.48550/ARXIV.2203.07105
+  ee: https://doi.org/10.48550/arXiv.2203.07105
+  url: https://dblp.org/rec/journals/corr/abs-2203-07105
+- author: Kai Zhang 0039, Yu Wang, Hongyi Wang, Lifu Huang, Carl Yang, Lichao Sun
+    0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-09553
+  doi: 10.48550/ARXIV.2203.09553
+  ee: https://doi.org/10.48550/arXiv.2203.09553
+  url: https://dblp.org/rec/journals/corr/abs-2203-09553
+- author: Mingyang Chen, Wen Zhang 0015, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei
+    Huang, Huajun Chen
+  title: Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated
+    Setting.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-04692
+  doi: 10.48550/ARXIV.2205.04692
+  ee: https://doi.org/10.48550/arXiv.2205.04692
+  url: https://dblp.org/rec/journals/corr/abs-2205-04692
+- author: Tiehua Zhang, Yuze Liu, Zhishu Shen, Rui Xu, Xin Chen, Xiaowei Huang, Xi
+    Zheng 0001
+  title: 'FedRel: An Adaptive Federated Relevance Framework for Spatial Temporal Graph
+    Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-03420
+  doi: 10.48550/ARXIV.2206.03420
+  ee: https://doi.org/10.48550/arXiv.2206.03420
+  url: https://dblp.org/rec/journals/corr/abs-2206-03420
+- author: Huidong Wang, Chuanzheng Bai, Jinli Yao
+  title: Federated Graph Attention Network for Rumor Detection.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-05713
+  doi: 10.48550/ARXIV.2206.05713
+  ee: https://doi.org/10.48550/arXiv.2206.05713
+  url: https://dblp.org/rec/journals/corr/abs-2206-05713
+- author: Jinheon Baek, Wonyong Jeong, Jiongdao Jin, Jaehong Yoon, Sung Ju Hwang
+  title: Personalized Subgraph Federated Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2206-10206
+  doi: 10.48550/ARXIV.2206.10206
+  ee: https://doi.org/10.48550/arXiv.2206.10206
+  url: https://dblp.org/rec/journals/corr/abs-2206-10206
+- author: Dongqi Fu, Jingrui He, Hanghang Tong, Ross Maciejewski
+  title: 'Privacy-preserving Graph Analytics: Secure Generation and Federated Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-00048
+  doi: 10.48550/ARXIV.2207.00048
+  ee: https://doi.org/10.48550/arXiv.2207.00048
+  url: https://dblp.org/rec/journals/corr/abs-2207-00048
+- author: Luning Bi, Yunlong Wang 0001, Fan Zhang, Zhuqing Liu, Yong Cai, Emily Zhao
+  title: 'FD-GATDR: A Federated-Decentralized-Learning Graph Attention Network for
+    Doctor Recommendation Using EHR.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-05750
+  doi: 10.48550/ARXIV.2207.05750
+  ee: https://doi.org/10.48550/arXiv.2207.05750
+  url: https://dblp.org/rec/journals/corr/abs-2207-05750
+- author: Xingbo Fu, Binchi Zhang, Yushun Dong, Chen Chen, Jundong Li
+  title: 'Federated Graph Machine Learning: A Survey of Concepts, Techniques, and
+    Applications.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-11812
+  doi: 10.48550/ARXIV.2207.11812
+  ee: https://doi.org/10.48550/arXiv.2207.11812
+  url: https://dblp.org/rec/journals/corr/abs-2207-11812
+- author: Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu
+  title: Federated Graph Contrastive Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-11836
+  doi: 10.48550/ARXIV.2207.11836
+  ee: https://doi.org/10.48550/arXiv.2207.11836
+  url: https://dblp.org/rec/journals/corr/abs-2207-11836
+- author: Mehmet Yigit Balik, Arwa Rekik, Islem Rekik
+  title: Investigating the Predictive Reproducibility of Federated Graph Neural Networks
+    using Medical Datasets.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-06032
+  doi: 10.48550/ARXIV.2209.06032
+  ee: https://doi.org/10.48550/arXiv.2209.06032
+  url: https://dblp.org/rec/journals/corr/abs-2209-06032
+- author: Huiyuan Wang, Xuyang Zhao, Wei Lin
+  title: Heterogeneous Federated Learning on a Graph.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-08737
+  doi: 10.48550/ARXIV.2209.08737
+  ee: https://doi.org/10.48550/arXiv.2209.08737
+  url: https://dblp.org/rec/journals/corr/abs-2209-08737
+- author: Yang Lu, Zhengxin Yu, Neeraj Suri
+  title: Privacy-preserving Decentralized Federated Learning over Time-varying Communication
+    Graph.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-00325
+  doi: 10.48550/ARXIV.2210.00325
+  ee: https://doi.org/10.48550/arXiv.2210.00325
+  url: https://dblp.org/rec/journals/corr/abs-2210-00325
+- author: Tianyi Yu, Pei Lai, Fei Teng 0001
+  title: Federated Graph-based Networks with Shared Embedding.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-01803
+  doi: 10.48550/ARXIV.2210.01803
+  ee: https://doi.org/10.48550/arXiv.2210.01803
+  url: https://dblp.org/rec/journals/corr/abs-2210-01803
+- author: Junyi Li, Heng Huang
+  title: 'FedGRec: Federated Graph Recommender System with Lazy Update of Latent Embeddings.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-13686
+  doi: 10.48550/ARXIV.2210.13686
+  ee: https://doi.org/10.48550/arXiv.2210.13686
+  url: https://dblp.org/rec/journals/corr/abs-2210-13686
+- author: Susheel Suresh, Danny Godbout, Arko Mukherjee, Mayank Shrivastava, Jennifer
+    Neville, Pan Li 0005
+  title: Federated Graph Representation Learning using Self-Supervision.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-15120
+  doi: 10.48550/ARXIV.2210.15120
+  ee: https://doi.org/10.48550/arXiv.2210.15120
+  url: https://dblp.org/rec/journals/corr/abs-2210-15120
+- author: Yuxing Tian, Zheng Liu, Yanwen Qu
+  title: 'M3FGM: a node masking and multi-granularity message passing-based federated
+    graph model for spatial-temporal data prediction.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-16193
+  doi: 10.48550/ARXIV.2210.16193
+  ee: https://doi.org/10.48550/arXiv.2210.16193
+  url: https://dblp.org/rec/journals/corr/abs-2210-16193
+- author: Yuhang Yao, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen, Carlee Joe-Wong,
+    Tianqiang Liu
+  title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-06812
+  doi: 10.48550/ARXIV.2211.06812
+  ee: https://doi.org/10.48550/arXiv.2211.06812
+  url: https://dblp.org/rec/journals/corr/abs-2211-06812
+- author: Yue Tan, Yixin Liu, Guodong Long, Jing Jiang 0002, Qinghua Lu 0001, Chengqi
+    Zhang
+  title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-13009
+  doi: 10.48550/ARXIV.2211.13009
+  ee: https://doi.org/10.48550/arXiv.2211.13009
+  url: https://dblp.org/rec/journals/corr/abs-2211-13009
+- author: Zheng Wang, Xiaoliang Fan, Jianzhong Qi 0001, Haibing Jin, Peizhen Yang,
+    Siqi Shen, Cheng Wang 0003
+  title: 'FedGS: Federated Graph-based Sampling with Arbitrary Client Availability.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-13975
+  doi: 10.48550/ARXIV.2211.13975
+  ee: https://doi.org/10.48550/arXiv.2211.13975
+  url: https://dblp.org/rec/journals/corr/abs-2211-13975
+- author: Shuang Wu, Mingxuan Zhang, Yuantong Li, Carl Yang, Pan Li 0005
+  title: Graph Federated Learning with Hidden Representation Sharing.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2212-12158
+  doi: 10.48550/ARXIV.2212.12158
+  ee: https://doi.org/10.48550/arXiv.2212.12158
+  url: https://dblp.org/rec/journals/corr/abs-2212-12158
+- author: Arash Rasti-Meymandi, Seyed Mohammad Sheikholeslami, Jamshid Abouei, Konstantinos
+    N. Plataniotis
+  title: Graph Federated Learning for CIoT Devices in Smart Home Applications.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2212-14395
+  doi: 10.48550/ARXIV.2212.14395
+  ee: https://doi.org/10.48550/arXiv.2212.14395
+  url: https://dblp.org/rec/journals/corr/abs-2212-14395
+- author: Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang 0001, Xing Xie 0001
+  title: 'FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2102-04925
+  doi: ''
+  ee: https://arxiv.org/abs/2102.04925
+  url: https://dblp.org/rec/journals/corr/abs-2102-04925
+- author: Chunnan Wang, Bozhou Chen, Geng Li, Hongzhi Wang 0001
+  title: 'FL-AGCNS: Federated Learning Framework for Automatic Graph Convolutional
+    Network Search.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-04141
+  doi: ''
+  ee: https://arxiv.org/abs/2104.04141
+  url: https://dblp.org/rec/journals/corr/abs-2104-04141
+- author: Chaoyang He 0001, Keshav Balasubramanian, Emir Ceyani, Yu Rong, Peilin Zhao,
+    Junzhou Huang, Murali Annavaram, Salman Avestimehr
+  title: 'FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-07145
+  doi: ''
+  ee: https://arxiv.org/abs/2104.07145
+  url: https://dblp.org/rec/journals/corr/abs-2104-07145
+- author: Mingrui Cao, Long Zhang, Bin Cao
+  title: 'Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain
+    Approach.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-13092
+  doi: ''
+  ee: https://arxiv.org/abs/2104.13092
+  url: https://dblp.org/rec/journals/corr/abs-2104-13092
+- author: Elsa Rizk, Ali H. Sayed
+  title: A Graph Federated Architecture with Privacy Preserving Learning.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-13215
+  doi: ''
+  ee: https://arxiv.org/abs/2104.13215
+  url: https://dblp.org/rec/journals/corr/abs-2104-13215
+- author: "Debora Caldarola, Massimiliano Mancini, Fabio Galasso, Marco Ciccone, Emanuele\
+    \ Rodol\xE0, Barbara Caputo"
+  title: Cluster-driven Graph Federated Learning over Multiple Domains.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-14628
+  doi: ''
+  ee: https://arxiv.org/abs/2104.14628
+  url: https://dblp.org/rec/journals/corr/abs-2104-14628
+- author: Chuan Chen 0001, Weibo Hu, Ziyue Xu 0002, Zibin Zheng
+  title: 'FedGL: Federated Graph Learning Framework with Global Self-Supervision.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-03170
+  doi: ''
+  ee: https://arxiv.org/abs/2105.03170
+  url: https://dblp.org/rec/journals/corr/abs-2105-03170
+- author: Hao Peng, Haoran Li 0003, Yangqiu Song, Vincent W. Zheng, Jianxin Li 0002
+  title: Federated Knowledge Graphs Embedding.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-07615
+  doi: ''
+  ee: https://arxiv.org/abs/2105.07615
+  url: https://dblp.org/rec/journals/corr/abs-2105-07615
+- author: Huanding Zhang, Tao Shen, Fei Wu 0001, Mingyang Yin, Hongxia Yang, Chao
+    Wu 0001
+  title: Federated Graph Learning - A Position Paper.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-11099
+  doi: ''
+  ee: https://arxiv.org/abs/2105.11099
+  url: https://dblp.org/rec/journals/corr/abs-2105-11099
+- author: Chaoyang He 0001, Emir Ceyani, Keshav Balasubramanian, Murali Annavaram,
+    Salman Avestimehr
+  title: 'SpreadGNN: Serverless Multi-task Federated Learning for Graph Neural Networks.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-02743
+  doi: ''
+  ee: https://arxiv.org/abs/2106.02743
+  url: https://dblp.org/rec/journals/corr/abs-2106-02743
+- author: Chuizheng Meng, Sirisha Rambhatla, Yan Liu 0002
+  title: Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-05223
+  doi: ''
+  ee: https://arxiv.org/abs/2106.05223
+  url: https://dblp.org/rec/journals/corr/abs-2106-05223
+- author: Xiang Ni, Xiaolong Xu, Lingjuan Lyu, Changhua Meng, Weiqiang Wang
+  title: A Vertical Federated Learning Framework for Graph Convolutional Network.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-11593
+  doi: ''
+  ee: https://arxiv.org/abs/2106.11593
+  url: https://dblp.org/rec/journals/corr/abs-2106-11593
+- author: Ke Zhang, Carl Yang, Xiaoxiao Li, Lichao Sun 0001, Siu-Ming Yiu
+  title: Subgraph Federated Learning with Missing Neighbor Generation.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-13430
+  doi: ''
+  ee: https://arxiv.org/abs/2106.13430
+  url: https://dblp.org/rec/journals/corr/abs-2106-13430
+- author: Fahao Chen, Peng Li 0017, Toshiaki Miyazaki, Celimuge Wu
+  title: 'FedGraph: Federated Graph Learning with Intelligent Sampling.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-01370
+  doi: ''
+  ee: https://arxiv.org/abs/2111.01370
+  url: https://dblp.org/rec/journals/corr/abs-2111-01370
+- author: Guannan Lou, Yuze Liu, Tiehua Zhang, James Xi Zheng
+  title: 'STFL: A Temporal-Spatial Federated Learning Framework for Graph Neural Networks.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-06750
+  doi: ''
+  ee: https://arxiv.org/abs/2111.06750
+  url: https://dblp.org/rec/journals/corr/abs-2111-06750
+- author: Boning Li, Ananthram Swami, Santiago Segarra
+  title: Power Allocation for Wireless Federated Learning using Graph Neural Networks.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-07480
+  doi: ''
+  ee: https://arxiv.org/abs/2111.07480
+  url: https://dblp.org/rec/journals/corr/abs-2111-07480
+- author: Zhiwei Liu, Liangwei Yang, Ziwei Fan, Hao Peng, Philip S. Yu
+  title: Federated Social Recommendation with Graph Neural Network.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2111-10778
+  doi: ''
+  ee: https://arxiv.org/abs/2111.10778
+  url: https://dblp.org/rec/journals/corr/abs-2111-10778
+- author: Liang Peng, Nan Wang, Nicha C. Dvornek, Xiaofeng Zhu 0001, Xiaoxiao Li
+  title: 'FedNI: Federated Graph Learning with Network Inpainting for Population-Based
+    Disease Prediction.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2112-10166
+  doi: ''
+  ee: https://arxiv.org/abs/2112.10166
+  url: https://dblp.org/rec/journals/corr/abs-2112-10166
+- author: Meng Jiang 0001, Taeho Jung, Ryan Karl, Tong Zhao 0003
+  title: Federated Dynamic GNN with Secure Aggregation.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2009-07351
+  doi: ''
+  ee: https://arxiv.org/abs/2009.07351
+  url: https://dblp.org/rec/journals/corr/abs-2009-07351
+- author: Mingyang Chen, Wen Zhang 0015, Zonggang Yuan, Yantao Jia, Huajun Chen
+  title: 'FedE: Embedding Knowledge Graphs in Federated Setting.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2010-12882
+  doi: ''
+  ee: https://arxiv.org/abs/2010.12882
+  url: https://dblp.org/rec/journals/corr/abs-2010-12882
+- author: Longfei Zheng, Jun Zhou 0011, Chaochao Chen 0001, Bingzhe Wu, Li Wang 0056,
+    Benyu Zhang
+  title: 'ASFGNN: Automated Separated-Federated Graph Neural Network.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-03248
+  doi: ''
+  ee: https://arxiv.org/abs/2011.03248
+  url: https://dblp.org/rec/journals/corr/abs-2011-03248
+- author: Anusha Lalitha, Osman Cihan Kilinc, Tara Javidi, Farinaz Koushanfar
+  title: Peer-to-peer Federated Learning on Graphs.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1901-11173
+  doi: ''
+  ee: http://arxiv.org/abs/1901.11173
+  url: https://dblp.org/rec/journals/corr/abs-1901-11173
+- author: Toyotaro Suzumura, Yi Zhou 0015, Nathalie Barcardo, Guangnan Ye, Keith Houck,
+    Ryo Kawahara, Ali Anwar 0001, Lucia Larise Stavarache, Daniel Klyashtorny, Heiko
+    Ludwig, Kumar Bhaskaran
+  title: Towards Federated Graph Learning for Collaborative Financial Crimes Detection.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1909-12946
+  doi: ''
+  ee: http://arxiv.org/abs/1909.12946
+  url: https://dblp.org/rec/journals/corr/abs-1909-12946
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -2488,3 +3124,416 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2302.02807
   ee: https://doi.org/10.48550/arXiv.2302.02807
   url: https://dblp.org/rec/journals/corr/abs-2302-02807
+- author: Yujin Han, Pan Du, Kai Yang
+  title: 'FedGBF: An efficient vertical federated learning framework via gradient
+    boosting and bagging.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2204-00976
+  doi: 10.48550/ARXIV.2204.00976
+  ee: https://doi.org/10.48550/arXiv.2204.00976
+  url: https://dblp.org/rec/journals/corr/abs-2204-00976
+- author: Xiaochen Li, Yuke Hu, Weiran Liu, Hanwen Feng 0001, Li Peng, Yuan Hong,
+    Kui Ren 0001, Zhan Qin
+  title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
+    Desensitization.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-01318
+  doi: 10.48550/ARXIV.2210.01318
+  ee: https://doi.org/10.48550/arXiv.2210.01318
+  url: https://dblp.org/rec/journals/corr/abs-2210-01318
+- author: Samuel Maddock, Graham Cormode, Tianhao Wang 0001, Carsten Maple, Somesh
+    Jha
+  title: Federated Boosted Decision Trees with Differential Privacy.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-02910
+  doi: 10.48550/ARXIV.2210.02910
+  ee: https://doi.org/10.48550/arXiv.2210.02910
+  url: https://dblp.org/rec/journals/corr/abs-2210-02910
+- author: Weijing Chen, Guoqiang Ma, Tao Fan, Yan Kang, Qian Xu, Qiang Yang
+  title: 'SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large
+    Scale Vertical Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2110-10927
+  doi: ''
+  ee: https://arxiv.org/abs/2110.10927
+  url: https://dblp.org/rec/journals/corr/abs-2110-10927
+- author: Yuya Jeremy Ong, Yi Zhou 0015, Nathalie Baracaldo, Heiko Ludwig
+  title: Adaptive Histogram-Based Gradient Boosted Trees for Federated Learning.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2012-06670
+  doi: ''
+  ee: https://arxiv.org/abs/2012.06670
+  url: https://dblp.org/rec/journals/corr/abs-2012-06670
+- author: Yang Liu 0118, Zhuo Ma, Ximeng Liu, Siqi Ma, Surya Nepal, Robert H. Deng
+  title: 'Boosting Privately: Privacy-Preserving Federated Extreme Boosting for Mobile
+    Crowdsensing.'
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1907-10218
+  doi: ''
+  ee: http://arxiv.org/abs/1907.10218
+  url: https://dblp.org/rec/journals/corr/abs-1907-10218
+- author: Yang Liu 0118, Zhuo Ma, Ximeng Liu, Zhuzhu Wang, Siqi Ma, Ken Ren
+  title: 'Revocable Federated Learning: A Benchmark of Federated Forest.'
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1911-03242
+  doi: ''
+  ee: http://arxiv.org/abs/1911.03242
+  url: https://dblp.org/rec/journals/corr/abs-1911-03242
+- author: Qinbin Li, Zeyi Wen, Bingsheng He
+  title: Practical Federated Gradient Boosting Decision Trees.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1911-04206
+  doi: ''
+  ee: http://arxiv.org/abs/1911.04206
+  url: https://dblp.org/rec/journals/corr/abs-1911-04206
+- author: Zilong Zhao 0001, Han Wu, Aad van Moorsel, Lydia Y. Chen
+  title: 'GTV: Generating Tabular Data via Vertical Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-01706
+  doi: 10.48550/ARXIV.2302.01706
+  ee: https://doi.org/10.48550/arXiv.2302.01706
+  url: https://dblp.org/rec/journals/corr/abs-2302-01706
+- author: Alberto Archetti, Matteo Matteucci
+  title: Federated Survival Forests.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-02807
+  doi: 10.48550/ARXIV.2302.02807
+  ee: https://doi.org/10.48550/arXiv.2302.02807
+  url: https://dblp.org/rec/journals/corr/abs-2302-02807
+- author: Haizhou Liu, Xuan Zhang 0004, Xinwei Shen 0001, Hongbin Sun 0002
+  title: A Fair and Efficient Hybrid Federated Learning Framework based on XGBoost
+    for Distributed Power Prediction.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-02783
+  doi: ''
+  ee: https://arxiv.org/abs/2201.02783
+  url: https://dblp.org/rec/journals/corr/abs-2201-02783
+- author: Houpu Yao, Jiazhou Wang, Peng Dai, Liefeng Bo, Yanqing Chen
+  title: An Efficient and Robust System for Vertically Federated Random Forest.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2201-10761
+  doi: ''
+  ee: https://arxiv.org/abs/2201.10761
+  url: https://dblp.org/rec/journals/corr/abs-2201-10761
+- author: Guowen Xu, Xingshuo Han, Shengmin Xu, Tianwei Zhang 0004, Hongwei Li 0001,
+    Xinyi Huang 0001, Robert H. Deng
+  title: 'Hercules: Boosting the Performance of Privacy-preserving Federated Learning.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-04620
+  doi: 10.48550/ARXIV.2207.04620
+  ee: https://doi.org/10.48550/arXiv.2207.04620
+  url: https://dblp.org/rec/journals/corr/abs-2207-04620
+- author: "Ibrahim Aliyu, S\xE9linde van Engelenburg, Muhammed Bashir Mu&apos;azu,\
+    \ Jinsul Kim, Chang Gyoon Lim"
+  title: Statistical Detection of Adversarial examples in Blockchain-based Federated
+    Forest In-vehicle Network Intrusion Detection Systems.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-04843
+  doi: 10.48550/ARXIV.2207.04843
+  ee: https://doi.org/10.48550/arXiv.2207.04843
+  url: https://dblp.org/rec/journals/corr/abs-2207-04843
+- author: Katelinh Jones, Yuya Jeremy Ong, Yi Zhou 0015, Nathalie Baracaldo
+  title: Federated XGBoost on Sample-Wise Non-IID Data.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-01340
+  doi: 10.48550/ARXIV.2209.01340
+  ee: https://doi.org/10.48550/arXiv.2209.01340
+  url: https://dblp.org/rec/journals/corr/abs-2209-01340
+- author: Dongyuan Su, Yipeng Zhou, Laizhong Cui
+  title: Boost Decentralized Federated Learning in Vehicular Networks by Diversifying
+    Data Sources.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2209-01750
+  doi: 10.48550/ARXIV.2209.01750
+  ee: https://doi.org/10.48550/arXiv.2209.01750
+  url: https://dblp.org/rec/journals/corr/abs-2209-01750
+- author: Mark Vero, Mislav Balunovic, Dimitar I. Dimitrov, Martin T. Vechev
+  title: Data Leakage in Tabular Federated Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-01785
+  doi: 10.48550/ARXIV.2210.01785
+  ee: https://doi.org/10.48550/arXiv.2210.01785
+  url: https://dblp.org/rec/journals/corr/abs-2210-01785
+- author: Han Wu, Zilong Zhao 0001, Lydia Y. Chen, Aad van Moorsel
+  title: 'Federated Learning for Tabular Data: Exploring Potential Risk to Privacy.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2210-06856
+  doi: 10.48550/ARXIV.2210.06856
+  ee: https://doi.org/10.48550/arXiv.2210.06856
+  url: https://dblp.org/rec/journals/corr/abs-2210-06856
+- author: Shaoming Duan, Chuanyi Liu, Peiyi Han, Tianyu He, Yifeng Xu, Qiyuan Deng
+  title: 'Fed-TDA: Federated Tabular Data Augmentation on Non-IID Data.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-13116
+  doi: 10.48550/ARXIV.2211.13116
+  ee: https://doi.org/10.48550/arXiv.2211.13116
+  url: https://dblp.org/rec/journals/corr/abs-2211-13116
+- author: Xiangping Kang, Guoxian Yu, Jun Wang 0035, Wei Guo, Carlotta Domeniconi,
+    Jinglin Zhang
+  title: Incentive-boosted Federated Crowdsourcing.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2211-14439
+  doi: 10.48550/ARXIV.2211.14439
+  ee: https://doi.org/10.48550/arXiv.2211.14439
+  url: https://dblp.org/rec/journals/corr/abs-2211-14439
+- author: Xiaoqing Tan, Chung-Chou H. Chang, Lu Tang 0003
+  title: A Tree-based Federated Learning Approach for Personalized Treatment Effect
+    Estimation from Heterogeneous Data Sources.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2103-06261
+  doi: ''
+  ee: https://arxiv.org/abs/2103.06261
+  url: https://dblp.org/rec/journals/corr/abs-2103-06261
+- author: Zebang Shen, Hamed Hassani, Satyen Kale, Amin Karbasi
+  title: Federated Functional Gradient Boosting.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2103-06972
+  doi: ''
+  ee: https://arxiv.org/abs/2103.06972
+  url: https://dblp.org/rec/journals/corr/abs-2103-06972
+- author: Lunchen Xie, Jiaqi Liu, Songtao Lu, Tsung-Hui Chang, Qingjiang Shi
+  title: An Efficient Learning Framework For Federated XGBoost Using Secret Sharing
+    And Distributed Optimization.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-05717
+  doi: ''
+  ee: https://arxiv.org/abs/2105.05717
+  url: https://dblp.org/rec/journals/corr/abs-2105-05717
+- author: Xiaolin Chen, Shuai Zhou, Kai Yang, Hao Fan, Zejin Feng, Zhong Chen, Hu
+    Wang, Yongji Wang 0002
+  title: 'Fed-EINI: An Efficient and Interpretable Inference Framework for Decision
+    Tree Ensembles in Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-09540
+  doi: ''
+  ee: https://arxiv.org/abs/2105.09540
+  url: https://dblp.org/rec/journals/corr/abs-2105-09540
+- author: Nhan Khanh Le, Yang Liu, Quang Minh Nguyen, Qingchen Liu, Fangzhou Liu,
+    Quanwei Cai 0003, Sandra Hirche
+  title: 'FedXGBoost: Privacy-Preserving XGBoost for Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2106-10662
+  doi: ''
+  ee: https://arxiv.org/abs/2106.10662
+  url: https://dblp.org/rec/journals/corr/abs-2106-10662
+- author: Zilong Zhao 0001, Robert Birke, Aditya Kunar, Lydia Y. Chen
+  title: 'Fed-TGAN: Federated Learning Framework for Synthesizing Tabular Data.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2108-07927
+  doi: ''
+  ee: https://arxiv.org/abs/2108.07927
+  url: https://dblp.org/rec/journals/corr/abs-2108-07927
+- author: Akash Dhasade, Anne-Marie Kermarrec, Rafael Pires
+  title: Guess what? You can boost Federated Learning for free.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2110-11486
+  doi: ''
+  ee: https://arxiv.org/abs/2110.11486
+  url: https://dblp.org/rec/journals/corr/abs-2110-11486
+- author: Wuxing Xu, Hao Fan, Kaixin Li, Kai Yang
+  title: Efficient Batch Homomorphic Encryption for Vertically Federated XGBoost.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2112-04261
+  doi: ''
+  ee: https://arxiv.org/abs/2112.04261
+  url: https://dblp.org/rec/journals/corr/abs-2112-04261
+- author: Yang Liu 0166, Mingxin Chen, Wenxi Zhang, Junbo Zhang, Yu Zheng 0004
+  title: Federated Extra-Trees with Privacy Preserving.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2002-07323
+  doi: ''
+  ee: https://arxiv.org/abs/2002.07323
+  url: https://dblp.org/rec/journals/corr/abs-2002-07323
+- author: Zhuzhu Wang, Yilong Yang 0004, Yang Liu 0118, Ximeng Liu, Brij B. Gupta,
+    Jianfeng Ma 0001
+  title: Cloud-based Federated Boosting for Mobile Crowdsensing.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2005-05304
+  doi: ''
+  ee: https://arxiv.org/abs/2005.05304
+  url: https://dblp.org/rec/journals/corr/abs-2005-05304
+- author: Hanchi Ren, Jingjing Deng 0001, Xianghua Xie
+  title: Privacy Preserving Text Recognition with Gradient-Boosting for Federated
+    Learning.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2007-07296
+  doi: ''
+  ee: https://arxiv.org/abs/2007.07296
+  url: https://dblp.org/rec/journals/corr/abs-2007-07296
+- author: Yuncheng Wu, Shaofeng Cai, Xiaokui Xiao, Gang Chen 0001, Beng Chin Ooi
+  title: Privacy Preserving Vertical Federated Learning for Tree-based Models.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2008-06170
+  doi: ''
+  ee: https://arxiv.org/abs/2008.06170
+  url: https://dblp.org/rec/journals/corr/abs-2008-06170
+- author: Cheng Chen, Ziyi Chen 0002, Yi Zhou 0017, Bhavya Kailkhura
+  title: 'FedCluster: Boosting the Convergence of Federated Learning via Cluster-Cycling.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2009-10748
+  doi: ''
+  ee: https://arxiv.org/abs/2009.10748
+  url: https://dblp.org/rec/journals/corr/abs-2009-10748
+- author: Tiansheng Huang, Weiwei Lin 0001, Wentai Wu, Ligang He, Keqin Li 0001, Albert
+    Y. Zomaya
+  title: An Efficiency-boosting Client Selection Scheme for Federated Learning with
+    Fairness Guarantee.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-01783
+  doi: ''
+  ee: https://arxiv.org/abs/2011.01783
+  url: https://dblp.org/rec/journals/corr/abs-2011-01783
+- author: Zhihua Tian, Rui Zhang, Xiaoyang Hou, Jian Liu 0012, Kui Ren 0001
+  title: 'FederBoost: Private Federated Learning for GBDT.'
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-02796
+  doi: ''
+  ee: https://arxiv.org/abs/2011.02796
+  url: https://dblp.org/rec/journals/corr/abs-2011-02796
+- author: "Raouf Kerkouche, Gergely \xC1cs, Claude Castelluccia, Pierre Genev\xE8s"
+  title: Compression Boosts Differentially Private Federated Learning.
+  venue: CoRR
+  year: '2020'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2011-05578
+  doi: ''
+  ee: https://arxiv.org/abs/2011.05578
+  url: https://dblp.org/rec/journals/corr/abs-2011-05578
+- author: Yang Liu 0166, Yingting Liu, Zhijie Liu, Junbo Zhang, Chuishi Meng, Yu Zheng
+    0004
+  title: Federated Forest.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1905-10053
+  doi: ''
+  ee: http://arxiv.org/abs/1905.10053
+  url: https://dblp.org/rec/journals/corr/abs-1905-10053
+- author: Mengwei Yang, Linqi Song, Jie Xu 0001, Congduan Li, Guozhen Tan
+  title: The Tradeoff Between Privacy and Accuracy in Anomaly Detection Using Federated
+    XGBoost.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1907-07157
+  doi: ''
+  ee: http://arxiv.org/abs/1907.07157
+  url: https://dblp.org/rec/journals/corr/abs-1907-07157
+- author: Jun Li 0059, Xiaoman Shen, Lei Chen 0006, Jiajia Chen 0001
+  title: Bandwidth Slicing to Boost Federated Learning in Edge Computing.
+  venue: CoRR
+  year: '2019'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-1911-07615
+  doi: ''
+  ee: http://arxiv.org/abs/1911.07615
+  url: https://dblp.org/rec/journals/corr/abs-1911-07615
