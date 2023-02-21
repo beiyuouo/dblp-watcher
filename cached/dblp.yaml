@@ -2177,6 +2177,30 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: http://arxiv.org/abs/1909.12946
   url: https://dblp.org/rec/journals/corr/abs-1909-12946
+- author: Kai Zhang 0039, Yu Wang 0158, Hongyi Wang, Lifu Huang, Carl Yang, Xun Chen,
+    Lichao Sun 0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: EMNLP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/emnlp/ZhangWWHYC022
+  doi: ''
+  ee: https://aclanthology.org/2022.findings-emnlp.43
+  url: https://dblp.org/rec/conf/emnlp/ZhangWWHYC022
+- author: Kai Zhang 0039, Yu Wang 0158, Hongyi Wang, Lifu Huang, Carl Yang, Lichao
+    Sun 0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-09553
+  doi: 10.48550/ARXIV.2203.09553
+  ee: https://doi.org/10.48550/arXiv.2203.09553
+  url: https://dblp.org/rec/journals/corr/abs-2203-09553
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -3537,3 +3561,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: http://arxiv.org/abs/1911.07615
   url: https://dblp.org/rec/journals/corr/abs-1911-07615
+- author: Shaoming Duan, Chuanyi Liu, Peiyi Han, Xiaopeng Jin, Xinyi Zhang, Tianyu
+    He, Hezhong Pan, Xiayu Xiang
+  title: 'HT-Fed-GAN: Federated Generative Model for Decentralized Tabular Data Synthesis.'
+  venue: Entropy
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/entropy/DuanLHJZHPX23
+  doi: 10.3390/E25010088
+  ee: https://doi.org/10.3390/e25010088
+  url: https://dblp.org/rec/journals/entropy/DuanLHJZHPX23
