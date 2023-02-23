@@ -2201,6 +2201,16 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2203.09553
   ee: https://doi.org/10.48550/arXiv.2203.09553
   url: https://dblp.org/rec/journals/corr/abs-2203-09553
+- author: Shalisha Witherspoon, Dean Steuer, Nirmit Desai
+  title: 'Semantic Vectorization: Text- and Graph-Based Models.'
+  venue: Federated Learning
+  year: '2022'
+  type: Parts in Books or Collections
+  access: closed
+  key: books/sp/22/WitherspoonSD22
+  doi: 10.1007/978-3-030-96896-0_3
+  ee: https://doi.org/10.1007/978-3-030-96896-0_3
+  url: https://dblp.org/rec/books/sp/22/WitherspoonSD22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -3572,3 +3582,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.3390/E25010088
   ee: https://doi.org/10.3390/e25010088
   url: https://dblp.org/rec/journals/entropy/DuanLHJZHPX23
+- author: Yuya Jeremy Ong, Nathalie Baracaldo, Yi Zhou
+  title: Tree-Based Models for Federated Learning Systems.
+  venue: Federated Learning
+  year: '2022'
+  type: Parts in Books or Collections
+  access: closed
+  key: books/sp/22/OngBZ22
+  doi: 10.1007/978-3-030-96896-0_2
+  ee: https://doi.org/10.1007/978-3-030-96896-0_2
+  url: https://dblp.org/rec/books/sp/22/OngBZ22
