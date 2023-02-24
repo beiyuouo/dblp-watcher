@@ -2211,6 +2211,18 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-030-96896-0_3
   ee: https://doi.org/10.1007/978-3-030-96896-0_3
   url: https://dblp.org/rec/books/sp/22/WitherspoonSD22
+- author: Quan Li, Xiguang Wei, Huanbin Lin, Yang Liu 0165, Tianjian Chen, Xiaojuan
+    Ma
+  title: Inspecting the Running Process of Horizontal Federated Learning via Visual
+    Analytics.
+  venue: IEEE Trans. Vis. Comput. Graph.
+  year: '2022'
+  type: Journal Articles
+  access: closed
+  key: journals/tvcg/LiWLLCM22
+  doi: 10.1109/TVCG.2021.3074010
+  ee: https://doi.org/10.1109/TVCG.2021.3074010
+  url: https://dblp.org/rec/journals/tvcg/LiWLLCM22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
