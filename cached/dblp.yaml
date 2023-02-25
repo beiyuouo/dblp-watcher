@@ -2223,6 +2223,50 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TVCG.2021.3074010
   ee: https://doi.org/10.1109/TVCG.2021.3074010
   url: https://dblp.org/rec/journals/tvcg/LiWLLCM22
+- author: Ji Su Yoon, Sun Moo Kang, Seong-Bae Park, Choong Seon Hong
+  title: 'GDFed: Dynamic Federated Learning for Heterogenous Device Using Graph Neural
+    Network.'
+  venue: ICOIN
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icoin/YoonKPH23
+  doi: 10.1109/ICOIN56518.2023.10048926
+  ee: https://doi.org/10.1109/ICOIN56518.2023.10048926
+  url: https://dblp.org/rec/conf/icoin/YoonKPH23
+- author: Liang Qu, Ningzhi Tang, Ruiqi Zheng, Quoc Viet Hung Nguyen, Zi Huang, Yuhui
+    Shi, Hongzhi Yin
+  title: Semi-decentralized Federated Ego Graph Learning for Recommendation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-10900
+  doi: 10.48550/ARXIV.2302.10900
+  ee: https://doi.org/10.48550/arXiv.2302.10900
+  url: https://dblp.org/rec/journals/corr/abs-2302-10900
+- author: Chaochao Chen 0001, Jun Zhou, Longfei Zheng, Huiwen Wu, Lingjuan Lyu, Jia
+    Wu 0001, Bingzhe Wu, Ziqi Liu, Li Wang 0056, Xiaolin Zheng
+  title: Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0001ZZWLWWLWZ22
+  doi: 10.24963/IJCAI.2022/272
+  ee: https://doi.org/10.24963/ijcai.2022/272
+  url: https://dblp.org/rec/conf/ijcai/0001ZZWLWWLWZ22
+- author: Hanqiu Wang, Rongqing Zhang 0001, Xiang Cheng 0001, Liuqing Yang 0001
+  title: Federated Spatio-Temporal Traffic Flow Prediction Based on Graph Convolutional
+    Network.
+  venue: WCSP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wcsp/WangZCY22
+  doi: 10.1109/WCSP55476.2022.10039323
+  ee: https://doi.org/10.1109/WCSP55476.2022.10039323
+  url: https://dblp.org/rec/conf/wcsp/WangZCY22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
