@@ -2289,6 +2289,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/IWQOS52092.2021.9521331
   ee: https://doi.org/10.1109/IWQOS52092.2021.9521331
   url: https://dblp.org/rec/conf/iwqos/LiuLG21
+- author: Hengrun Zhang 0001, Kai Zeng 0001, Shuai Lin
+  title: Federated Graph Neural Network for Fast Anomaly Detection in Controller Area
+    Networks.
+  venue: IEEE Trans. Inf. Forensics Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tifs/ZhangZL23
+  doi: 10.1109/TIFS.2023.3240291
+  ee: https://doi.org/10.1109/TIFS.2023.3240291
+  url: https://dblp.org/rec/journals/tifs/ZhangZL23
+- author: Liang Wang, Zhuangkun Wei, Weisi Guo
+  title: Securing IoT Communication using Physical Sensor Data - Graph Layer Security
+    with Federated Multi-Agent Deep Reinforcement Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2302-12592
+  doi: 10.48550/ARXIV.2302.12592
+  ee: https://doi.org/10.48550/arXiv.2302.12592
+  url: https://dblp.org/rec/journals/corr/abs-2302-12592
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -3670,3 +3692,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/978-3-030-96896-0_2
   ee: https://doi.org/10.1007/978-3-030-96896-0_2
   url: https://dblp.org/rec/books/sp/22/OngBZ22
+- author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+  title: Blockchain-Based Swarm Learning for the Mitigation of Gradient Leakage in
+    Federated Learning.
+  venue: IEEE Access
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/access/MadniUF23
+  doi: 10.1109/ACCESS.2023.3246126
+  ee: https://doi.org/10.1109/ACCESS.2023.3246126
+  url: https://dblp.org/rec/journals/access/MadniUF23
