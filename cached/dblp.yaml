@@ -2311,6 +2311,16 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2302.12592
   ee: https://doi.org/10.48550/arXiv.2302.12592
   url: https://dblp.org/rec/journals/corr/abs-2302-12592
+- author: Qiying Pan, Yifei Zhu, Lingyang Chu
+  title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2303-00492
+  doi: 10.48550/ARXIV.2303.00492
+  ee: https://doi.org/10.48550/arXiv.2303.00492
+  url: https://dblp.org/rec/journals/corr/abs-2303-00492
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -3703,3 +3713,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ACCESS.2023.3246126
   ee: https://doi.org/10.1109/ACCESS.2023.3246126
   url: https://dblp.org/rec/journals/access/MadniUF23
+- author: William Lindskog, Christian Prehofer
+  title: 'Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case.'
+  venue: ICCP
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iccp2/LindskogP22
+  doi: 10.1109/ICCP56966.2022.10053975
+  ee: https://doi.org/10.1109/ICCP56966.2022.10053975
+  url: https://dblp.org/rec/conf/iccp2/LindskogP22
