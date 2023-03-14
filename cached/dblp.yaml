@@ -2321,6 +2321,72 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2303.00492
   ee: https://doi.org/10.48550/arXiv.2303.00492
   url: https://dblp.org/rec/journals/corr/abs-2303-00492
+- author: Chuang Ma, Xin Ren, Guangxia Xu, Bo He
+  title: 'FedGR: Federated Graph Neural Network for Recommendation Systems.'
+  venue: Axioms
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/axioms/MaRXH23
+  doi: 10.3390/AXIOMS12020170
+  ee: https://doi.org/10.3390/axioms12020170
+  url: https://dblp.org/rec/journals/axioms/MaRXH23
+- author: "Fran\xE7ois Gauthier, Vinay Chakravarthi Gogineni, Stefan Werner 0001,\
+    \ Yih-Fang Huang, Anthony Kuh"
+  title: Clustered Graph Federated Personalized Learning.
+  venue: IEEECONF
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/GauthierGWHK22
+  doi: 10.1109/IEEECONF56349.2022.10051979
+  ee: https://doi.org/10.1109/IEEECONF56349.2022.10051979
+  url: https://dblp.org/rec/conf/acssc/GauthierGWHK22
+- author: Chaochao Chen 0001, Jun Zhou 0011, Longfei Zheng, Huiwen Wu, Lingjuan Lyu,
+    Jia Wu 0001, Bingzhe Wu, Ziqi Liu, Li Wang 0056, Xiaolin Zheng
+  title: Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0001ZZWLWWLWZ22
+  doi: 10.24963/IJCAI.2022/272
+  ee: https://doi.org/10.24963/ijcai.2022/272
+  url: https://dblp.org/rec/conf/ijcai/0001ZZWLWWLWZ22
+- author: Mingyang Chen, Wen Zhang 0015, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei
+    Huang 0004, Huajun Chen
+  title: Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated
+    Setting.
+  venue: IJCAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/Chen0YCDHC22
+  doi: 10.24963/IJCAI.2022/273
+  ee: https://doi.org/10.24963/ijcai.2022/273
+  url: https://dblp.org/rec/conf/ijcai/Chen0YCDHC22
+- author: Mingyang Chen, Wen Zhang 0015, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei
+    Huang 0004, Huajun Chen
+  title: Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated
+    Setting.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2205-04692
+  doi: 10.48550/ARXIV.2205.04692
+  ee: https://doi.org/10.48550/arXiv.2205.04692
+  url: https://dblp.org/rec/journals/corr/abs-2205-04692
+- author: "David Chaves-Fraga, Claudio Gutierrez 0001, \xD3scar Corcho"
+  title: On the Role of the GRAPH Clause in the Performance of Federated SPARQL Queries.
+  venue: PROFILES@ISWC
+  year: '2017'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/semweb/Chaves-FragaGC17
+  doi: ''
+  ee: https://ceur-ws.org/Vol-1927/paper7.pdf
+  url: https://dblp.org/rec/conf/semweb/Chaves-FragaGC17
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
