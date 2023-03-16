@@ -2387,6 +2387,16 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://ceur-ws.org/Vol-1927/paper7.pdf
   url: https://dblp.org/rec/conf/semweb/Chaves-FragaGC17
+- author: Peihua Mai, Yan Pang
+  title: Vertical Federated Graph Neural Network for Recommender System.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2303-05786
+  doi: 10.48550/ARXIV.2303.05786
+  ee: https://doi.org/10.48550/arXiv.2303.05786
+  url: https://dblp.org/rec/journals/corr/abs-2303-05786
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
