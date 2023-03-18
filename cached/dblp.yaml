@@ -2397,6 +2397,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2303.05786
   ee: https://doi.org/10.48550/arXiv.2303.05786
   url: https://dblp.org/rec/journals/corr/abs-2303-05786
+- author: Tao Liu 0024, Peng Li 0017, Yu Gu 0003
+  title: 'Glint: Decentralized Federated Graph Learning with Traffic Throttling and
+    Flow Scheduling.'
+  venue: IWQoS
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iwqos/LiuLG21
+  doi: 10.1109/IWQOS52092.2021.9521331
+  ee: https://doi.org/10.1109/IWQOS52092.2021.9521331
+  url: https://dblp.org/rec/conf/iwqos/LiuLG21
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
