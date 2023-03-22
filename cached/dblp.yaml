@@ -2408,6 +2408,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/IWQOS52092.2021.9521331
   ee: https://doi.org/10.1109/IWQOS52092.2021.9521331
   url: https://dblp.org/rec/conf/iwqos/LiuLG21
+- author: Xinwei Zhang, Mingyi Hong, Jie Chen
+  title: 'GLASU: A Communication-Efficient Algorithm for Federated Learning with Vertically
+    Distributed Graph Data.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2303-09531
+  doi: 10.48550/ARXIV.2303.09531
+  ee: https://doi.org/10.48550/arXiv.2303.09531
+  url: https://dblp.org/rec/journals/corr/abs-2303-09531
+- author: Mingrui Cao, Long Zhang 0007, Bin Cao 0002
+  title: 'Towards On-Device Federated Learning: A Direct Acyclic Graph-based Blockchain
+    Approach.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2104-13092
+  doi: ''
+  ee: https://arxiv.org/abs/2104.13092
+  url: https://dblp.org/rec/journals/corr/abs-2104-13092
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
