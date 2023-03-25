@@ -2452,6 +2452,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TVT.2022.3217963
   ee: https://doi.org/10.1109/TVT.2022.3217963
   url: https://dblp.org/rec/journals/tvt/AlAbiadH23
+- author: Runze Lei, Pinghui Wang, Junzhou Zhao, Lin Lan, Jing Tao, Chao Deng, Junlan
+    Feng, Xidian Wang, Xiaohong Guan
+  title: Federated Learning Over Coupled Graphs.
+  venue: IEEE Trans. Parallel Distributed Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tpds/LeiWZLTDFWG23
+  doi: 10.1109/TPDS.2023.3240527
+  ee: https://doi.org/10.1109/TPDS.2023.3240527
+  url: https://dblp.org/rec/journals/tpds/LeiWZLTDFWG23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
