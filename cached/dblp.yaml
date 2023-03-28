@@ -3865,3 +3865,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ICCP56966.2022.10053975
   ee: https://doi.org/10.1109/ICCP56966.2022.10053975
   url: https://dblp.org/rec/conf/iccp2/LindskogP22
+- author: Yujin Han, Pan Du 0002, Kai Yang
+  title: 'FedGBF: An efficient vertical federated learning framework via gradient
+    boosting and bagging.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2204-00976
+  doi: 10.48550/ARXIV.2204.00976
+  ee: https://doi.org/10.48550/arXiv.2204.00976
+  url: https://dblp.org/rec/journals/corr/abs-2204-00976
