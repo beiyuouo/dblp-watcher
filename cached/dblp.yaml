@@ -3876,3 +3876,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2204.00976
   ee: https://doi.org/10.48550/arXiv.2204.00976
   url: https://dblp.org/rec/journals/corr/abs-2204-00976
+- author: Jiao Tian, Xinyi Cai, Kai Zhang, Hongwang Xiao, Ke Yu, Pei-Wei Tsai
+  title: Sliding Focal Loss for Class Imbalance Classification in Federated XGBoost.
+  venue: ISPA/BDCloud/SocialCom/SustainCom
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ispa/TianCZXYT22
+  doi: 10.1109/ISPA-BDCLOUD-SOCIALCOM-SUSTAINCOM57177.2022.00072
+  ee: https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00072
+  url: https://dblp.org/rec/conf/ispa/TianCZXYT22
