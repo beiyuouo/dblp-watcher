@@ -3886,3 +3886,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ISPA-BDCLOUD-SOCIALCOM-SUSTAINCOM57177.2022.00072
   ee: https://doi.org/10.1109/ISPA-BDCloud-SocialCom-SustainCom57177.2022.00072
   url: https://dblp.org/rec/conf/ispa/TianCZXYT22
+- author: Tao Wang, Bo Zhao, Liming Fang 0001
+  title: 'FLForest: Byzantine-robust Federated Learning through Isolated Forest.'
+  venue: ICPADS
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icpads/WangZF22
+  doi: 10.1109/ICPADS56603.2022.00046
+  ee: https://doi.org/10.1109/ICPADS56603.2022.00046
+  url: https://dblp.org/rec/conf/icpads/WangZF22
