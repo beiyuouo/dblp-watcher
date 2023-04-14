@@ -2463,6 +2463,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TPDS.2023.3240527
   ee: https://doi.org/10.1109/TPDS.2023.3240527
   url: https://dblp.org/rec/journals/tpds/LeiWZLTDFWG23
+- author: Zheng Li, Muhammad Bilal 0003, Xiaolong Xu 0001, Jielin Jiang, Yan Cui 0007
+  title: Federated Learning-Based Cross-Enterprise Recommendation With Graph Neural
+    Networks.
+  venue: IEEE Trans. Ind. Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/LiBXJC23
+  doi: 10.1109/TII.2022.3203395
+  ee: https://doi.org/10.1109/TII.2022.3203395
+  url: https://dblp.org/rec/journals/tii/LiBXJC23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
