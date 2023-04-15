@@ -2474,6 +2474,16 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TII.2022.3203395
   ee: https://doi.org/10.1109/TII.2022.3203395
   url: https://dblp.org/rec/journals/tii/LiBXJC23
+- author: Ye Tao, Ying Li 0012, Zhonghai Wu
+  title: 'SemiGraphFL: Semi-supervised Graph Federated Learning for Graph Classification.'
+  venue: PPSN
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ppsn/TaoLW22a
+  doi: 10.1007/978-3-031-14714-2_33
+  ee: https://doi.org/10.1007/978-3-031-14714-2_33
+  url: https://dblp.org/rec/conf/ppsn/TaoLW22a
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
