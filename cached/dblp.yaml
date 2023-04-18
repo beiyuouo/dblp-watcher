@@ -2484,6 +2484,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-14714-2_33
   ee: https://doi.org/10.1007/978-3-031-14714-2_33
   url: https://dblp.org/rec/conf/ppsn/TaoLW22a
+- author: Sashko Ristov, Reza Farahani, Radu Prodan
+  title: Large-scale Graph Processing and Simulation with Serverless Workflows in
+    Federated FaaS.
+  venue: ICPE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wosp/RistovFP23
+  doi: 10.1145/3578245.3585333
+  ee: https://doi.org/10.1145/3578245.3585333
+  url: https://dblp.org/rec/conf/wosp/RistovFP23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
