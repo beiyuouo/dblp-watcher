@@ -2495,6 +2495,29 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3578245.3585333
   ee: https://doi.org/10.1145/3578245.3585333
   url: https://dblp.org/rec/conf/wosp/RistovFP23
+- author: Arash Rasti-Meymandi, Seyed Mohammad Sheikholeslami, Jamshid Abouei, Konstantinos
+    N. Plataniotis
+  title: Graph Federated Learning for CIoT Devices in Smart Home Applications.
+  venue: IEEE Internet Things J.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/iotj/RastiMeymandiSAP23
+  doi: 10.1109/JIOT.2022.3228727
+  ee: https://doi.org/10.1109/JIOT.2022.3228727
+  url: https://dblp.org/rec/journals/iotj/RastiMeymandiSAP23
+- author: Yuke Hu, Wei Liang, Ruofan Wu, Kai Xiao, Weiqiang Wang, Xiaochen Li, Jinfei
+    Liu, Zhan Qin
+  title: Quantifying and Defending against Privacy Threats on Federated Knowledge
+    Graph Embedding.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-02932
+  doi: 10.48550/ARXIV.2304.02932
+  ee: https://doi.org/10.48550/arXiv.2304.02932
+  url: https://dblp.org/rec/journals/corr/abs-2304-02932
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
