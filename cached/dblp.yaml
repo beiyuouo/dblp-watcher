@@ -3985,3 +3985,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ICPADS56603.2022.00046
   ee: https://doi.org/10.1109/ICPADS56603.2022.00046
   url: https://dblp.org/rec/conf/icpads/WangZF22
+- author: Feng Wang 0047, Jinxiang Ou, Hairong Lv
+  title: 'Gradient Boosting Forest: a Two-Stage Ensemble Method Enabling Federated
+    Learning of GBDTs.'
+  venue: ICONIP
+  year: '2021'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iconip/WangOL21
+  doi: 10.1007/978-3-030-92270-2_7
+  ee: https://doi.org/10.1007/978-3-030-92270-2_7
+  url: https://dblp.org/rec/conf/iconip/WangOL21
