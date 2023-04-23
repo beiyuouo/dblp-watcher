@@ -3996,3 +3996,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/978-3-030-92270-2_7
   ee: https://doi.org/10.1007/978-3-030-92270-2_7
   url: https://dblp.org/rec/conf/iconip/WangOL21
+- author: Chenyang Ma, Xinchi Qiu, Daniel J. Beutel, Nicholas D. Lane
+  title: Gradient-less Federated Gradient Boosting Trees with Learnable Learning Rates.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-07537
+  doi: 10.48550/ARXIV.2304.07537
+  ee: https://doi.org/10.48550/arXiv.2304.07537
+  url: https://dblp.org/rec/journals/corr/abs-2304-07537
+- author: Xue Qin, Yi Niu, Huiyu Zhou, Xiaojie Li, Weikuan Jia, Yuanjie Zheng
+  title: Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable
+    Network.
+  venue: Int. J. Neural Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ijns/QinNZLJZ23
+  doi: 10.1142/S0129065723500090
+  ee: https://doi.org/10.1142/S0129065723500090
+  url: https://dblp.org/rec/journals/ijns/QinNZLJZ23
