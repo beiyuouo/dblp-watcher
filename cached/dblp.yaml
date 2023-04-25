@@ -2552,6 +2552,30 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TNNLS.2021.3105810
   ee: https://doi.org/10.1109/TNNLS.2021.3105810
   url: https://dblp.org/rec/journals/tnn/CaoZC23
+- author: Tao Chang, Li Li 0064, Meihan Wu, Wei Yu, Xiaodong Wang, Cheng-Zhong Xu
+    0001
+  title: 'GraphCS: Graph-based client selection for heterogeneity in federated learning.'
+  venue: J. Parallel Distributed Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jpdc/ChangLWYWX23a
+  doi: 10.1016/J.JPDC.2023.03.003
+  ee: https://doi.org/10.1016/j.jpdc.2023.03.003
+  url: https://dblp.org/rec/journals/jpdc/ChangLWYWX23a
+- author: Jackson Callaghan, Colleen H. Xu, Jiwen Xin, Marco Alvarado Cano, Anders
+    Riutta, Eric Zhou, Rohan Juneja, Yao Yao, Madhumita Narayan, Kristina Hanspers,
+    Ayushi Agrawal, Alexander R. Pico, Chunlei Wu, Andrew I. Su
+  title: 'BioThings Explorer: a query engine for a federated knowledge graph of biomedical
+    APIs.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-09344
+  doi: 10.48550/ARXIV.2304.09344
+  ee: https://doi.org/10.48550/arXiv.2304.09344
+  url: https://dblp.org/rec/journals/corr/abs-2304-09344
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
