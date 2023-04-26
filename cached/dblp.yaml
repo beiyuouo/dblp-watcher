@@ -2576,6 +2576,38 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2304.09344
   ee: https://doi.org/10.48550/arXiv.2304.09344
   url: https://dblp.org/rec/journals/corr/abs-2304-09344
+- author: Tao Qi, Lingqiang Chen, Guanghui Li 0001, Yijing Li, Chenshu Wang
+  title: 'FedAGCN: A traffic flow prediction framework based on federated learning
+    and Asynchronous Graph Convolutional Network.'
+  venue: Appl. Soft Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/asc/QiCLLW23
+  doi: 10.1016/J.ASOC.2023.110175
+  ee: https://doi.org/10.1016/j.asoc.2023.110175
+  url: https://dblp.org/rec/journals/asc/QiCLLW23
+- author: Ana Claudia Sima, Tarcisio Mendes de Farias
+  title: On the Potential of Artificial Intelligence Chatbots for Data Exploration
+    of Federated Bioinformatics Knowledge Graphs.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-10427
+  doi: 10.48550/ARXIV.2304.10427
+  ee: https://doi.org/10.48550/arXiv.2304.10427
+  url: https://dblp.org/rec/journals/corr/abs-2304-10427
+- author: Ce Hu, Baisong Liu, Xueyuan Zhang, Zhiye Wang, Chennan Lin, Linze Luo
+  title: A Federated Multi-Server Knowledge Graph Embedding Framework For Link Prediction.
+  venue: ICTAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ictai/HuLZWLL22
+  doi: 10.1109/ICTAI56018.2022.00060
+  ee: https://doi.org/10.1109/ICTAI56018.2022.00060
+  url: https://dblp.org/rec/conf/ictai/HuLZWLL22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4041,3 +4073,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1142/S0129065723500090
   ee: https://doi.org/10.1142/S0129065723500090
   url: https://dblp.org/rec/journals/ijns/QinNZLJZ23
+- author: Yingjie Li, Yan Feng, Quan Qian
+  title: 'FDPBoost: Federated differential privacy gradient boosting decision trees.'
+  venue: J. Inf. Secur. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/istr/LiFQ23
+  doi: 10.1016/J.JISA.2023.103468
+  ee: https://doi.org/10.1016/j.jisa.2023.103468
+  url: https://dblp.org/rec/journals/istr/LiFQ23
+- author: Gridaphat Sriharee
+  title: A Federated GIS Data Service System for Tabular Data Integration Using Ontology
+    Approach.
+  venue: ICNCC
+  year: '2016'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icncc/Sriharee16
+  doi: 10.1145/3033288.3033306
+  ee: https://doi.org/10.1145/3033288.3033306
+  url: https://dblp.org/rec/conf/icncc/Sriharee16
