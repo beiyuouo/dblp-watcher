@@ -2671,6 +2671,28 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2302.02069
   ee: https://doi.org/10.48550/arXiv.2302.02069
   url: https://dblp.org/rec/journals/corr/abs-2302-02069
+- author: Tao Chang, Li Li 0064, Meihan Wu, Wei Yu, Xiaodong Wang 0002, Cheng-Zhong
+    Xu 0001
+  title: 'GraphCS: Graph-based client selection for heterogeneity in federated learning.'
+  venue: J. Parallel Distributed Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jpdc/ChangLWYWX23a
+  doi: 10.1016/J.JPDC.2023.03.003
+  ee: https://doi.org/10.1016/j.jpdc.2023.03.003
+  url: https://dblp.org/rec/journals/jpdc/ChangLWYWX23a
+- author: Jiayan Guo, Shangyang Li, Yan Zhang
+  title: An Information Theoretic Perspective for Heterogeneous Subgraph Federated
+    Learning.
+  venue: DASFAA
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/dasfaa/GuoLZ23
+  doi: 10.1007/978-3-031-30637-2_50
+  ee: https://doi.org/10.1007/978-3-031-30637-2_50
+  url: https://dblp.org/rec/conf/dasfaa/GuoLZ23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4157,3 +4179,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1145/3033288.3033306
   ee: https://doi.org/10.1145/3033288.3033306
   url: https://dblp.org/rec/conf/icncc/Sriharee16
+- author: Xue Qin, Yi Niu, Huiyu Zhou 0001, Xiaojie Li, Weikuan Jia, Yuanjie Zheng
+  title: Driver Drowsiness EEG Detection Based on Tree Federated Learning and Interpretable
+    Network.
+  venue: Int. J. Neural Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ijns/QinNZLJZ23
+  doi: 10.1142/S0129065723500090
+  ee: https://doi.org/10.1142/S0129065723500090
+  url: https://dblp.org/rec/journals/ijns/QinNZLJZ23
