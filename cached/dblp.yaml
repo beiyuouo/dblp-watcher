@@ -2693,6 +2693,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-30637-2_50
   ee: https://doi.org/10.1007/978-3-031-30637-2_50
   url: https://dblp.org/rec/conf/dasfaa/GuoLZ23
+- author: Yuhang Yao, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen, Carlee Joe-Wong,
+    Tianqiang Liu
+  title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks.'
+  venue: IoTDI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iotdi/YaoKCCJL23
+  doi: 10.1145/3576842.3582328
+  ee: https://doi.org/10.1145/3576842.3582328
+  url: https://dblp.org/rec/conf/iotdi/YaoKCCJL23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4190,3 +4201,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1142/S0129065723500090
   ee: https://doi.org/10.1142/S0129065723500090
   url: https://dblp.org/rec/journals/ijns/QinNZLJZ23
+- author: Chenyang Ma, Xinchi Qiu, Daniel J. Beutel, Nicholas D. Lane
+  title: Gradient-less Federated Gradient Boosting Tree with Learnable Learning Rates.
+  venue: EuroMLSys@EuroSys
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/eurosys/MaQBL23
+  doi: 10.1145/3578356.3592579
+  ee: https://doi.org/10.1145/3578356.3592579
+  url: https://dblp.org/rec/conf/eurosys/MaQBL23
