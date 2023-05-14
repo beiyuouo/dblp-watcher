@@ -4211,3 +4211,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1145/3578356.3592579
   ee: https://doi.org/10.1145/3578356.3592579
   url: https://dblp.org/rec/conf/eurosys/MaQBL23
+- author: "Rami Haffar, David S\xE1nchez 0001, Josep Domingo-Ferrer"
+  title: Explaining predictions and attacks in federated learning via random forests.
+  venue: Appl. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/apin/HaffarSD23
+  doi: 10.1007/S10489-022-03435-1
+  ee: https://doi.org/10.1007/s10489-022-03435-1
+  url: https://dblp.org/rec/journals/apin/HaffarSD23
