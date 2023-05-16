@@ -2704,6 +2704,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3576842.3582328
   ee: https://doi.org/10.1145/3576842.3582328
   url: https://dblp.org/rec/conf/iotdi/YaoKCCJL23
+- author: Huanding Zhang, Tao Shen 0002, Fei Wu 0001, Mingyang Yin, Hongxia Yang,
+    Chao Wu 0001
+  title: Federated Graph Learning - A Position Paper.
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2105-11099
+  doi: ''
+  ee: https://arxiv.org/abs/2105.11099
+  url: https://dblp.org/rec/journals/corr/abs-2105-11099
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
