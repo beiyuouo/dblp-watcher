@@ -2715,6 +2715,18 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://arxiv.org/abs/2105.11099
   url: https://dblp.org/rec/journals/corr/abs-2105-11099
+- author: Wei Chen 0001, Yating Wei, Zhiyong Wang, Shuyue Zhou, Bingru Lin, Zhiguang
+    Zhou
+  title: 'Federated Visualization: A Privacy-Preserving Strategy for Aggregated Visual
+    Query.'
+  venue: IEEE Trans. Vis. Comput. Graph.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tvcg/ChenWWZLZ23
+  doi: 10.1109/TVCG.2023.3261938
+  ee: https://doi.org/10.1109/TVCG.2023.3261938
+  url: https://dblp.org/rec/journals/tvcg/ChenWWZLZ23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
