@@ -2727,6 +2727,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TVCG.2023.3261938
   ee: https://doi.org/10.1109/TVCG.2023.3261938
   url: https://dblp.org/rec/journals/tvcg/ChenWWZLZ23
+- author: Yanjun Liu, Hongwei Li 0001, Xinyuan Qian, Meng Hao
+  title: 'ESA-FedGNN: Efficient secure aggregation for federated graph neural networks.'
+  venue: Peer Peer Netw. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ppna/LiuLQH23
+  doi: 10.1007/S12083-023-01472-2
+  ee: https://doi.org/10.1007/s12083-023-01472-2
+  url: https://dblp.org/rec/journals/ppna/LiuLQH23
+- author: Chunxu Zhang, Guodong Long, Tianyi Zhou 0001, Peng Yan, Zijian Zhang, Bo
+    Yang 0002
+  title: Graph-guided Personalization for Federated Recommendation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-07866
+  doi: 10.48550/ARXIV.2305.07866
+  ee: https://doi.org/10.48550/arXiv.2305.07866
+  url: https://dblp.org/rec/journals/corr/abs-2305-07866
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
