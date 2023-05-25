@@ -2760,6 +2760,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/INFOCOMWKSHPS54753.2022.9797992
   ee: https://doi.org/10.1109/INFOCOMWKSHPS54753.2022.9797992
   url: https://dblp.org/rec/conf/infocom/DuSSJZZ22
+- author: Wei Huang, Jia Liu, Tianrui Li 0001, Shenggong Ji, Dexian Wang, Tianqiang
+    Huang
+  title: 'FedCKE: Cross-Domain Knowledge Graph Embedding in Federated Learning.'
+  venue: IEEE Trans. Big Data
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tbd/HuangLLJWH23
+  doi: 10.1109/TBDATA.2022.3205705
+  ee: https://doi.org/10.1109/TBDATA.2022.3205705
+  url: https://dblp.org/rec/journals/tbd/HuangLLJWH23
+- author: Xinyu Fu 0004, Irwin King
+  title: 'FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-09729
+  doi: 10.48550/ARXIV.2305.09729
+  ee: https://doi.org/10.48550/arXiv.2305.09729
+  url: https://dblp.org/rec/journals/corr/abs-2305-09729
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
