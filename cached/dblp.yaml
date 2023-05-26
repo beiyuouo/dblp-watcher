@@ -4298,3 +4298,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/S10489-022-03435-1
   ee: https://doi.org/10.1007/s10489-022-03435-1
   url: https://dblp.org/rec/journals/apin/HaffarSD23
+- author: Rui Song, Lingjuan Lyu, Wei Jiang, Andreas Festag, Alois C. Knoll
+  title: V2X-Boosted Federated Learning for Cooperative Intelligent Transportation
+    Systems with Contextual Client Selection.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-11654
+  doi: 10.48550/ARXIV.2305.11654
+  ee: https://doi.org/10.48550/arXiv.2305.11654
+  url: https://dblp.org/rec/journals/corr/abs-2305-11654
