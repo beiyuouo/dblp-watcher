@@ -2781,6 +2781,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2305.09729
   ee: https://doi.org/10.48550/arXiv.2305.09729
   url: https://dblp.org/rec/journals/corr/abs-2305-09729
+- author: Seoyoung Ko, Keewoo Lee, Hyunhum Cho, Yoonjae Hwang, Huisu Jang
+  title: 'Asynchronous federated learning with directed acyclic graph-based blockchain
+    in edge computing: Overview, design, and challenges.'
+  venue: Expert Syst. Appl.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/eswa/KoLCHJ23
+  doi: 10.1016/J.ESWA.2023.119896
+  ee: https://doi.org/10.1016/j.eswa.2023.119896
+  url: https://dblp.org/rec/journals/eswa/KoLCHJ23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4309,3 +4320,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2305.11654
   ee: https://doi.org/10.48550/arXiv.2305.11654
   url: https://dblp.org/rec/journals/corr/abs-2305-11654
+- author: Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, Zhongyun Hua
+  title: 'Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient
+    Boosted Decision Tables.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-12652
+  doi: 10.48550/ARXIV.2305.12652
+  ee: https://doi.org/10.48550/arXiv.2305.12652
+  url: https://dblp.org/rec/journals/corr/abs-2305-12652
