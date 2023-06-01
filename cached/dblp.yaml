@@ -2792,6 +2792,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.ESWA.2023.119896
   ee: https://doi.org/10.1016/j.eswa.2023.119896
   url: https://dblp.org/rec/journals/eswa/KoLCHJ23
+- author: Tao Liu, Peng Li 0017, Yu Gu 0003, Zhou Su
+  title: 'S-Glint: Secure Federated Graph Learning With Traffic Throttling and Flow
+    Scheduling.'
+  venue: IEEE Trans. Green Commun. Netw.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tgcn/LiuLGS23
+  doi: 10.1109/TGCN.2022.3187149
+  ee: https://doi.org/10.1109/TGCN.2022.3187149
+  url: https://dblp.org/rec/journals/tgcn/LiuLGS23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
