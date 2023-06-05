@@ -2803,6 +2803,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TGCN.2022.3187149
   ee: https://doi.org/10.1109/TGCN.2022.3187149
   url: https://dblp.org/rec/journals/tgcn/LiuLGS23
+- author: Yuhang Yao, Mohammad Mahdi Kamani, Zhongwei Cheng, Lin Chen 0021, Carlee
+    Joe-Wong, Tianqiang Liu
+  title: 'FedRule: Federated Rule Recommendation System with Graph Neural Networks.'
+  venue: IoTDI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iotdi/YaoKCCJL23
+  doi: 10.1145/3576842.3582328
+  ee: https://doi.org/10.1145/3576842.3582328
+  url: https://dblp.org/rec/conf/iotdi/YaoKCCJL23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
