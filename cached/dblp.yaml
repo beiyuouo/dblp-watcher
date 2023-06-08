@@ -2814,6 +2814,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3576842.3582328
   ee: https://doi.org/10.1145/3576842.3582328
   url: https://dblp.org/rec/conf/iotdi/YaoKCCJL23
+- author: Jing Xu, Rui Wang 0070, Stefanos Koffas, Kaitai Liang, Stjepan Picek
+  title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
+    Networks.'
+  venue: ACSAC
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acsac/XuWKLP22
+  doi: 10.1145/3564625.3567999
+  ee: https://doi.org/10.1145/3564625.3567999
+  url: https://dblp.org/rec/conf/acsac/XuWKLP22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4353,3 +4364,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2305.12652
   ee: https://doi.org/10.48550/arXiv.2305.12652
   url: https://dblp.org/rec/journals/corr/abs-2305-12652
+- author: Yazan Obeidi
+  title: 'Global Layers: Non-IID Tabular Federated Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-19290
+  doi: 10.48550/ARXIV.2305.19290
+  ee: https://doi.org/10.48550/arXiv.2305.19290
+  url: https://dblp.org/rec/journals/corr/abs-2305-19290
