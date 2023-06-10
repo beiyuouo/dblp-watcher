@@ -2825,6 +2825,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3564625.3567999
   ee: https://doi.org/10.1145/3564625.3567999
   url: https://dblp.org/rec/conf/acsac/XuWKLP22
+- author: Shiyu Wang, Jiahao Xie, Mingming Lu, Neal N. Xiong
+  title: 'FedGraph-KD: An Effective Federated Graph Learning Scheme Based on Knowledge
+    Distillation.'
+  venue: BigDataSecurity/HPSC/IDS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdatasec/WangXLX23
+  doi: 10.1109/BIGDATASECURITY-HPSC-IDS58521.2023.00032
+  ee: https://doi.org/10.1109/BigDataSecurity-HPSC-IDS58521.2023.00032
+  url: https://dblp.org/rec/conf/bigdatasec/WangXLX23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
