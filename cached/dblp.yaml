@@ -2836,6 +2836,29 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/BIGDATASECURITY-HPSC-IDS58521.2023.00032
   ee: https://doi.org/10.1109/BigDataSecurity-HPSC-IDS58521.2023.00032
   url: https://dblp.org/rec/conf/bigdatasec/WangXLX23
+- author: Sivaram Krishnan, Jihong Park, Subhash Sagar, Gregory Sherman, Benjamin
+    Campbell, Jinho Choi 0001
+  title: Federated Graph Learning for Low Probability of Detection in Wireless Ad-Hoc
+    Networks.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-01143
+  doi: 10.48550/ARXIV.2306.01143
+  ee: https://doi.org/10.48550/arXiv.2306.01143
+  url: https://dblp.org/rec/journals/corr/abs-2306-01143
+- author: Tengfei Ma, Trong Nghia Hoang, Jie Chen
+  title: Federated Learning of Models Pre-Trained on Different Features with Consensus
+    Graphs.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-01240
+  doi: 10.48550/ARXIV.2306.01240
+  ee: https://doi.org/10.48550/arXiv.2306.01240
+  url: https://dblp.org/rec/journals/corr/abs-2306-01240
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4385,3 +4408,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2305.19290
   ee: https://doi.org/10.48550/arXiv.2305.19290
   url: https://dblp.org/rec/journals/corr/abs-2305-19290
+- author: Weijing Chen, Guoqiang Ma, Tao Fan, Yan Kang, Qian Xu 0005, Qiang Yang 0001
+  title: 'SecureBoost+ : A High Performance Gradient Boosting Tree Framework for Large
+    Scale Vertical Federated Learning.'
+  venue: CoRR
+  year: '2021'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2110-10927
+  doi: ''
+  ee: https://arxiv.org/abs/2110.10927
+  url: https://dblp.org/rec/journals/corr/abs-2110-10927
