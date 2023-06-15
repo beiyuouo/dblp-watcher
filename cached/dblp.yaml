@@ -2859,6 +2859,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2306.01240
   ee: https://doi.org/10.48550/arXiv.2306.01240
   url: https://dblp.org/rec/journals/corr/abs-2306-01240
+- author: Hao Yu, Chuan Ma, Meng Liu, Xinwang Liu, Zhe Liu 0001, Ming Ding
+  title: 'G2uardFL: Safeguarding Federated Learning Against Backdoor Attacks through
+    Attributed Client Graph Clustering.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-04984
+  doi: 10.48550/ARXIV.2306.04984
+  ee: https://doi.org/10.48550/arXiv.2306.04984
+  url: https://dblp.org/rec/journals/corr/abs-2306-04984
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
