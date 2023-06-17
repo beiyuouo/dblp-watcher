@@ -2881,6 +2881,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2306.04984
   ee: https://doi.org/10.48550/arXiv.2306.04984
   url: https://dblp.org/rec/journals/corr/abs-2306-04984
+- author: "Fran\xE7ois Gauthier, Vinay Chakravarthi Gogineni, Stefan Werner 0001,\
+    \ Yih-Fang Huang, Anthony Kuh"
+  title: Personalized Graph Federated Learning with Differential Privacy.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-06399
+  doi: 10.48550/ARXIV.2306.06399
+  ee: https://doi.org/10.48550/arXiv.2306.06399
+  url: https://dblp.org/rec/journals/corr/abs-2306-06399
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4441,3 +4452,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://arxiv.org/abs/2110.10927
   url: https://dblp.org/rec/journals/corr/abs-2110-10927
+- author: Hongyi Cai, Jianping Cai, Lan Sun
+  title: An Adaptive Gradient Privacy-Preserving Algorithm for Federated XGBoost.
+  venue: CACML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/cacml/CaiCS23
+  doi: 10.1145/3590003.3590051
+  ee: https://doi.org/10.1145/3590003.3590051
+  url: https://dblp.org/rec/conf/cacml/CaiCS23
