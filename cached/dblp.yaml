@@ -4462,3 +4462,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1145/3590003.3590051
   ee: https://doi.org/10.1145/3590003.3590051
   url: https://dblp.org/rec/conf/cacml/CaiCS23
+- author: Yuya Jeremy Ong, Nathalie Baracaldo, Yi Zhou 0015
+  title: Tree-Based Models for Federated Learning Systems.
+  venue: Federated Learning
+  year: '2022'
+  type: Parts in Books or Collections
+  access: closed
+  key: books/sp/22/OngBZ22
+  doi: 10.1007/978-3-030-96896-0_2
+  ee: https://doi.org/10.1007/978-3-030-96896-0_2
+  url: https://dblp.org/rec/books/sp/22/OngBZ22
