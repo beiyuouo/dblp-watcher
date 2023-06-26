@@ -4483,3 +4483,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/978-3-030-96896-0_2
   ee: https://doi.org/10.1007/978-3-030-96896-0_2
   url: https://dblp.org/rec/books/sp/22/OngBZ22
+- author: Qiusi Zhang, Xiangyu Zhao, Yan-yun Han, Feng Yang, Shouhui Pan, Zhongqiang
+    Liu, Kaiyi Wang, Chunjiang Zhao 0001
+  title: Maize yield prediction using federated random forest.
+  venue: Comput. Electron. Agric.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cea/ZhangZHYPLWZ23
+  doi: 10.1016/J.COMPAG.2023.107930
+  ee: https://doi.org/10.1016/j.compag.2023.107930
+  url: https://dblp.org/rec/journals/cea/ZhangZHYPLWZ23
