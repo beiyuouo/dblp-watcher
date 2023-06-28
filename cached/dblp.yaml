@@ -4494,3 +4494,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1016/J.COMPAG.2023.107930
   ee: https://doi.org/10.1016/j.compag.2023.107930
   url: https://dblp.org/rec/journals/cea/ZhangZHYPLWZ23
+- author: Zhaoyang Han, Chunpeng Ge, Bingzhe Wu, Zhe Liu 0001
+  title: Lightweight Privacy-Preserving Federated Incremental Decision Trees.
+  venue: IEEE Trans. Serv. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsc/HanGWL23
+  doi: 10.1109/TSC.2022.3195179
+  ee: https://doi.org/10.1109/TSC.2022.3195179
+  url: https://dblp.org/rec/journals/tsc/HanGWL23
