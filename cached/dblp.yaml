@@ -2903,6 +2903,28 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2306.10351
   ee: https://doi.org/10.48550/arXiv.2306.10351
   url: https://dblp.org/rec/journals/corr/abs-2306-10351
+- author: Daniel Manu, Jingjing Yao, Wuji Liu, Xiang Sun 0001
+  title: 'GraphGANFed: A Federated Generative Framework for Graph-Structured Molecules
+    Towards Efficient Drug Discovery.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2304-05498
+  doi: 10.48550/ARXIV.2304.05498
+  ee: https://doi.org/10.48550/arXiv.2304.05498
+  url: https://dblp.org/rec/journals/corr/abs-2304-05498
+- author: Zhenzhen Xie, Yan Huang 0032, Dongxiao Yu, Reza M. Parizi, Yanwei Zheng,
+    Junjie Pang
+  title: 'FedEE: A Federated Graph Learning Solution for Extended Enterprise Collaboration.'
+  venue: IEEE Trans. Ind. Informatics
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tii/XieHYPZP23
+  doi: 10.1109/TII.2022.3216238
+  ee: https://doi.org/10.1109/TII.2022.3216238
+  url: https://dblp.org/rec/journals/tii/XieHYPZP23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
