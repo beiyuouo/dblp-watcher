@@ -4526,3 +4526,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/TSC.2022.3195179
   ee: https://doi.org/10.1109/TSC.2022.3195179
   url: https://dblp.org/rec/journals/tsc/HanGWL23
+- author: Mengwei Yang, Shuqi Liu, Jie Xu 0001, Guozhen Tan, Congduan Li, Linqi Song
+  title: Achieving privacy-preserving cross-silo anomaly detection using federated
+    XGBoost.
+  venue: J. Frankl. Inst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jfi/YangLXTLS23
+  doi: 10.1016/J.JFRANKLIN.2023.04.002
+  ee: https://doi.org/10.1016/j.jfranklin.2023.04.002
+  url: https://dblp.org/rec/journals/jfi/YangLXTLS23
