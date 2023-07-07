@@ -2925,6 +2925,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TII.2022.3216238
   ee: https://doi.org/10.1109/TII.2022.3216238
   url: https://dblp.org/rec/journals/tii/XieHYPZP23
+- author: Chenhan Zhang, Weiqi Wang, James J. Q. Yu, Shui Yu 0001
+  title: Extracting Privacy-Preserving Subgraphs in Federated Graph Learning using
+    Information Bottleneck.
+  venue: AsiaCCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/asiaccs/ZhangWY023
+  doi: 10.1145/3579856.3595791
+  ee: https://doi.org/10.1145/3579856.3595791
+  url: https://dblp.org/rec/conf/asiaccs/ZhangWY023
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
