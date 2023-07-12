@@ -2936,6 +2936,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3579856.3595791
   ee: https://doi.org/10.1145/3579856.3595791
   url: https://dblp.org/rec/conf/asiaccs/ZhangWY023
+- author: "Zeynep G\xFCrler, Islem Rekik"
+  title: Federated Brain Graph Evolution Prediction Using Decentralized Connectivity
+    Datasets With Temporally-Varying Acquisitions.
+  venue: IEEE Trans. Medical Imaging
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/GurlerR23
+  doi: 10.1109/TMI.2022.3225083
+  ee: https://doi.org/10.1109/TMI.2022.3225083
+  url: https://dblp.org/rec/journals/tmi/GurlerR23
+- author: Liang Peng, Nan Wang, Nicha C. Dvornek, Xiaofeng Zhu 0001, Xiaoxiao Li
+  title: 'FedNI: Federated Graph Learning With Network Inpainting for Population-Based
+    Disease Prediction.'
+  venue: IEEE Trans. Medical Imaging
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tmi/PengWD0L23
+  doi: 10.1109/TMI.2022.3188728
+  ee: https://doi.org/10.1109/TMI.2022.3188728
+  url: https://dblp.org/rec/journals/tmi/PengWD0L23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
