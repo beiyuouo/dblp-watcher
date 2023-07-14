@@ -2958,6 +2958,16 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TMI.2022.3188728
   ee: https://doi.org/10.1109/TMI.2022.3188728
   url: https://dblp.org/rec/journals/tmi/PengWD0L23
+- author: Mouad Bouharoun, Bilal Taghdouti, Mohammed Erradi
+  title: A Peer to Peer Federated Graph Neural Network for Threat Intelligence.
+  venue: NETYS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/netys/BouharounTE23
+  doi: 10.1007/978-3-031-37765-5_3
+  ee: https://doi.org/10.1007/978-3-031-37765-5_3
+  url: https://dblp.org/rec/conf/netys/BouharounTE23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
