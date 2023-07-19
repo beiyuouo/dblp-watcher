@@ -2968,6 +2968,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-37765-5_3
   ee: https://doi.org/10.1007/978-3-031-37765-5_3
   url: https://dblp.org/rec/conf/netys/BouharounTE23
+- author: Chunjiong Zhang, Mingyong Li, Di Wu
+  title: Federated Multidomain Learning With Graph Ensemble Autoencoder GMM for Emotion
+    Recognition.
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/ZhangLW23
+  doi: 10.1109/TITS.2022.3203800
+  ee: https://doi.org/10.1109/TITS.2022.3203800
+  url: https://dblp.org/rec/journals/tits/ZhangLW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
