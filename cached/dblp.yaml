@@ -4601,3 +4601,23 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1016/J.JFRANKLIN.2023.04.002
   ee: https://doi.org/10.1016/j.jfranklin.2023.04.002
   url: https://dblp.org/rec/journals/jfi/YangLXTLS23
+- author: Hideaki Takahashi, Jingjing Liu, Yang Liu
+  title: Eliminating Label Leakage in Tree-Based Vertical Federated Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2307-10318
+  doi: 10.48550/ARXIV.2307.10318
+  ee: https://doi.org/10.48550/arXiv.2307.10318
+  url: https://dblp.org/rec/journals/corr/abs-2307-10318
+- author: Yu Qiao, Huy Q. Le, Choong Seon Hong
+  title: Boosting Federated Learning Convergence with Prototype Regularization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2307-10575
+  doi: 10.48550/ARXIV.2307.10575
+  ee: https://doi.org/10.48550/arXiv.2307.10575
+  url: https://dblp.org/rec/journals/corr/abs-2307-10575
