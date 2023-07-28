@@ -2989,6 +2989,38 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2307.09801
   ee: https://doi.org/10.48550/arXiv.2307.09801
   url: https://dblp.org/rec/journals/corr/abs-2307-09801
+- author: Zishan Gu, Ke Zhang, Guangji Bai, Liang Chen, Liang Zhao, Carl Yang
+  title: Dynamic Activation of Clients and Parameters for Federated Learning over
+    Heterogeneous Graphs.
+  venue: ICDE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/GuZBCZY23
+  doi: 10.1109/ICDE55515.2023.00126
+  ee: https://doi.org/10.1109/ICDE55515.2023.00126
+  url: https://dblp.org/rec/conf/icde/GuZBCZY23
+- author: Qiying Pan, Yifei Zhu, Lingyang Chu
+  title: 'Lumos: Heterogeneity-aware Federated Graph Learning over Decentralized Devices.'
+  venue: ICDE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icde/PanZC23
+  doi: 10.1109/ICDE55515.2023.00149
+  ee: https://doi.org/10.1109/ICDE55515.2023.00149
+  url: https://dblp.org/rec/conf/icde/PanZC23
+- author: Kai Li 0002, Xin Yuan 0004, Jingjing Zheng, Wei Ni 0001, Mohsen Guizani
+  title: Exploring Adversarial Graph Autoencoders to Manipulate Federated Learning
+    in The Internet of Things.
+  venue: IWCMC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/iwcmc/00020Z0G23
+  doi: 10.1109/IWCMC58020.2023.10183217
+  ee: https://doi.org/10.1109/IWCMC58020.2023.10183217
+  url: https://dblp.org/rec/conf/iwcmc/00020Z0G23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4621,3 +4653,15 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2307.10575
   ee: https://doi.org/10.48550/arXiv.2307.10575
   url: https://dblp.org/rec/journals/corr/abs-2307-10575
+- author: Yun Ji, Xiaoxiong Zhong, Zhoubin Kou, Sheng Zhang, Hangfan Li, Yuanyuan
+    Yang 0001
+  title: 'Efficiency-Boosting Federated Learning in Wireless Networks: A Long-Term
+    Perspective.'
+  venue: IEEE Trans. Veh. Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tvt/JiZKZLY23
+  doi: 10.1109/TVT.2023.3250273
+  ee: https://doi.org/10.1109/TVT.2023.3250273
+  url: https://dblp.org/rec/journals/tvt/JiZKZLY23
