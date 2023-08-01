@@ -3021,6 +3021,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/IWCMC58020.2023.10183217
   ee: https://doi.org/10.1109/IWCMC58020.2023.10183217
   url: https://dblp.org/rec/conf/iwcmc/00020Z0G23
+- author: Yue Tan, Yixin Liu, Guodong Long, Jing Jiang 0002, Qinghua Lu 0001, Chengqi
+    Zhang
+  title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/TanLL00Z23
+  doi: ''
+  ee: https://ojs.aaai.org/index.php/AAAI/article/view/26187
+  url: https://dblp.org/rec/conf/aaai/TanLL00Z23
+- author: Zheng Wang, Xiaoliang Fan, Jianzhong Qi 0001, Haibing Jin, Peizhen Yang,
+    Siqi Shen, Cheng Wang
+  title: 'FedGS: Federated Graph-Based Sampling with Arbitrary Client Availability.'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/aaai/WangF0JYSW23
+  doi: ''
+  ee: https://ojs.aaai.org/index.php/AAAI/article/view/26223
+  url: https://dblp.org/rec/conf/aaai/WangF0JYSW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
