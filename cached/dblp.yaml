@@ -3055,6 +3055,49 @@ Federated graph|subgraph|gnn:
   doi: 10.18653/V1/2022.FINDINGS-EMNLP.43
   ee: https://doi.org/10.18653/v1/2022.findings-emnlp.43
   url: https://dblp.org/rec/conf/emnlp/ZhangWWHYC022
+- author: Kun Guo, Yutong Fang, Qingqing Huang, Yuting Liang, Ziyao Zhang, Wenyu He,
+    Liu Yang 0118, Kai Chen 0005, Ximeng Liu, Wenzhong Guo
+  title: Globally Consistent Federated Graph Autoencoder for Non-IID Graphs.
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/GuoFHLZH00LG23
+  doi: 10.24963/IJCAI.2023/419
+  ee: https://doi.org/10.24963/ijcai.2023/419
+  url: https://dblp.org/rec/conf/ijcai/GuoFHLZH00LG23
+- author: Xiaoming Yuan 0002, Jiahui Chen, Jiayu Yang, Ning Zhang 0007, Tingting Yang
+    0001, Tao Han 0002, Amir Taherkordi
+  title: 'FedSTN: Graph Representation Driven Federated Learning for Edge Computing
+    Enabled Urban Traffic Flow Prediction.'
+  venue: IEEE Trans. Intell. Transp. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tits/YuanCYZYHT23
+  doi: 10.1109/TITS.2022.3157056
+  ee: https://doi.org/10.1109/TITS.2022.3157056
+  url: https://dblp.org/rec/journals/tits/YuanCYZYHT23
+- author: Xinyu Fu 0004, Irwin King
+  title: 'FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks.'
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/0004K23
+  doi: 10.24963/IJCAI.2023/412
+  ee: https://doi.org/10.24963/ijcai.2023/412
+  url: https://dblp.org/rec/conf/ijcai/0004K23
+- author: Wenke Huang, Guancheng Wan, Mang Ye, Bo Du 0001
+  title: Federated Graph Semantic and Structural Learning.
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ijcai/HuangWY023
+  doi: 10.24963/IJCAI.2023/426
+  ee: https://doi.org/10.24963/ijcai.2023/426
+  url: https://dblp.org/rec/conf/ijcai/HuangWY023
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
