@@ -3098,6 +3098,26 @@ Federated graph|subgraph|gnn:
   doi: 10.24963/IJCAI.2023/426
   ee: https://doi.org/10.24963/ijcai.2023/426
   url: https://dblp.org/rec/conf/ijcai/HuangWY023
+- author: Jinheon Baek, Wonyong Jeong, Jiongdao Jin, Jaehong Yoon, Sung Ju Hwang
+  title: Personalized Subgraph Federated Learning.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icml/BaekJJYH23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/baek23a.html
+  url: https://dblp.org/rec/conf/icml/BaekJJYH23
+- author: Peihua Mai, Yan Pang
+  title: Vertical Federated Graph Neural Network for Recommender System.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icml/MaiP23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/mai23b.html
+  url: https://dblp.org/rec/conf/icml/MaiP23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
