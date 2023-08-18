@@ -3118,6 +3118,39 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://proceedings.mlr.press/v202/mai23b.html
   url: https://dblp.org/rec/conf/icml/MaiP23
+- author: Rui Ye, Zhenyang Ni, Fangzhao Wu, Siheng Chen, Yanfeng Wang
+  title: Personalized Federated Learning with Inferred Collaboration Graphs.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icml/YeNWCW23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/ye23b.html
+  url: https://dblp.org/rec/conf/icml/YeNWCW23
+- author: Sivaram Krishnan, Jihong Park, Subhash Sagar, Gregory Sherman, Benjamin
+    Campbell, Jinho Choi 0001
+  title: Federated Graph Learning for Low Probability of Detection in Wireless Ad-Hoc
+    Networks.
+  venue: SSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ssp/KrishnanPSSCC23
+  doi: 10.1109/SSP53291.2023.10208058
+  ee: https://doi.org/10.1109/SSP53291.2023.10208058
+  url: https://dblp.org/rec/conf/ssp/KrishnanPSSCC23
+- author: Tengfei Ma, Trong Nghia Hoang, Jie Chen
+  title: Federated learning of models pre-trained on different features with consensus
+    graphs.
+  venue: UAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/uai/MaHC23
+  doi: ''
+  ee: https://proceedings.mlr.press/v216/ma23b.html
+  url: https://dblp.org/rec/conf/uai/MaHC23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4783,3 +4816,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/IJCNN54540.2023.10190999
   ee: https://doi.org/10.1109/IJCNN54540.2023.10190999
   url: https://dblp.org/rec/conf/ijcnn/ArchettiM23
+- author: Qiusi Zhang, Xiangyu Zhao, Yanyun Han, Feng Yang, Shouhui Pan, Zhongqiang
+    Liu, Kaiyi Wang, Chunjiang Zhao 0001
+  title: Maize yield prediction using federated random forest.
+  venue: Comput. Electron. Agric.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cea/ZhangZHYPLWZ23
+  doi: 10.1016/J.COMPAG.2023.107930
+  ee: https://doi.org/10.1016/j.compag.2023.107930
+  url: https://dblp.org/rec/journals/cea/ZhangZHYPLWZ23
+- author: Mark Vero, Mislav Balunovic, Dimitar Iliev Dimitrov, Martin T. Vechev
+  title: 'TabLeak: Tabular Data Leakage in Federated Learning.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icml/VeroBDV23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/vero23a.html
+  url: https://dblp.org/rec/conf/icml/VeroBDV23
