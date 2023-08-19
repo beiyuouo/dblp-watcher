@@ -3151,6 +3151,16 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://proceedings.mlr.press/v216/ma23b.html
   url: https://dblp.org/rec/conf/uai/MaHC23
+- author: Geng Zhao, Yi Huang, Chi Hsu Tsai
+  title: 'FedGSL: Federated Graph Structure Learning for Local Subgraph Augmentation.'
+  venue: IEEE Big Data
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/bigdataconf/ZhaoHT22
+  doi: 10.1109/BIGDATA55660.2022.10020771
+  ee: https://doi.org/10.1109/BigData55660.2022.10020771
+  url: https://dblp.org/rec/conf/bigdataconf/ZhaoHT22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
