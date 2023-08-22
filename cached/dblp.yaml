@@ -3161,6 +3161,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/BIGDATA55660.2022.10020771
   ee: https://doi.org/10.1109/BigData55660.2022.10020771
   url: https://dblp.org/rec/conf/bigdataconf/ZhaoHT22
+- author: Guowei Wu, Weike Pan, Zhong Ming 0001
+  title: 'GNN4FR: A Lossless GNN-based Federated Recommendation Framework.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-01197
+  doi: 10.48550/ARXIV.2308.01197
+  ee: https://doi.org/10.48550/arXiv.2308.01197
+  url: https://dblp.org/rec/journals/corr/abs-2308-01197
+- author: Marco Arazzi, Mauro Conti, Stefanos Koffas, Marina Krcek, Antonino Nocera,
+    Stjepan Picek, Jing Xu
+  title: 'BlindSage: Label Inference Attacks against Node-level Vertical Federated
+    Graph Neural Networks.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-02465
+  doi: 10.48550/ARXIV.2308.02465
+  ee: https://doi.org/10.48550/arXiv.2308.02465
+  url: https://dblp.org/rec/journals/corr/abs-2308-02465
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4847,3 +4869,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://proceedings.mlr.press/v202/vero23a.html
   url: https://dblp.org/rec/conf/icml/VeroBDV23
+- author: Hussain Ahmad Madni, Rao Muhammad Umer, Gian Luca Foresti
+  title: Federated Learning for Data and Model Heterogeneity in Medical Imaging.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-00155
+  doi: 10.48550/ARXIV.2308.00155
+  ee: https://doi.org/10.48550/arXiv.2308.00155
+  url: https://dblp.org/rec/journals/corr/abs-2308-00155
+- author: Alberto Archetti, Francesca Ieva, Matteo Matteucci
+  title: 'Scaling Survival Analysis in Healthcare with Federated Survival Forests:
+    A Comparative Study on Heart Failure and Breast Cancer Genomics.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-02382
+  doi: 10.48550/ARXIV.2308.02382
+  ee: https://doi.org/10.48550/arXiv.2308.02382
+  url: https://dblp.org/rec/journals/corr/abs-2308-02382
