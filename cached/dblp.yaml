@@ -3216,6 +3216,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2306.04984
   ee: https://doi.org/10.48550/arXiv.2306.04984
   url: https://dblp.org/rec/journals/corr/abs-2306-04984
+- author: Fan Liu, Siqi Lai, Yansong Ning, Hao Liu 0026
+  title: 'Bkd-FedGNN: A Benchmark for Classification Backdoor Attacks on Federated
+    Graph Neural Network.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-10351
+  doi: 10.48550/ARXIV.2306.10351
+  ee: https://doi.org/10.48550/arXiv.2306.10351
+  url: https://dblp.org/rec/journals/corr/abs-2306-10351
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
