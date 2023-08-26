@@ -3227,6 +3227,39 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2306.10351
   ee: https://doi.org/10.48550/arXiv.2306.10351
   url: https://dblp.org/rec/journals/corr/abs-2306-10351
+- author: Chunxu Zhang, Guodong Long, Tianyi Zhou 0001, Peng Yan, Zijian Zhang 0009,
+    Bo Yang 0002
+  title: Graph-guided Personalization for Federated Recommendation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2305-07866
+  doi: 10.48550/ARXIV.2305.07866
+  ee: https://doi.org/10.48550/arXiv.2305.07866
+  url: https://dblp.org/rec/journals/corr/abs-2305-07866
+- author: Junhao Zhang, Qianqian Wang, Xiaochuan Wang, Lishan Qiao, Mingxia Liu 0001
+  title: Preserving Specificity in Federated Graph Learning for fMRI-based Neurological
+    Disorder Identification.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-10302
+  doi: 10.48550/ARXIV.2308.10302
+  ee: https://doi.org/10.48550/arXiv.2308.10302
+  url: https://dblp.org/rec/journals/corr/abs-2308-10302
+- author: Jing Xu, Rui Wang 0070, Kaitai Liang, Stjepan Picek
+  title: 'More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural
+    Networks.'
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2202-03195
+  doi: ''
+  ee: https://arxiv.org/abs/2202.03195
+  url: https://dblp.org/rec/journals/corr/abs-2202-03195
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
