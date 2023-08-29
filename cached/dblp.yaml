@@ -3273,6 +3273,78 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-40837-3_4
   ee: https://doi.org/10.1007/978-3-031-40837-3_4
   url: https://dblp.org/rec/conf/cdmake/HolzingerSHBHRMBP23
+- author: Kun Guo, Yutong Fang, Qingqing Huang, Yuting Liang, Ziyao Zhang, Wenyu He,
+    Liu Yang 0008, Kai Chen 0005, Ximeng Liu, Wenzhong Guo
+  title: Globally Consistent Federated Graph Autoencoder for Non-IID Graphs.
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/GuoFHLZH00LG23
+  doi: 10.24963/IJCAI.2023/419
+  ee: https://doi.org/10.24963/ijcai.2023/419
+  url: https://dblp.org/rec/conf/ijcai/GuoFHLZH00LG23
+- author: Jinheon Baek, Wonyong Jeong, Jiongdao Jin, Jaehong Yoon, Sung Ju Hwang
+  title: Personalized Subgraph Federated Learning.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/BaekJJYH23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/baek23a.html
+  url: https://dblp.org/rec/conf/icml/BaekJJYH23
+- author: Peihua Mai, Yan Pang
+  title: Vertical Federated Graph Neural Network for Recommender System.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/MaiP23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/mai23b.html
+  url: https://dblp.org/rec/conf/icml/MaiP23
+- author: Rui Ye, Zhenyang Ni, Fangzhao Wu, Siheng Chen, Yanfeng Wang
+  title: Personalized Federated Learning with Inferred Collaboration Graphs.
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/YeNWCW23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/ye23b.html
+  url: https://dblp.org/rec/conf/icml/YeNWCW23
+- author: Xinyu Fu 0004, Irwin King
+  title: 'FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks.'
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/0004K23
+  doi: 10.24963/IJCAI.2023/412
+  ee: https://doi.org/10.24963/ijcai.2023/412
+  url: https://dblp.org/rec/conf/ijcai/0004K23
+- author: Wenke Huang, Guancheng Wan, Mang Ye, Bo Du 0001
+  title: Federated Graph Semantic and Structural Learning.
+  venue: IJCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/ijcai/HuangWY023
+  doi: 10.24963/IJCAI.2023/426
+  ee: https://doi.org/10.24963/ijcai.2023/426
+  url: https://dblp.org/rec/conf/ijcai/HuangWY023
+- author: Tengfei Ma, Trong Nghia Hoang, Jie Chen
+  title: Federated learning of models pre-trained on different features with consensus
+    graphs.
+  venue: UAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/uai/MaHC23
+  doi: ''
+  ee: https://proceedings.mlr.press/v216/ma23b.html
+  url: https://dblp.org/rec/conf/uai/MaHC23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -4980,3 +5052,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2308.02382
   ee: https://doi.org/10.48550/arXiv.2308.02382
   url: https://dblp.org/rec/journals/corr/abs-2308-02382
+- author: Mark Vero, Mislav Balunovic, Dimitar Iliev Dimitrov, Martin T. Vechev
+  title: 'TabLeak: Tabular Data Leakage in Federated Learning.'
+  venue: ICML
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/icml/VeroBDV23
+  doi: ''
+  ee: https://proceedings.mlr.press/v202/vero23a.html
+  url: https://dblp.org/rec/conf/icml/VeroBDV23
+- author: Qianyuan Zheng, Hao Chen, Zhan Ma
+  title: 'Bamboo: Boosting Training Efficiency for Real-Time Video Streaming via Online
+    Grouped Federated Transfer Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-09948
+  doi: 10.48550/ARXIV.2308.09948
+  ee: https://doi.org/10.48550/arXiv.2308.09948
+  url: https://dblp.org/rec/journals/corr/abs-2308-09948
