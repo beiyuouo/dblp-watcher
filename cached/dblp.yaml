@@ -3368,6 +3368,40 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICDE55515.2023.00126
   ee: https://doi.org/10.1109/ICDE55515.2023.00126
   url: https://dblp.org/rec/conf/icde/GuZBCZY23
+- author: Yue Tan, Yixin Liu, Guodong Long, Jing Jiang 0002, Qinghua Lu 0001, Chengqi
+    Zhang
+  title: Federated Learning on Non-IID Graphs via Structural Knowledge Sharing.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/TanLL00Z23
+  doi: 10.1609/AAAI.V37I8.26187
+  ee: https://doi.org/10.1609/aaai.v37i8.26187
+  url: https://dblp.org/rec/conf/aaai/TanLL00Z23
+- author: Zheng Wang, Xiaoliang Fan, Jianzhong Qi 0001, Haibing Jin, Peizhen Yang,
+    Siqi Shen, Cheng Wang
+  title: 'FedGS: Federated Graph-Based Sampling with Arbitrary Client Availability.'
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/WangF0JYSW23
+  doi: 10.1609/AAAI.V37I8.26223
+  ee: https://doi.org/10.1609/aaai.v37i8.26223
+  url: https://dblp.org/rec/conf/aaai/WangF0JYSW23
+- author: Chaoyang He 0001, Emir Ceyani, Keshav Balasubramanian, Murali Annavaram,
+    Salman Avestimehr
+  title: 'SpreadGNN: Decentralized Multi-Task Federated Learning for Graph Neural
+    Networks on Molecular Data.'
+  venue: AAAI
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/0001CBAA22
+  doi: 10.1609/AAAI.V36I6.20643
+  ee: https://doi.org/10.1609/aaai.v36i6.20643
+  url: https://dblp.org/rec/conf/aaai/0001CBAA22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5096,3 +5130,35 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2308.09948
   ee: https://doi.org/10.48550/arXiv.2308.09948
   url: https://dblp.org/rec/journals/corr/abs-2308-09948
+- author: Qinbin Li, Zeyi Wen, Bingsheng He
+  title: Practical Federated Gradient Boosting Decision Trees.
+  venue: AAAI
+  year: '2020'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/LiWH20
+  doi: 10.1609/AAAI.V34I04.5895
+  ee: https://doi.org/10.1609/aaai.v34i04.5895
+  url: https://dblp.org/rec/conf/aaai/LiWH20
+- author: Shuo Li, Yanwei Zheng, Yifei Zou
+  title: 'WFLTree: A Spanning Tree Construction for Federated Learning in Wireless
+    Networks.'
+  venue: J. Circuits Syst. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jcsc/LiZZ23
+  doi: 10.1142/S0218126623502201
+  ee: https://doi.org/10.1142/S0218126623502201
+  url: https://dblp.org/rec/journals/jcsc/LiZZ23
+- author: Xiangping Kang, Guoxian Yu, Jun Wang, Wei Guo, Carlotta Domeniconi, Jinglin
+    Zhang
+  title: Incentive-Boosted Federated Crowdsourcing.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KangYWGDZ23
+  doi: 10.1609/AAAI.V37I5.25744
+  ee: https://doi.org/10.1609/aaai.v37i5.25744
+  url: https://dblp.org/rec/conf/aaai/KangYWGDZ23
