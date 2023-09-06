@@ -5162,3 +5162,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1609/AAAI.V37I5.25744
   ee: https://doi.org/10.1609/aaai.v37i5.25744
   url: https://dblp.org/rec/conf/aaai/KangYWGDZ23
+- author: Qianyuan Zheng, Hao Chen 0036, Zhan Ma
+  title: 'Bamboo: Boosting Training Efficiency for Real-Time Video Streaming via Online
+    Grouped Federated Transfer Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2308-09948
+  doi: 10.48550/ARXIV.2308.09948
+  ee: https://doi.org/10.48550/arXiv.2308.09948
+  url: https://dblp.org/rec/journals/corr/abs-2308-09948
