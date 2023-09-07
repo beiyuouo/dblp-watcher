@@ -3402,6 +3402,16 @@ Federated graph|subgraph|gnn:
   doi: 10.1609/AAAI.V36I6.20643
   ee: https://doi.org/10.1609/aaai.v36i6.20643
   url: https://dblp.org/rec/conf/aaai/0001CBAA22
+- author: Rongyu Zhang, Yun Chen, Chenrui Wu, Fangxin Wang
+  title: Cluster-driven GNN-based Federated Recommendation with Biased Message Dropout.
+  venue: ICME
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icmcs/ZhangCWW23
+  doi: 10.1109/ICME55011.2023.00108
+  ee: https://doi.org/10.1109/ICME55011.2023.00108
+  url: https://dblp.org/rec/conf/icmcs/ZhangCWW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5173,3 +5183,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2308.09948
   ee: https://doi.org/10.48550/arXiv.2308.09948
   url: https://dblp.org/rec/journals/corr/abs-2308-09948
+- author: Chen Qian, Hui Xiong, Jiyun Li
+  title: 'FeDeFo: A Personalized Federated Deep Forest Framework for Alzheimer&apos;s
+    Disease Diagnosis.'
+  venue: SEKE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/seke/QianXL23
+  doi: 10.18293/SEKE2023-013
+  ee: https://doi.org/10.18293/SEKE2023-013
+  url: https://dblp.org/rec/conf/seke/QianXL23
