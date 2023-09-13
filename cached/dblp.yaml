@@ -3422,6 +3422,30 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICME55011.2023.00108
   ee: https://doi.org/10.1109/ICME55011.2023.00108
   url: https://dblp.org/rec/conf/icmcs/ZhangCWW23
+- author: "Andreas Holzinger, Anna Saranti, Anne-Christin Hauschild, Jacqueline Michelle\
+    \ Beinecke, Dominik Heider, Richard R\xF6ttger, Heimo M\xFCller, Jan Baumbach,\
+    \ Bastian Pfeifer"
+  title: Human-in-the-Loop Integration with Domain-Knowledge Graphs for Explainable
+    Federated Deep Learning.
+  venue: CD-MAKE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/cdmake/HolzingerSHBHRMBP23
+  doi: 10.1007/978-3-031-40837-3_4
+  ee: https://doi.org/10.1007/978-3-031-40837-3_4
+  url: https://dblp.org/rec/conf/cdmake/HolzingerSHBHRMBP23
+- author: Ana Claudia Sima, Tarcisio Mendes de Farias
+  title: On the Potential of Artificial Intelligence Chatbots for Data Exploration
+    of Federated Bioinformatics Knowledge Graphs.
+  venue: SeWeBMeDA@ESWC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/esws/SimaF23
+  doi: ''
+  ee: https://ceur-ws.org/Vol-3466/paper1.pdf
+  url: https://dblp.org/rec/conf/esws/SimaF23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
