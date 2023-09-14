@@ -3446,6 +3446,17 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://ceur-ws.org/Vol-3466/paper1.pdf
   url: https://dblp.org/rec/conf/esws/SimaF23
+- author: Ana Claudia Sima, Tarcisio Mendes de Farias
+  title: On the Potential of Artificial Intelligence Chatbots for Data Exploration
+    of Federated Bioinformatics Knowledge Graphs.
+  venue: SeWeBMeDA@ESWC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/esws/SimaF23
+  doi: ''
+  ee: https://ceur-ws.org/Vol-3466/paper1.pdf
+  url: https://dblp.org/rec/conf/esws/SimaF23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5228,3 +5239,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.18293/SEKE2023-013
   ee: https://doi.org/10.18293/SEKE2023-013
   url: https://dblp.org/rec/conf/seke/QianXL23
+- author: Guowen Xu, Xingshuo Han, Shengmin Xu, Tianwei Zhang 0004, Hongwei Li 0001,
+    Xinyi Huang 0001, Robert H. Deng
+  title: 'Hercules: Boosting the Performance of Privacy-Preserving Federated Learning.'
+  venue: IEEE Trans. Dependable Secur. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tdsc/XuHXZLHD23
+  doi: 10.1109/TDSC.2022.3218793
+  ee: https://doi.org/10.1109/TDSC.2022.3218793
+  url: https://dblp.org/rec/journals/tdsc/XuHXZLHD23
+- author: Roberto Esposito, Mirko Polato, Marco Aldinucci
+  title: Boosting Methods for Federated Learning.
+  venue: SEBD
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/sebd/EspositoPA23
+  doi: ''
+  ee: https://ceur-ws.org/Vol-3478/paper48.pdf
+  url: https://dblp.org/rec/conf/sebd/EspositoPA23
