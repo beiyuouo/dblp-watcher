@@ -3457,6 +3457,17 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://ceur-ws.org/Vol-3466/paper1.pdf
   url: https://dblp.org/rec/conf/esws/SimaF23
+- author: Wenxuan Ye, Chendi Qian, Xueli An, Xueqiang Yan, Georg Carle
+  title: 'Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based
+    Analysis.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-05525
+  doi: 10.48550/ARXIV.2309.05525
+  ee: https://doi.org/10.48550/arXiv.2309.05525
+  url: https://dblp.org/rec/journals/corr/abs-2309-05525
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
