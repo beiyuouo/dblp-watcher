@@ -3468,6 +3468,16 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2309.05525
   ee: https://doi.org/10.48550/arXiv.2309.05525
   url: https://dblp.org/rec/journals/corr/abs-2309-05525
+- author: Elsa Rizk, Stefan Vlaski, Ali H. Sayed
+  title: Privatized graph federated learning.
+  venue: EURASIP J. Adv. Signal Process.
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/ejasp/RizkVS23
+  doi: 10.1186/S13634-023-01049-4
+  ee: https://doi.org/10.1186/s13634-023-01049-4
+  url: https://dblp.org/rec/journals/ejasp/RizkVS23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
