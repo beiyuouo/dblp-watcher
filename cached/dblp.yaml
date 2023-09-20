@@ -5281,3 +5281,25 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://ceur-ws.org/Vol-3478/paper48.pdf
   url: https://dblp.org/rec/conf/sebd/EspositoPA23
+- author: Essam H. Houssein, Awny Sayed
+  title: Boosted federated learning based on improved Particle Swarm Optimization
+    for healthcare IoT devices.
+  venue: Comput. Biol. Medicine
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cbm/HousseinS23a
+  doi: 10.1016/J.COMPBIOMED.2023.107195
+  ee: https://doi.org/10.1016/j.compbiomed.2023.107195
+  url: https://dblp.org/rec/journals/cbm/HousseinS23a
+- author: Qianyuan Zheng, Hao Chen, Zhan Ma
+  title: 'Bamboo: Boosting Training Efficiency for Real-Time Video Streaming via Online
+    Grouped Federated Transfer Learning.'
+  venue: APNet
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/apnet/ZhengCM23
+  doi: 10.1145/3600061.3600069
+  ee: https://doi.org/10.1145/3600061.3600069
+  url: https://dblp.org/rec/conf/apnet/ZhengCM23
