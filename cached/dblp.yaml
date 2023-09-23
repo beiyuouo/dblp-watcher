@@ -3478,6 +3478,39 @@ Federated graph|subgraph|gnn:
   doi: 10.1186/S13634-023-01049-4
   ee: https://doi.org/10.1186/s13634-023-01049-4
   url: https://dblp.org/rec/journals/ejasp/RizkVS23
+- author: Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen, Guandong Xu
+  title: Mitigating the performance sacrifice in DP-satisfied federated settings through
+    graph contrastive learning.
+  venue: Inf. Sci.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/YangZLCX23
+  doi: 10.1016/J.INS.2023.119552
+  ee: https://doi.org/10.1016/j.ins.2023.119552
+  url: https://dblp.org/rec/journals/isci/YangZLCX23
+- author: Zixin Wang, Yong Zhou 0006, Yinan Zou, Qiaochu An, Yuanming Shi, Mehdi Bennis
+  title: A Graph Neural Network Learning Approach to Optimize RIS-Assisted Federated
+    Learning.
+  venue: IEEE Trans. Wirel. Commun.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/twc/WangZZASB23
+  doi: 10.1109/TWC.2023.3239400
+  ee: https://doi.org/10.1109/TWC.2023.3239400
+  url: https://dblp.org/rec/journals/twc/WangZZASB23
+- author: Qiying Pan, Ruofan Wu, Tengfei Liu, Tianyi Zhang, Yifei Zhu, Weiqiang Wang
+  title: 'FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural
+    Networks.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2309-09517
+  doi: 10.48550/ARXIV.2309.09517
+  ee: https://doi.org/10.48550/arXiv.2309.09517
+  url: https://dblp.org/rec/journals/corr/abs-2309-09517
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
