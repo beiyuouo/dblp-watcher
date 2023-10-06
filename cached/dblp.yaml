@@ -3553,6 +3553,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2309.11680
   ee: https://doi.org/10.48550/arXiv.2309.11680
   url: https://dblp.org/rec/journals/corr/abs-2309-11680
+- author: Liqiao Xia, Pai Zheng, Yongshi Liang, Ge Zheng, Zhengyang Ling
+  title: 'Secure Co-Creation of Industrial Knowledge Graph: Graph Complement Method
+    with Federated Learning and ChatGPT.'
+  venue: CASE
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/case/XiaZLZL23
+  doi: 10.1109/CASE56687.2023.10260382
+  ee: https://doi.org/10.1109/CASE56687.2023.10260382
+  url: https://dblp.org/rec/conf/case/XiaZLZL23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
