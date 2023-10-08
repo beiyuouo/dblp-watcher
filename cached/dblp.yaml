@@ -3564,6 +3564,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/CASE56687.2023.10260382
   ee: https://doi.org/10.1109/CASE56687.2023.10260382
   url: https://dblp.org/rec/conf/case/XiaZLZL23
+- author: Pengqing Hu, Zhaohao Lin, Weike Pan, Qiang Yang 0001, Xiaogang Peng, Zhong
+    Ming 0001
+  title: Privacy-preserving graph convolution network for federated item recommendation.
+  venue: Artif. Intell.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/ai/HuLPYPM23
+  doi: 10.1016/J.ARTINT.2023.103996
+  ee: https://doi.org/10.1016/j.artint.2023.103996
+  url: https://dblp.org/rec/journals/ai/HuLPYPM23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
