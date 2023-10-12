@@ -3575,6 +3575,38 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.ARTINT.2023.103996
   ee: https://doi.org/10.1016/j.artint.2023.103996
   url: https://dblp.org/rec/journals/ai/HuLPYPM23
+- author: "Emircan G\xFCndogdu, Islem Rekik"
+  title: Template-Based Federated Multiview Domain Alignment for Predicting Heterogeneous
+    Brain Graph Evolution Trajectories from Baseline.
+  venue: PRIME@MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/GundogduR23
+  doi: 10.1007/978-3-031-46005-0_2
+  ee: https://doi.org/10.1007/978-3-031-46005-0_2
+  url: https://dblp.org/rec/conf/miccai/GundogduR23
+- author: Michalis Pistos, Gang Li 0001, Weili Lin, Dinggang Shen, Islem Rekik
+  title: Federated Multi-trajectory GNNs Under Data Limitations for Baby Brain Connectivity
+    Forecasting.
+  venue: PRIME@MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/PistosLLSR23
+  doi: 10.1007/978-3-031-46005-0_11
+  ee: https://doi.org/10.1007/978-3-031-46005-0_11
+  url: https://dblp.org/rec/conf/miccai/PistosLLSR23
+- author: Chun Xu, Islem Rekik
+  title: Federated Multi-domain GNN Network for Brain Multigraph Generation.
+  venue: PRIME@MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/miccai/XuR23
+  doi: 10.1007/978-3-031-46005-0_17
+  ee: https://doi.org/10.1007/978-3-031-46005-0_17
+  url: https://dblp.org/rec/conf/miccai/XuR23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
