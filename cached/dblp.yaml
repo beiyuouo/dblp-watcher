@@ -3607,6 +3607,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-46005-0_17
   ee: https://doi.org/10.1007/978-3-031-46005-0_17
   url: https://dblp.org/rec/conf/miccai/XuR23
+- author: Zhao Yang, Qingshuang Sun
+  title: Energy-efficient Personalized Federated Search with Graph for Edge Computing.
+  venue: ACM Trans. Embed. Comput. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tecs/YangS23
+  doi: 10.1145/3609435
+  ee: https://doi.org/10.1145/3609435
+  url: https://dblp.org/rec/journals/tecs/YangS23
+- author: Yang Lu, Zhengxin Yu, Neeraj Suri
+  title: Privacy-preserving Decentralized Federated Learning over Time-varying Communication
+    Graph.
+  venue: ACM Trans. Priv. Secur.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tissec/LuYS23
+  doi: 10.1145/3591354
+  ee: https://doi.org/10.1145/3591354
+  url: https://dblp.org/rec/journals/tissec/LuYS23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
