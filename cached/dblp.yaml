@@ -5464,3 +5464,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1145/3600061.3600069
   ee: https://doi.org/10.1145/3600061.3600069
   url: https://dblp.org/rec/conf/apnet/ZhengCM23
+- author: Xiangping Kang, Guoxian Yu, Jun Wang 0035, Wei Guo, Carlotta Domeniconi,
+    Jinglin Zhang
+  title: Incentive-Boosted Federated Crowdsourcing.
+  venue: AAAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: open
+  key: conf/aaai/KangYWGDZ23
+  doi: 10.1609/AAAI.V37I5.25744
+  ee: https://doi.org/10.1609/aaai.v37i5.25744
+  url: https://dblp.org/rec/conf/aaai/KangYWGDZ23
