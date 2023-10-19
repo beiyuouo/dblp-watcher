@@ -3628,6 +3628,27 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3591354
   ee: https://doi.org/10.1145/3591354
   url: https://dblp.org/rec/journals/tissec/LuYS23
+- author: Xiaoying Li, Xiaojun Chen 0004, Bisheng Tang, Shaopu Wang, Yuexin Xuan,
+    Zhendong Zhao
+  title: Unsupervised Graph Structure-Assisted Personalized Federated Learning.
+  venue: ECAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ecai/Li0TWXZ23
+  doi: 10.3233/FAIA230421
+  ee: https://doi.org/10.3233/FAIA230421
+  url: https://dblp.org/rec/conf/ecai/Li0TWXZ23
+- author: Meilin Yang, Jian Xu, Wenbo Ding, Yang Liu
+  title: Federated Capsule Graph Neural Network with Personalization.
+  venue: UbiComp/ISWC Adjunct
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/huc/YangXDL22
+  doi: 10.1145/3544793.3560411
+  ee: https://doi.org/10.1145/3544793.3560411
+  url: https://dblp.org/rec/conf/huc/YangXDL22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
