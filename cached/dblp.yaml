@@ -3649,6 +3649,28 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3544793.3560411
   ee: https://doi.org/10.1145/3544793.3560411
   url: https://dblp.org/rec/conf/huc/YangXDL22
+- author: Ramona Ghilea, Islem Rekik
+  title: Replica-Based Federated Learning with Heterogeneous Architectures for Graph
+    Super-Resolution.
+  venue: MLMI@MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mlmi-ws/GhileaR23
+  doi: 10.1007/978-3-031-45676-3_28
+  ee: https://doi.org/10.1007/978-3-031-45676-3_28
+  url: https://dblp.org/rec/conf/mlmi-ws/GhileaR23
+- author: Junhao Zhang, Xiaochuan Wang, Qianqian Wang, Lishan Qiao, Mingxia Liu 0001
+  title: Specificity-Aware Federated Graph Learning for Brain Disorder Analysis with
+    Functional MRI.
+  venue: MLMI@MICCAI
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mlmi-ws/ZhangWWQL23
+  doi: 10.1007/978-3-031-45676-3_5
+  ee: https://doi.org/10.1007/978-3-031-45676-3_5
+  url: https://dblp.org/rec/conf/mlmi-ws/ZhangWWQL23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5496,3 +5518,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1609/AAAI.V37I5.25744
   ee: https://doi.org/10.1609/aaai.v37i5.25744
   url: https://dblp.org/rec/conf/aaai/KangYWGDZ23
+- author: Yifeng Zheng, Shuangqing Xu, Songlei Wang, Yansong Gao, Zhongyun Hua
+  title: 'Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient
+    Boosted Decision Tables.'
+  venue: IEEE Trans. Serv. Comput.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsc/ZhengXWGH23
+  doi: 10.1109/TSC.2023.3279839
+  ee: https://doi.org/10.1109/TSC.2023.3279839
+  url: https://dblp.org/rec/journals/tsc/ZhengXWGH23
