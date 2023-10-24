@@ -5529,3 +5529,15 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/TSC.2023.3279839
   ee: https://doi.org/10.1109/TSC.2023.3279839
   url: https://dblp.org/rec/journals/tsc/ZhengXWGH23
+- author: Xiaochen Li, Yuke Hu, Weiran Liu, Hanwen Feng 0001, Li Peng, Yuan Hong,
+    Kui Ren 0001, Zhan Qin
+  title: 'OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving
+    Desensitization.'
+  venue: Proc. VLDB Endow.
+  year: '2022'
+  type: Journal Articles
+  access: open
+  key: journals/pvldb/LiHL0PH0Q22
+  doi: 10.14778/3565816.3565823
+  ee: https://www.vldb.org/pvldb/vol16/p202-li.pdf
+  url: https://dblp.org/rec/journals/pvldb/LiHL0PH0Q22
