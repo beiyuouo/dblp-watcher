@@ -3671,6 +3671,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-3-031-45676-3_5
   ee: https://doi.org/10.1007/978-3-031-45676-3_5
   url: https://dblp.org/rec/conf/mlmi-ws/ZhangWWQL23
+- author: Xueyu Wu, Zhuoran Ji, Cho-Li Wang
+  title: Embedding Communication for Federated Graph Neural Networks with Privacy
+    Guarantees.
+  venue: ICDCS
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icdcs/WuJW23
+  doi: 10.1109/ICDCS57875.2023.00029
+  ee: https://doi.org/10.1109/ICDCS57875.2023.00029
+  url: https://dblp.org/rec/conf/icdcs/WuJW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5541,3 +5552,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.14778/3565816.3565823
   ee: https://www.vldb.org/pvldb/vol16/p202-li.pdf
   url: https://dblp.org/rec/journals/pvldb/LiHL0PH0Q22
+- author: Shuaijun Chen, Omid Tavallaie, Michael Henri Hambali, Seid Miad Zandavi,
+    Hamed Haddadi, Song Guo 0001, Albert Y. Zomaya
+  title: Boosting Client Selection of Federated Learning under Device and Data Heterogeneity.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-08147
+  doi: 10.48550/ARXIV.2310.08147
+  ee: https://doi.org/10.48550/arXiv.2310.08147
+  url: https://dblp.org/rec/journals/corr/abs-2310-08147
