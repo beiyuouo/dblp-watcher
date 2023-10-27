@@ -5563,3 +5563,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2310.08147
   ee: https://doi.org/10.48550/arXiv.2310.08147
   url: https://dblp.org/rec/journals/corr/abs-2310-08147
+- author: Alberto Archetti, Francesca Ieva, Matteo Matteucci
+  title: 'Scaling survival analysis in healthcare with federated survival forests:
+    A comparative study on heart failure and breast cancer genomics.'
+  venue: Future Gener. Comput. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/fgcs/ArchettiIM23
+  doi: 10.1016/J.FUTURE.2023.07.036
+  ee: https://doi.org/10.1016/j.future.2023.07.036
+  url: https://dblp.org/rec/journals/fgcs/ArchettiIM23
