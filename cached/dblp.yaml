@@ -3714,6 +3714,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2310.12350
   ee: https://doi.org/10.48550/arXiv.2310.12350
   url: https://dblp.org/rec/journals/corr/abs-2310-12350
+- author: Marco Skocaj, Pedro Enrique Iturria Rivera, Roberto Verdone, Melike Erol-Kantarci
+  title: 'Uplink Scheduling in Federated Learning: An Importance-Aware Approach via
+    Graph Representation Learning.'
+  venue: ICC Workshops
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/SkocajRVE23
+  doi: 10.1109/ICCWORKSHOPS57953.2023.10283576
+  ee: https://doi.org/10.1109/ICCWorkshops57953.2023.10283576
+  url: https://dblp.org/rec/conf/icc/SkocajRVE23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5617,3 +5628,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2310.11865
   ee: https://doi.org/10.48550/arXiv.2310.11865
   url: https://dblp.org/rec/journals/corr/abs-2310-11865
+- author: Sawsan Abdul Rahman, Ouns Bouachir, Safa Otoum, Azzam Mourad
+  title: 'Towards Boosting Federated Learning Convergence: A Computation Offloading
+    &amp; Clustering Approach.'
+  venue: ICC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icc/RahmanBOM23
+  doi: 10.1109/ICC45041.2023.10279581
+  ee: https://doi.org/10.1109/ICC45041.2023.10279581
+  url: https://dblp.org/rec/conf/icc/RahmanBOM23
