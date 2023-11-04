@@ -3725,6 +3725,18 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICCWORKSHOPS57953.2023.10283576
   ee: https://doi.org/10.1109/ICCWorkshops57953.2023.10283576
   url: https://dblp.org/rec/conf/icc/SkocajRVE23
+- author: Ruofan Wu, Mingyang Zhang, Lingjuan Lyu, Xiaolong Xu, Xiuquan Hao, Xinyi
+    Fu, Tengfei Liu, Tianyi Zhang, Weiqiang Wang
+  title: Privacy-preserving design of graph neural networks with applications to vertical
+    federated learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2310-20552
+  doi: 10.48550/ARXIV.2310.20552
+  ee: https://doi.org/10.48550/arXiv.2310.20552
+  url: https://dblp.org/rec/journals/corr/abs-2310-20552
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5639,3 +5651,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ICC45041.2023.10279581
   ee: https://doi.org/10.1109/ICC45041.2023.10279581
   url: https://dblp.org/rec/conf/icc/RahmanBOM23
+- author: Mattis Bodynek, Florian Leiser, Scott Thiebes, Ali Sunyaev
+  title: 'Applying Random Forests in Federated Learning: A Synthesis of Aggregation
+    Techniques.'
+  venue: Wirtschaftsinformatik
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/wirtschaftsinformatik/BodynekLTS23
+  doi: ''
+  ee: https://aisel.aisnet.org/wi2023/46
+  url: https://dblp.org/rec/conf/wirtschaftsinformatik/BodynekLTS23
