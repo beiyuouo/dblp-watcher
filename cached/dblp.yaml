@@ -3737,6 +3737,18 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2310.20552
   ee: https://doi.org/10.48550/arXiv.2310.20552
   url: https://dblp.org/rec/journals/corr/abs-2310-20552
+- author: Mohamed Abdel-Basset, Hossam Hawash, Karam M. Sallam, Ibrahim Elgendi, Kumudu
+    S. Munasinghe
+  title: 'Digital Twin for Optimization of Slicing-Enabled Communication Networks:
+    A Federated Graph Learning Approach.'
+  venue: IEEE Commun. Mag.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/cm/AbdelBassetHSEM23
+  doi: 10.1109/MCOM.003.2200609
+  ee: https://doi.org/10.1109/MCOM.003.2200609
+  url: https://dblp.org/rec/journals/cm/AbdelBassetHSEM23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
