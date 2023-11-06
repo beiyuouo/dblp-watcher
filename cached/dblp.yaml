@@ -5674,3 +5674,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://aisel.aisnet.org/wi2023/46
   url: https://dblp.org/rec/conf/wirtschaftsinformatik/BodynekLTS23
+- author: Quang Minh Nguyen, Nhan Khanh Le, Lam M. Nguyen
+  title: Scalable and Secure Federated XGBoost.
+  venue: ICASSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/NguyenLN23
+  doi: 10.1109/ICASSP49357.2023.10097233
+  ee: https://doi.org/10.1109/ICASSP49357.2023.10097233
+  url: https://dblp.org/rec/conf/icassp/NguyenLN23
+- author: Shuai Wang, Yanqing Xu, Yanli Yuan, Xiuhua Wang, Tony Q. S. Quek
+  title: Boosting Semi-Supervised Federated Learning with Model Personalization and
+    Client-Variance-Reduction.
+  venue: ICASSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/WangXYWQ23
+  doi: 10.1109/ICASSP49357.2023.10096678
+  ee: https://doi.org/10.1109/ICASSP49357.2023.10096678
+  url: https://dblp.org/rec/conf/icassp/WangXYWQ23
