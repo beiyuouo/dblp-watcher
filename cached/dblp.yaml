@@ -3761,6 +3761,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2310.13248
   ee: https://doi.org/10.48550/arXiv.2310.13248
   url: https://dblp.org/rec/journals/corr/abs-2310-13248
+- author: "Mathieu Even, Anastasia Koloskova, Laurent Massouli\xE9"
+  title: 'Asynchronous SGD on Graphs: a Unified Framework for Asynchronous Decentralized
+    and Federated Optimization.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-00465
+  doi: 10.48550/ARXIV.2311.00465
+  ee: https://doi.org/10.48550/arXiv.2311.00465
+  url: https://dblp.org/rec/journals/corr/abs-2311-00465
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
