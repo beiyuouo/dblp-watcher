@@ -3772,6 +3772,40 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2311.00465
   ee: https://doi.org/10.48550/arXiv.2311.00465
   url: https://dblp.org/rec/journals/corr/abs-2311-00465
+- author: He-xuan Hu, Chengcheng Cao, Qiang Hu, Ye Zhang 0010
+  title: Federated learning enabled graph convolutional autoencoder and factorization
+    machine for potential friendship prediction in social networks.
+  venue: Inf. Fusion
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/inffus/HuCHZ24
+  doi: 10.1016/J.INFFUS.2023.102042
+  ee: https://doi.org/10.1016/j.inffus.2023.102042
+  url: https://dblp.org/rec/journals/inffus/HuCHZ24
+- author: Zhen Chen 0013, Wuyang Li, Xiaohan Xing, Yixuan Yuan
+  title: Medical federated learning with joint graph purification for noisy label
+    learning.
+  venue: Medical Image Anal.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/mia/ChenLXY23
+  doi: 10.1016/J.MEDIA.2023.102976
+  ee: https://doi.org/10.1016/j.media.2023.102976
+  url: https://dblp.org/rec/journals/mia/ChenLXY23
+- author: Qian Chen, Yiqiang Chen, Xinlong Jiang, Teng Zhang, Weiwei Dai, Wuliang
+    Huang, Zhen Yan, Bo Ye
+  title: Differentially Private Pre-Trained Model Fusion using Decentralized Federated
+    Graph Matching.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-03396
+  doi: 10.48550/ARXIV.2311.03396
+  ee: https://doi.org/10.48550/arXiv.2311.03396
+  url: https://dblp.org/rec/journals/corr/abs-2311-03396
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
