@@ -3806,6 +3806,29 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2311.03396
   ee: https://doi.org/10.48550/arXiv.2311.03396
   url: https://dblp.org/rec/journals/corr/abs-2311-03396
+- author: Ngo Duc Hoang Son, Huynh Thai Thi, Phan The Duy, Van-Hau Pham
+  title: 'XFedGraph-Hunter: An Interpretable Federated Learning Framework for Hunting
+    Advanced Persistent Threat in Provenance Graph.'
+  venue: ISPEC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/ispec/SonTDP23
+  doi: 10.1007/978-981-99-7032-2_32
+  ee: https://doi.org/10.1007/978-981-99-7032-2_32
+  url: https://dblp.org/rec/conf/ispec/SonTDP23
+- author: Wenjie Fu, Huandong Wang, Chen Gao, Guanghua Liu, Yong Li 0008, Tao Jiang
+    0002
+  title: Privacy-Preserving Individual-Level COVID-19 Infection Prediction via Federated
+    Graph Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-06049
+  doi: 10.48550/ARXIV.2311.06049
+  ee: https://doi.org/10.48550/arXiv.2311.06049
+  url: https://dblp.org/rec/journals/corr/abs-2311-06049
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
