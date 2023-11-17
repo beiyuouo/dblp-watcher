@@ -5775,3 +5775,25 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ICASSP49357.2023.10096678
   ee: https://doi.org/10.1109/ICASSP49357.2023.10096678
   url: https://dblp.org/rec/conf/icassp/WangXYWQ23
+- author: William Lindskog, Christian Prehofer, Sarandeep Singh
+  title: Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated
+    Tabular Data.
+  venue: FMEC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fmec/LindskogPS23
+  doi: 10.1109/FMEC59375.2023.10306242
+  ee: https://doi.org/10.1109/FMEC59375.2023.10306242
+  url: https://dblp.org/rec/conf/fmec/LindskogPS23
+- author: William Lindskog, Christian Prehofer
+  title: 'A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models
+    and Neural Networks.'
+  venue: FMEC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/fmec/LindskogP23
+  doi: 10.1109/FMEC59375.2023.10305887
+  ee: https://doi.org/10.1109/FMEC59375.2023.10305887
+  url: https://dblp.org/rec/conf/fmec/LindskogP23
