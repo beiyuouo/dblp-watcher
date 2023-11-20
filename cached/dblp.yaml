@@ -5808,3 +5808,16 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/FMEC59375.2023.10305887
   ee: https://doi.org/10.1109/FMEC59375.2023.10305887
   url: https://dblp.org/rec/conf/fmec/LindskogP23
+- author: "Mert Gen\xE7t\xFCrk"
+  title: "Privacy-preserving horizontal federated learning methodology through a novel\
+    \ boosting-based federated random forest algorithm (Yeni bir g\xFC\xE7lendirmeye\
+    \ dayal\u0131 birle\u015Fik rastgele orman algoritmas\u0131yla gizlili\u011Fi\
+    \ koruyan yatay birle\u015Fik \xF6\u011Frenim y\xF6ntemi)"
+  venue: ''
+  year: '2023'
+  type: Books and Theses
+  access: closed
+  key: phd/tr/Gencturk23
+  doi: ''
+  ee: https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=qkfx8O8Y9-zH-yfDwHN2KQ&amp;no=C0X1zezB2x3d2RT964bVYA
+  url: https://dblp.org/rec/phd/tr/Gencturk23
