@@ -3840,6 +3840,18 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TSIPN.2023.3325963
   ee: https://doi.org/10.1109/TSIPN.2023.3325963
   url: https://dblp.org/rec/journals/tsipn/GauthierGWHK23
+- author: Yuxiao Qu, Jinmeng Rao, Song Gao 0001, Qianheng Zhang, Wei-Lun Chao, Yu
+    Su, Michelle Miller 0006, Alfonso Morales, Patrick R. Huber
+  title: 'FLEE-GNN: A Federated Learning System for Edge-Enhanced Graph Neural Network
+    in Analyzing Geospatial Resilience of Multicommodity Food Flows.'
+  venue: GeoAI@SIGSPATIAL
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/geoai/QuR0ZCS0MH23
+  doi: 10.1145/3615886.3627742
+  ee: https://doi.org/10.1145/3615886.3627742
+  url: https://dblp.org/rec/conf/geoai/QuR0ZCS0MH23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
