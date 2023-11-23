@@ -3852,6 +3852,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1145/3615886.3627742
   ee: https://doi.org/10.1145/3615886.3627742
   url: https://dblp.org/rec/conf/geoai/QuR0ZCS0MH23
+- author: Maolin Wang, Dun Zeng, Zenglin Xu, Ruocheng Guo, Xiangyu Zhao
+  title: Federated Knowledge Graph Completion via Latent Embedding Sharing and Tensor
+    Factorization.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-10341
+  doi: 10.48550/ARXIV.2311.10341
+  ee: https://doi.org/10.48550/arXiv.2311.10341
+  url: https://dblp.org/rec/journals/corr/abs-2311-10341
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5833,3 +5844,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: ''
   ee: https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=qkfx8O8Y9-zH-yfDwHN2KQ&amp;no=C0X1zezB2x3d2RT964bVYA
   url: https://dblp.org/rec/phd/tr/Gencturk23
+- author: Shuai Wang, Yanqing Xu, Yanli Yuan, Xiuhua Wang 0009, Tony Q. S. Quek
+  title: Boosting Semi-Supervised Federated Learning with Model Personalization and
+    Client-Variance-Reduction.
+  venue: ICASSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icassp/WangXYWQ23
+  doi: 10.1109/ICASSP49357.2023.10096678
+  ee: https://doi.org/10.1109/ICASSP49357.2023.10096678
+  url: https://dblp.org/rec/conf/icassp/WangXYWQ23
