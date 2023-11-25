@@ -3863,6 +3863,39 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2311.10341
   ee: https://doi.org/10.48550/arXiv.2311.10341
   url: https://dblp.org/rec/journals/corr/abs-2311-10341
+- author: "Fran\xE7ois Gauthier 0002, Vinay Chakravarthi Gogineni, Stefan Werner 0001,\
+    \ Yih-Fang Huang, Anthony Kuh"
+  title: Personalized Graph Federated Learning With Differential Privacy.
+  venue: IEEE Trans. Signal Inf. Process. over Networks
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tsipn/GauthierGWHK23
+  doi: 10.1109/TSIPN.2023.3325963
+  ee: https://doi.org/10.1109/TSIPN.2023.3325963
+  url: https://dblp.org/rec/journals/tsipn/GauthierGWHK23
+- author: "Fran\xE7ois Gauthier 0002, Vinay Chakravarthi Gogineni, Stefan Werner 0001,\
+    \ Yih-Fang Huang, Anthony Kuh"
+  title: Personalized Graph Federated Learning with Differential Privacy.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2306-06399
+  doi: 10.48550/ARXIV.2306.06399
+  ee: https://doi.org/10.48550/arXiv.2306.06399
+  url: https://dblp.org/rec/journals/corr/abs-2306-06399
+- author: "Fran\xE7ois Gauthier 0002, Vinay Chakravarthi Gogineni, Stefan Werner 0001,\
+    \ Yih-Fang Huang, Anthony Kuh"
+  title: Clustered Graph Federated Personalized Learning.
+  venue: IEEECONF
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/acssc/GauthierGWHK22
+  doi: 10.1109/IEEECONF56349.2022.10051979
+  ee: https://doi.org/10.1109/IEEECONF56349.2022.10051979
+  url: https://dblp.org/rec/conf/acssc/GauthierGWHK22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
