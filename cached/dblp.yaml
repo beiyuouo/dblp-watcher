@@ -3917,6 +3917,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-981-99-8145-8_42
   ee: https://doi.org/10.1007/978-981-99-8145-8_42
   url: https://dblp.org/rec/conf/iconip/TianLLLQ23
+- author: "R\xE9mi Bourgerie, Tahar Zanouda"
+  title: Fault Detection in Telecom Networks using Bi-level Federated Graph Neural
+    Networks.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-14469
+  doi: 10.48550/ARXIV.2311.14469
+  ee: https://doi.org/10.48550/arXiv.2311.14469
+  url: https://dblp.org/rec/journals/corr/abs-2311-14469
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5909,3 +5920,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1109/ICASSP49357.2023.10096678
   ee: https://doi.org/10.1109/ICASSP49357.2023.10096678
   url: https://dblp.org/rec/conf/icassp/WangXYWQ23
+- author: Jian Zhang, Bowen Li, Jie Li 0002, Chentao Wu
+  title: 'SecureCut: Federated Gradient Boosting Decision Trees with Efficient Machine
+    Unlearning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-13174
+  doi: 10.48550/ARXIV.2311.13174
+  ee: https://doi.org/10.48550/arXiv.2311.13174
+  url: https://dblp.org/rec/journals/corr/abs-2311-13174
