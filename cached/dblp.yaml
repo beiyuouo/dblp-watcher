@@ -3928,6 +3928,17 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2311.14469
   ee: https://doi.org/10.48550/arXiv.2311.14469
   url: https://dblp.org/rec/journals/corr/abs-2311-14469
+- author: Yuanyi Liu, Renyu Zhang, Jia Chen
+  title: Is Averaging Always the Best? Improving Aggregation Method for Federated
+    Knowledge Graph Embedding.
+  venue: ICNSC
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/icnsc/LiuZC23
+  doi: 10.1109/ICNSC58704.2023.10318978
+  ee: https://doi.org/10.1109/ICNSC58704.2023.10318978
+  url: https://dblp.org/rec/conf/icnsc/LiuZC23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
