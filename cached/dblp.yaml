@@ -3939,6 +3939,18 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/ICNSC58704.2023.10318978
   ee: https://doi.org/10.1109/ICNSC58704.2023.10318978
   url: https://dblp.org/rec/conf/icnsc/LiuZC23
+- author: "Kai Li 0002, Jingjing Zheng, Xin Yuan 0004, Wei Ni 0001, \xD6zg\xFCr B.\
+    \ Akan, H. Vincent Poor"
+  title: 'Data-Agnostic Model Poisoning against Federated Learning: A Graph Autoencoder
+    Approach.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2311-18498
+  doi: 10.48550/ARXIV.2311.18498
+  ee: https://doi.org/10.48550/arXiv.2311.18498
+  url: https://dblp.org/rec/journals/corr/abs-2311-18498
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
