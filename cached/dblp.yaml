@@ -3963,6 +3963,30 @@ Federated graph|subgraph|gnn:
   doi: 10.18653/V1/2022.FINDINGS-EMNLP.43
   ee: https://doi.org/10.18653/v1/2022.findings-emnlp.43
   url: https://dblp.org/rec/conf/emnlp/ZhangWWHYC022
+- author: Hieu Nguyen Doan, Xuan-Tung Nguyen, Vinh-Quang Do, Won-Joo Hwang, Sang-Hwa
+    Chung, Jong-Deok Kim
+  title: Graph Neural Network-based Federated Learning for Sum-rate Maximization in
+    Small-cell Wireless Network.
+  venue: SoICT
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/soict/DoanNDHCK23
+  doi: 10.1145/3628797.3628826
+  ee: https://doi.org/10.1145/3628797.3628826
+  url: https://dblp.org/rec/conf/soict/DoanNDHCK23
+- author: Kai Zhang 0039, Yu Wang 0158, Hongyi Wang 0001, Lifu Huang, Carl Yang, Lichao
+    Sun 0001
+  title: Efficient Federated Learning on Knowledge Graphs via Privacy-preserving Relation
+    Embedding Aggregation.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2203-09553
+  doi: 10.48550/ARXIV.2203.09553
+  ee: https://doi.org/10.48550/arXiv.2203.09553
+  url: https://dblp.org/rec/journals/corr/abs-2203-09553
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
