@@ -3987,6 +3987,16 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2203.09553
   ee: https://doi.org/10.48550/arXiv.2203.09553
   url: https://dblp.org/rec/journals/corr/abs-2203-09553
+- author: Meilin Yang, Jian Xu, Wenbo Ding, Yang Liu 0165
+  title: Federated Capsule Graph Neural Network with Personalization.
+  venue: UbiComp/ISWC Adjunct
+  year: '2022'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/huc/YangXDL22
+  doi: 10.1145/3544793.3560411
+  ee: https://doi.org/10.1145/3544793.3560411
+  url: https://dblp.org/rec/conf/huc/YangXDL22
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -5990,3 +6000,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2311.13174
   ee: https://doi.org/10.48550/arXiv.2311.13174
   url: https://dblp.org/rec/journals/corr/abs-2311-13174
+- author: Hideaki Takahashi, Jingjing Liu, Yang Liu 0165
+  title: Eliminating Label Leakage in Tree-Based Vertical Federated Learning.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2307-10318
+  doi: 10.48550/ARXIV.2307.10318
+  ee: https://doi.org/10.48550/arXiv.2307.10318
+  url: https://dblp.org/rec/journals/corr/abs-2307-10318
