@@ -4094,6 +4094,27 @@ Federated graph|subgraph|gnn:
   doi: ''
   ee: https://arxiv.org/abs/2106.13430
   url: https://dblp.org/rec/journals/corr/abs-2106-13430
+- author: Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen 0002, Guandong Xu
+  title: Mitigating the performance sacrifice in DP-satisfied federated settings through
+    graph contrastive learning.
+  venue: Inf. Sci.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/YangZLCX23
+  doi: 10.1016/J.INS.2023.119552
+  ee: https://doi.org/10.1016/j.ins.2023.119552
+  url: https://dblp.org/rec/journals/isci/YangZLCX23
+- author: Haoran Yang, Xiangyu Zhao, Muyang Li, Hongxu Chen 0002, Guandong Xu
+  title: Federated Graph Contrastive Learning.
+  venue: CoRR
+  year: '2022'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2207-11836
+  doi: 10.48550/ARXIV.2207.11836
+  ee: https://doi.org/10.48550/arXiv.2207.11836
+  url: https://dblp.org/rec/journals/corr/abs-2207-11836
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
