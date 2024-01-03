@@ -4139,6 +4139,29 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.COMPMEDIMAG.2023.102313
   ee: https://doi.org/10.1016/j.compmedimag.2023.102313
   url: https://dblp.org/rec/journals/cmig/AhamedHNIIAH23
+- author: Taolin Zhang, Chengyuan Mai, Yaomin Chang, Chuan Chen 0001, Lin Shu, Zibin
+    Zheng
+  title: 'FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs.'
+  venue: ACM Trans. Knowl. Discov. Data
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/tkdd/ZhangMCCSZ24
+  doi: 10.1145/3624017
+  ee: https://doi.org/10.1145/3624017
+  url: https://dblp.org/rec/journals/tkdd/ZhangMCCSZ24
+- author: Xingjie Zeng, Tao Zhou, Zhicheng Bao, Hongwei Zhao, Leiming Chen, Xiao Wang
+    0002, Feiyue Wang 0001
+  title: 'Feature-Contrastive Graph Federated Learning: Responsible AI in Graph Information
+    Analysis.'
+  venue: IEEE Trans. Comput. Soc. Syst.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/tcss/ZengZBZCWW23
+  doi: 10.1109/TCSS.2022.3230987
+  ee: https://doi.org/10.1109/TCSS.2022.3230987
+  url: https://dblp.org/rec/journals/tcss/ZengZBZCWW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -6163,3 +6186,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2305.11654
   ee: https://doi.org/10.48550/arXiv.2305.11654
   url: https://dblp.org/rec/journals/corr/abs-2305-11654
+- author: Chun-Yu Hu, Li-Sha Hu, Lin Yuan, Dian-Jie Lu, Lei Lyu, Yi-Qiang Chen
+  title: 'FedIERF: Federated Incremental Extremely Random Forest for Wearable Health
+    Monitoring.'
+  venue: J. Comput. Sci. Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jcst/HuHYLLC23
+  doi: 10.1007/S11390-023-3009-0
+  ee: https://doi.org/10.1007/s11390-023-3009-0
+  url: https://dblp.org/rec/journals/jcst/HuHYLLC23
