@@ -6197,3 +6197,24 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/S11390-023-3009-0
   ee: https://doi.org/10.1007/s11390-023-3009-0
   url: https://dblp.org/rec/journals/jcst/HuHYLLC23
+- author: Chunyu Hu, Li-Sha Hu, Lin Yuan, Dian-Jie Lu, Lei Lyu, Yi-Qiang Chen
+  title: 'FedIERF: Federated Incremental Extremely Random Forest for Wearable Health
+    Monitoring.'
+  venue: J. Comput. Sci. Technol.
+  year: '2023'
+  type: Journal Articles
+  access: closed
+  key: journals/jcst/HuHYLLC23
+  doi: 10.1007/S11390-023-3009-0
+  ee: https://doi.org/10.1007/s11390-023-3009-0
+  url: https://dblp.org/rec/journals/jcst/HuHYLLC23
+- author: Alexandros Gkillas, Christos Anagnostopoulos, Aris S. Lalos
+  title: Deep Federated Unrolling for Boosting Low-Resolution Lidar-Based SLAM Solutions.
+  venue: MMSP
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/mmsp/GkillasAL23
+  doi: 10.1109/MMSP59012.2023.10337642
+  ee: https://doi.org/10.1109/MMSP59012.2023.10337642
+  url: https://dblp.org/rec/conf/mmsp/GkillasAL23
