@@ -4162,6 +4162,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1109/TCSS.2022.3230987
   ee: https://doi.org/10.1109/TCSS.2022.3230987
   url: https://dblp.org/rec/journals/tcss/ZengZBZCWW23
+- author: Xia Feng, Kaiye Li, Songze Wu, Yan Xin 0003
+  title: Enhancing the blockchain interoperability through federated learning with
+    directed acyclic graph.
+  venue: IET Blockchain
+  year: '2023'
+  type: Journal Articles
+  access: open
+  key: journals/iet-blc/FengLWX23
+  doi: 10.1049/BLC2.12033
+  ee: https://doi.org/10.1049/blc2.12033
+  url: https://dblp.org/rec/journals/iet-blc/FengLWX23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
@@ -6229,3 +6240,13 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.1007/S11390-023-3009-0
   ee: https://doi.org/10.1007/s11390-023-3009-0
   url: https://dblp.org/rec/journals/jcst/HuHYLLC23
+- author: Cheng-Wei Ching, Liting Hu
+  title: 'Decaffe: DHT Tree-Based Online Federated Fake News Detection.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-09547
+  doi: 10.48550/ARXIV.2312.09547
+  ee: https://doi.org/10.48550/arXiv.2312.09547
+  url: https://dblp.org/rec/journals/corr/abs-2312-09547
