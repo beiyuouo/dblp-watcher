@@ -4173,6 +4173,17 @@ Federated graph|subgraph|gnn:
   doi: 10.1049/BLC2.12033
   ee: https://doi.org/10.1049/blc2.12033
   url: https://dblp.org/rec/journals/iet-blc/FengLWX23
+- author: Zhicheng Yang, Xiaoliang Fan, Zheng Wang, Zihui Wang, Cheng Wang
+  title: A Robust Detection and Correction Framework for GNN-Based Vertical Federated
+    Learning.
+  venue: PRCV
+  year: '2023'
+  type: Conference and Workshop Papers
+  access: closed
+  key: conf/prcv/YangFWWW23
+  doi: 10.1007/978-981-99-8435-0_8
+  ee: https://doi.org/10.1007/978-981-99-8435-0_8
+  url: https://dblp.org/rec/conf/prcv/YangFWWW23
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
