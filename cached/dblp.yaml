@@ -6261,3 +6261,14 @@ federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
   doi: 10.48550/ARXIV.2312.09547
   ee: https://doi.org/10.48550/arXiv.2312.09547
   url: https://dblp.org/rec/journals/corr/abs-2312-09547
+- author: Hanchi Ren, Jingjing Deng 0001, Xianghua Xie, Xiaoke Ma, Yichuan Wang
+  title: 'FedBoosting: Federated learning with gradient protected boosting for text
+    recognition.'
+  venue: Neurocomputing
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/ijon/RenDXMW24
+  doi: 10.1016/J.NEUCOM.2023.127126
+  ee: https://doi.org/10.1016/j.neucom.2023.127126
+  url: https://dblp.org/rec/journals/ijon/RenDXMW24
