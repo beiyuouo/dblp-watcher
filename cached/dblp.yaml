@@ -4184,6 +4184,16 @@ Federated graph|subgraph|gnn:
   doi: 10.1007/978-981-99-8435-0_8
   ee: https://doi.org/10.1007/978-981-99-8435-0_8
   url: https://dblp.org/rec/conf/prcv/YangFWWW23
+- author: Chuan Chen 0001, Ziyue Xu 0002, Weibo Hu, Zibin Zheng, Jie Zhang
+  title: 'FedGL: Federated graph learning framework with global self-supervision.'
+  venue: Inf. Sci.
+  year: '2024'
+  type: Journal Articles
+  access: closed
+  key: journals/isci/ChenXHZZ24
+  doi: 10.1016/J.INS.2023.119976
+  ee: https://doi.org/10.1016/j.ins.2023.119976
+  url: https://dblp.org/rec/journals/isci/ChenXHZZ24
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
