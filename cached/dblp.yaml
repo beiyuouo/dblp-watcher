@@ -4194,6 +4194,16 @@ Federated graph|subgraph|gnn:
   doi: 10.1016/J.INS.2023.119976
   ee: https://doi.org/10.1016/j.ins.2023.119976
   url: https://dblp.org/rec/journals/isci/ChenXHZZ24
+- author: Nimesh Agrawal, Anuj Kumar Sirohi, Jayadeva, Sandeep Kumar
+  title: No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-10080
+  doi: 10.48550/ARXIV.2312.10080
+  ee: https://doi.org/10.48550/arXiv.2312.10080
+  url: https://dblp.org/rec/journals/corr/abs-2312-10080
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
