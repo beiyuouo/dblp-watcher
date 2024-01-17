@@ -4204,6 +4204,16 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2312.10080
   ee: https://doi.org/10.48550/arXiv.2312.10080
   url: https://dblp.org/rec/journals/corr/abs-2312-10080
+- author: Wei Tang, Zhiqian Wu, Yixin Cao 0001, Yong Liao, Pengyuan Zhou
+  title: 'FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-10645
+  doi: 10.48550/ARXIV.2312.10645
+  ee: https://doi.org/10.48550/arXiv.2312.10645
+  url: https://dblp.org/rec/journals/corr/abs-2312-10645
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
