@@ -4214,6 +4214,28 @@ Federated graph|subgraph|gnn:
   doi: 10.48550/ARXIV.2312.10645
   ee: https://doi.org/10.48550/arXiv.2312.10645
   url: https://dblp.org/rec/journals/corr/abs-2312-10645
+- author: Chengzhe Piao, Ken Li
+  title: 'Blood Glucose Level Prediction: A Graph-based Explainable Method with Federated
+    Learning.'
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-12541
+  doi: 10.48550/ARXIV.2312.12541
+  ee: https://doi.org/10.48550/arXiv.2312.12541
+  url: https://dblp.org/rec/journals/corr/abs-2312-12541
+- author: Chenglu Pan, Jiarong Xu, Yue Yu, Ziqi Yang, Qingbiao Wu, Chunping Wang,
+    Lei Chen, Yang Yang 0009
+  title: Towards Fair Graph Federated Learning via Incentive Mechanisms.
+  venue: CoRR
+  year: '2023'
+  type: Informal and Other Publications
+  access: open
+  key: journals/corr/abs-2312-13306
+  doi: 10.48550/ARXIV.2312.13306
+  ee: https://doi.org/10.48550/arXiv.2312.13306
+  url: https://dblp.org/rec/journals/corr/abs-2312-13306
 federate tree|boost|bagging|gbdt|tabular|forest|XGBoost:
 - author: Fuki Yamamoto, Seiichi Ozawa, Lihua Wang 0001
   title: 'eFL-Boost: Efficient Federated Learning for Gradient Boosting Decision Trees.'
